@@ -1,58 +1,82 @@
 import { superValidate } from 'sveltekit-superforms';
 import { zod4 } from 'sveltekit-superforms/adapters';
+import { error } from '@sveltejs/kit';
+
 import { edit, editGallery } from './schema';
 
 import { db } from '$lib/server/db';
 import {
-	blog as event,
-	blogGallery as productImages,
+	blog,
+	blogGallery,
 	blogCategories,
+	ministryAreas,
+	teamMembers,
 	user
 } from '$lib/server/db/schema';
-import { eq, sql, getTableColumns } from 'drizzle-orm';
+import { eq, asc, getTableColumns } from 'drizzle-orm';
+import { alias } from 'drizzle-orm/mysql-core';
+
 import type { LayoutServerLoad } from './$types';
 
+/* teamMembers and user are each joined twice, so they need aliases. */
+const author = alias(teamMembers, 'author');
+const speaker = alias(teamMembers, 'speaker');
+const creator = alias(user, 'creator');
+const editor = alias(user, 'editor');
+
 export const load: LayoutServerLoad = async ({ params }) => {
-	const { id } = params;
+	const id = Number(params.id);
 
-	const result = await db
-		.select({
-			url: productImages.imageUrl
-		})
-		.from(productImages)
-		.where(eq(productImages.blogId, Number(id)));
-
-	const images = result.map((img) => img.url);
-
-	const cats = await db
-		.select({
-			value: blogCategories.id,
-			name: blogCategories.name
-		})
-		.from(blogCategories);
+	if (!Number.isInteger(id)) error(400, 'Invalid blog id');
 
 	const product = await db
 		.select({
-			...getTableColumns(event),
+			...getTableColumns(blog),
 			categoryName: blogCategories.name,
-			category: blogCategories.id,
-			createdBy: user.name
+			ministryAreaName: ministryAreas.name,
+			authorName: author.name,
+			speakerName: speaker.name,
+			createdByName: creator.name,
+			updatedByName: editor.name
 		})
-		.from(event)
-		.leftJoin(blogCategories, eq(event.categoryId, blogCategories.id))
-		.leftJoin(user, eq(event.createdBy, user.id))
-		.where(eq(event.id, Number(id)))
+		.from(blog)
+		.leftJoin(blogCategories, eq(blog.categoryId, blogCategories.id))
+		.leftJoin(ministryAreas, eq(blog.ministryAreaId, ministryAreas.id))
+		.leftJoin(author, eq(blog.authorId, author.id))
+		.leftJoin(speaker, eq(blog.speakerId, speaker.id))
+		.leftJoin(creator, eq(blog.createdBy, creator.id))
+		.leftJoin(editor, eq(blog.updatedBy, editor.id))
+		.where(eq(blog.id, id))
 		.limit(1)
 		.then((rows) => rows[0]);
 
-	const form = await superValidate(product, zod4(edit));
-	const galleryEdit = await superValidate(zod4(editGallery));
+	if (!product) error(404, 'Blog post not found');
 
-	return {
-		product,
-		form,
-		images,
-		galleryEdit,
-		cats
-	};
+	const images = await db
+		.select({ url: blogGallery.imageUrl })
+		.from(blogGallery)
+		.where(eq(blogGallery.blogId, id))
+		.orderBy(asc(blogGallery.sortOrder), asc(blogGallery.id))
+		.then((rows) => rows.map((r) => r.url).filter((u): u is string => !!u));
+
+	const [cats, areas, people] = await Promise.all([
+		db
+			.select({ value: blogCategories.id, name: blogCategories.name })
+			.from(blogCategories)
+			.orderBy(asc(blogCategories.name)),
+		db
+			.select({ value: ministryAreas.id, name: ministryAreas.name })
+			.from(ministryAreas)
+			.orderBy(asc(ministryAreas.name)),
+		db
+			.select({ value: teamMembers.id, name: teamMembers.name })
+			.from(teamMembers)
+			.where(eq(teamMembers.isPublished, true))
+			.orderBy(asc(teamMembers.sortOrder), asc(teamMembers.name))
+	]);
+
+	const form = await superValidate(product, zod4(edit));
+	const galleryEdit = await superValidate({ existing: images }, zod4(editGallery));
+
+	return { product, form, images, galleryEdit, cats, areas, people };
 };

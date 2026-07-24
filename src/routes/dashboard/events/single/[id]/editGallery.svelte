@@ -51,7 +51,7 @@
 			{errors}
 			type="gallery"
 			name="gallery"
-			label="Blog Gallery"
+			label="Event Gallery"
 			placeholder="Edit and upload new gallery images"
 			bind:images
 		/>
