@@ -1,0 +1,34 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1784811295904,
+      "tag": "0000_magical_gideon",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1784816385419,
+      "tag": "0001_harsh_storm",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1784816847053,
+      "tag": "0002_glorious_sphinx",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1784817616470,
+      "tag": "0003_quiet_boom_boom",
+      "breakpoints": true
+    }
+  ]
+}
