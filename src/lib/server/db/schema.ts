@@ -570,8 +570,6 @@ export const paymentMethods = mysqlTable('payment_methods', {
 	name: varchar('name', { length: 100 }).notNull().unique(),
 	description: varchar('description', { length: 255 }),
 	logo: varchar('logo', { length: 255 }),
-	isOnline: boolean('is_online').default(false), // gateway vs manual transfer
-	sortOrder: int('sort_order').default(0),
 	...secureFields
 });
 

@@ -131,6 +131,9 @@
 	"header_nav_contact_us": "ያግኙን",
 	"header_nav_orders": "ልገሳዎች",
 	"header_nav_account": "መለያ",
+	"header_nav_books": "መጽሃፎች",
+	"header_nav_events": "መርሐ ግብሮች",
+	"header_nav_gallery": "የፎቶ መዝገብ",
 	"header_search": "ፈልጉ",
 	"header_search_placeholder": "ጽሑፎችን፣ መጻሕፍትን፣ ስብከቶችን ይፈልጉ...",
 
@@ -240,15 +243,70 @@
 	"about_page_testimonials_description": "በስልጠናዎቻችን እና በምክር አገልግሎታችን ህይወታቸው ከተነካ ግለሰቦች፣ ፓስተሮች እና ቤተሰቦች የተገኘ እውነተኛ አስተያየት።",
 
 	"BLOG PAGE": "ትምህርቶች እና ጽሑፎች",
-	"blog_meta_title": "ትምህርቶች እና ጽሑፎች | ባለ አደራዎች ነን",
-	"blog_meta_description": "ስለ ትዳር ምክር፣ የህይወት ዓላማ ፍለጋ፣ ስሜታዊ ብልህነት እና አገልጋይ መሪነት የተጻፉ ጽሑፎችን ያንብቡ።",
+
 	"blog_meta_keywords": "ባለ አደራዎች ነን ብሎግ, ክርስቲያናዊ ስብከቶች, የትዳር ምክር ኢትዮጵያ, የህይወት ዓላማ",
 	"blog_og_description": "መንፈሳዊ መመሪያዎችን፣ የመሪነት ጽሑፎችን እና የስብከት ዓበይት ነጥቦችን እዚህ ያግኙ።",
 	"blog_twitter_description": "ጠቃሚ መጽሐፍ ቅዱሳዊ የአመራር መመሪያዎች፣ የቤተሰብ እሴቶች እና የምክር አገልግሎት ግብዓቶች።",
-	"blog_search_placeholder": "ጽሑፎችን ወይም ስብከቶችን ይፈልጉ",
 	"blog_showing": "እየታዩ ያሉት",
 	"blog_article_singular": "ትምህርት",
 	"blog_article_plural": "ትምህርቶች",
+      "blog_meta_title": "ግብዓቶች — ስቴዋርድ ኦፍ ላይፍ",
+  "blog_meta_description": "ስለ አገልጋይ አመራር፣ ስለ ወጣቶች እድገትና ስለ ክርስቲያናዊ ትዳር የተዘጋጁ ጽሑፎች፣ ስብከቶች፣ ትምህርቶችና የመጽሐፍ ቅዱስ ጥናቶች።",
+  "blog_badge": "ግብዓቶች",
+  "blog_heading": "መሪዎችንና ቤተሰቦችን የሚያጠናክር ትምህርት",
+  "blog_description": "አገልጋይ መሪዎችን ለማፍራት፣ ወጣቶችን ለማብቃትና ክርስቲያናዊ ትዳሮችን ለማጠናከር በቡድናችን የተዘጋጁ ጽሑፎች፣ ስብከቶች፣ ትምህርቶችና ጥናቶች።",
+  "blog_search_placeholder": "በርዕስ፣ በማጠቃለያ ወይም በመጽሐፍ ቅዱስ ጥቅስ ይፈልጉ",
+  "blog_all_types": "ሁሉም ግብዓቶች",
+  "blog_all_categories": "ሁሉም ምድቦች",
+  "blog_all_areas": "ሁሉም የአገልግሎት ዘርፎች",
+  "blog_all_tags": "ሁሉም መለያዎች",
+  "blog_type_article": "ጽሑፍ",
+  "blog_type_sermon": "ስብከት",
+  "blog_type_teaching": "ትምህርት",
+  "blog_type_video": "ቪዲዮ",
+  "blog_type_audio": "ድምፅ",
+  "blog_type_bible_study": "የመጽሐፍ ቅዱስ ጥናት",
+  "blog_sort_newest": "አዲሶቹ መጀመሪያ",
+  "blog_sort_oldest": "የቀድሞዎቹ መጀመሪያ",
+  "blog_sort_popular": "በብዛት የተነበቡ",
+  "blog_sort_title": "በፊደል ተራ",
+  "blog_results_count": "{count} ግብዓቶች",
+  "blog_clear_filters": "ማጣሪያዎችን አጽዳ",
+  "blog_featured": "ተመራጭ",
+  "blog_by": "በ",
+  "blog_min_read": "{minutes} ደቂቃ ንባብ",
+  "blog_read_more": "ሙሉውን ያንብቡ",
+  "blog_empty_title": "ከእነዚህ ማጣሪያዎች ጋር የሚስማማ ግብዓት የለም",
+  "blog_empty_description": "ሌላ የፍለጋ ቃል ይሞክሩ፣ ወይም ሁሉንም ግብዓቶች ለማየት ማጣሪያዎቹን ያጽዱ።",
+  "blog_pagination_label": "የግብዓት ገጾች",
+  "blog_previous": "ቀዳሚ",
+  "blog_next": "ቀጣይ",
+  "blog_page_of": "ገጽ {current} ከ{total}",
+
+    "post_back_to_resources": "ሁሉም ግብዓቶች",
+  "post_bible_references": "የመጽሐፍ ቅዱስ ጥቅሶች",
+  "post_tags_title": "መለያዎች",
+  "post_gallery_title": "ከዚህ መርሐ ግብር",
+  "post_outline_title": "በዚህ ግብዓት ውስጥ",
+  "post_listen_title": "ይህን ግብዓት ያዳምጡ",
+  "post_download": "ያውርዱ",
+  "post_author_title": "ጸሐፊ",
+  "post_share_title": "ያጋሩ",
+  "post_share_copy": "አገናኙን ቅዳ",
+  "post_share_copied": "አገናኙ ተቀድቷል",
+  "post_share_copy_failed": "አሳሹ መቅዳቱን አግዶታል። ከአድራሻ ሳጥኑ ላይ ይቅዱ።",
+  "post_related_title": "ንባብዎን ይቀጥሉ",
+  "post_related_books_title": "በዚህ ጉዳይ ላይ የተጻፉ መጻሕፍት",
+  "post_previous": "ቀደም ያለው",
+  "post_next": "ቀጥሎ የመጣው",
+  "post_error_title": "ይህ ግብዓት አልተገኘም",
+  "post_error_description": "አገናኙ የተሳሳተ ሊሆን ይችላል፣ ወይም ጽሑፉ ገና አልታተመም።",
+  "post_error_back": "ወደ ሁሉም ግብዓቶች ተመለስ",
+
+
+
+
+
 	"portfolio_hero_badge": "የአገልግሎቱ ግንዛቤዎች",
 	"portfolio_hero_title": "መንፈስዎን እና የአመራር ክህሎትዎን ያሳድጉ።",
 	"portfolio_hero_description": "ስለ ሙያ ክህሎት፣ ስለ ቤተሰብ ጤንነት፣ ስለ ስብዕና ግንባታ እና ስለ ግልጽ ክርስቲያናዊ ህይወት መመሪያዎችን ያግኙ።",
@@ -690,5 +748,449 @@
   "vmv_value_excellence_body": "በሥራችን፣ በንግግራችንና በተግባራችን እግዚአብሔርን እንደምንወክል በማወቅ በልቀት እናገለግላለን።",
 
   "vmv_value_transform_title": "ለውጥ",
-  "vmv_value_transform_body": "በሥራ ቦታዎች፣ በወጣቶችና በጋብቻ ውስጥ የአመራር ለውጥ እንዲመጣ እንተጋለን።"
+  "vmv_value_transform_body": "በሥራ ቦታዎች፣ በወጣቶችና በጋብቻ ውስጥ የአመራር ለውጥ እንዲመጣ እንተጋለን።",
+
+
+
+
+	"events_meta_title": "መርሐ ግብሮች — ስቴዋርድ ኦፍ ላይፍ",
+	"events_meta_description": "ስለ አገልጋይ አመራር፣ ስለ ወጣቶች እድገትና ስለ ክርስቲያናዊ ትዳር የሚዘጋጁ ጉባኤዎች፣ ወርክሾፖች፣ ሪትሪቶችና ስልጠናዎች።",
+	"events_badge": "መርሐ ግብሮች",
+	"events_heading": "ይምጡ፤ ይታጠቁ",
+	"events_description": "መሪዎች፣ ወጣቶችና ባለትዳሮች የሚታነጹባቸው ጉባኤዎች፣ ሪትሪቶች፣ ወርክሾፖችና ስልጠናዎች — በአዲስ አበባና በኦንላይን።",
+
+	"events_search_placeholder": "በስም፣ በመግለጫ ወይም በቦታ ይፈልጉ",
+
+	"events_when_upcoming": "የሚመጡ",
+	"events_when_past": "ያለፉ",
+	"events_when_all": "ሁሉም",
+
+	"events_all_types": "ሁሉም መርሐ ግብሮች",
+	"events_all_areas": "ሁሉም የአገልግሎት ዘርፎች",
+	"events_free_only": "ነፃ የሆኑ ብቻ",
+
+	"events_type_conference": "ጉባኤ",
+	"events_type_workshop": "ወርክሾፕ",
+	"events_type_retreat": "ሪትሪት",
+	"events_type_training": "ስልጠና",
+	"events_type_seminar": "ሴሚናር",
+	"events_type_other": "ሌላ",
+
+	"events_format_all": "በአካልና በኦንላይን",
+	"events_format_in_person": "በአካል",
+	"events_format_online": "በኦንላይን",
+
+	"events_sort_soonest": "በቅርቡ የሚደረጉ መጀመሪያ",
+	"events_sort_latest": "የቅርብ ጊዜዎቹ መጀመሪያ",
+	"events_sort_name": "በፊደል ተራ",
+
+	"events_results_count": "{count} መርሐ ግብሮች",
+	"events_clear_filters": "ማጣሪያዎችን አጽዳ",
+
+	"events_next_up": "በቀጣይ",
+	"events_countdown_days": "ቀናት",
+	"events_countdown_hours": "ሰዓት",
+	"events_countdown_minutes": "ደቂቃ",
+	"events_countdown_seconds": "ሰከንድ",
+
+	"events_register": "ይመዝገቡ",
+	"events_view_details": "ዝርዝሩን ይመልከቱ",
+	"events_speakers_label": "አቅራቢዎች",
+
+	"events_online_label": "በኦንላይን",
+	"events_free_label": "ነፃ",
+	"events_seats_left": "{count} ቦታዎች ቀርተዋል",
+	"events_sold_out": "ቦታው ሞልቷል",
+
+	"events_status_cancelled": "ተሰርዟል",
+	"events_status_happening_now": "አሁን በመካሄድ ላይ",
+
+	"events_empty_title": "ከእነዚህ ማጣሪያዎች ጋር የሚስማማ መርሐ ግብር የለም",
+	"events_empty_description": "ሌላ ፍለጋ ይሞክሩ፣ ወይም ያለፉትን መርሐ ግብሮች ይመልከቱ።",
+
+	"events_pagination_label": "የመርሐ ግብር ገጾች",
+	"events_previous": "ቀዳሚ",
+	"events_next": "ቀጣይ",
+	"events_page_of": "ገጽ {current} ከ{total}",
+
+	
+	"event_back_to_events": "ሁሉም መርሐ ግብሮች",
+
+	"event_about_title": "ስለዚህ መርሐ ግብር",
+	"event_speakers_title": "አቅራቢዎች",
+	"event_role_speaker": "አቅራቢ",
+	"event_role_host": "አስተናጋጅ",
+	"event_role_panelist": "የፓናል ተሳታፊ",
+	"event_role_facilitator": "አመቻች",
+
+	"event_downloads_title": "የጊዜ ሰሌዳና ሰነዶች",
+	"event_location_title": "የሚካሄድበት ቦታ",
+	"event_online_note": "ይህ መርሐ ግብር በኦንላይን ይካሄዳል። የመግቢያ አገናኙ ከመጀመሩ በፊት ለተመዘገቡ ተሳታፊዎች ይላካል።",
+	"event_join_online": "አሁን ይግቡ",
+	"event_gallery_title": "ከዚህ መርሐ ግብር",
+
+	"event_when_label": "ቀን",
+	"event_until": "እስከ",
+	"event_time_label": "ሰዓት",
+	"event_where_label": "ቦታ",
+	"event_cost_label": "ክፍያ",
+	"event_per_seat": "ለአንድ ሰው",
+	"event_seats_label": "ቦታዎች",
+	"event_deadline_note": "ምዝገባ በ{date} ይዘጋል።",
+	"event_add_to_calendar": "ወደ ካላንደር ጨምር",
+
+	"event_register_title": "ቦታዎን ያስይዙ",
+	"event_form_name_label": "ሙሉ ስም",
+	"event_form_name_placeholder": "በዝርዝሩ ላይ እንዲሰፍር የሚፈልጉት ስም",
+	"event_form_email_label": "ኢሜይል",
+	"event_form_email_placeholder": "you@example.com",
+	"event_form_phone_label": "ስልክ",
+	"event_form_phone_placeholder": "+251 9…",
+	"event_form_organization_label": "ቤተ ክርስቲያን ወይም ተቋም",
+	"event_form_organization_placeholder": "አማራጭ",
+	"event_form_seats_label": "የቦታ ብዛት",
+	"event_form_seats_decrease": "አንድ ቦታ ቀንስ",
+	"event_form_seats_increase": "አንድ ቦታ ጨምር",
+	"event_form_payment_label": "የክፍያ መንገድ",
+	"event_form_notes_label": "ልናውቀው የሚገባ ነገር",
+	"event_form_notes_placeholder": "የምግብ ፍላጎት፣ የተደራሽነት ጉዳይ፣ ከቤተሰብ ጋር መምጣት…",
+	"event_total_label": "ጠቅላላ",
+	"event_form_loading": "ቦታዎ እየተያዘ ነው",
+	"event_form_submit_free": "ይመዝገቡ",
+	"event_form_submit_paid": "ቦታ ያስይዙ",
+
+	"event_registered_title": "በዝርዝሩ ላይ ተመዝግበዋል",
+
+	"event_cancelled_title": "ይህ መርሐ ግብር ተሰርዟል",
+	"event_cancelled_description": "ቀደም ብለው ተመዝግበው ከነበረ ያግኙን፤ ቦታዎን ወይም ተመላሽ ገንዘብዎን እናስተካክላለን።",
+
+	"event_finished_title": "ይህ መርሐ ግብር ተጠናቅቋል",
+	"event_finished_description": "ፎቶዎቹና ሰነዶቹ በዚህ ገጽ ላይ ይቆያሉ። በሚቀጥለው ይጠብቁን።",
+	"event_see_upcoming": "የሚመጡ መርሐ ግብሮችን ይመልከቱ",
+
+	"event_no_registration_title": "ምዝገባ አያስፈልግም",
+	"event_no_registration_description": "እንዳሉ ይምጡ — በተጠቀሰው ሰዓት በሩ ክፍት ይሆናል።",
+
+	"event_sold_out_description": "ሁሉም ቦታ ተይዟል። በተጠባባቂ ዝርዝር ለመግባት ያግኙን።",
+
+	"event_closed_title": "ምዝገባው ተዘግቷል",
+	"event_closed_description": "የዚህ መርሐ ግብር የምዝገባ ጊዜ አልፏል። አሁንም ለመሳተፍ ከፈለጉ ያግኙን።",
+
+	"event_payment_title": "የባንክ ዝውውር መረጃ",
+	"event_payment_description": "ከተመዘገቡ በኋላ ቦታዎ ተይዞ ይቆያል። ጠቅላላውን ክፍያ ወደ ከታች ወደተጠቀሰው ሒሳብ ያስተላልፉና ደረሰኙን ይላኩልን — ክፍያው እንደደረሰ ቦታዎን እናረጋግጣለን።",
+	"event_payment_copied": "የሒሳብ ቁጥሩ ተቀድቷል",
+
+	"event_organizer_label": "አዘጋጅ",
+	"event_related_title": "ሌሎች የሚመጡ መርሐ ግብሮች",
+
+	
+	"books_meta_title": "መጻሕፍት — ስቴዋርድ ኦፍ ላይፍ",
+	"books_meta_description": "ስለ አገልጋይ አመራር፣ ስለ ወጣቶች እድገትና ስለ ክርስቲያናዊ ትዳር በአማርኛና በእንግሊዝኛ የተጻፉ መጻሕፍት።",
+	"books_badge": "መጻሕፍት",
+	"books_heading": "መሪዎችንና ቤቶችን የሚገነቡ መጻሕፍት",
+	"books_description": "ለአገልጋዮች፣ ለባለትዳሮችና ለወጣት መሪዎች የተጻፉ — በአማርኛና በእንግሊዝኛ፤ በኅትመት፣ በPDF፣ በኢ-መጽሐፍና በድምፅ።",
+
+	"books_search_placeholder": "በርዕስ፣ በጸሐፊ ወይም በጉዳይ ይፈልጉ",
+
+	"books_all_languages": "ሁሉም ቋንቋዎች",
+	"books_all_formats": "ሁሉም ቅርጸቶች",
+	"books_all_areas": "ሁሉም የአገልግሎት ዘርፎች",
+
+	"books_language_english": "እንግሊዝኛ",
+	"books_language_amharic": "አማርኛ",
+	"books_language_other": "ሌላ",
+
+	"books_format_physical": "ኅትመት",
+	"books_format_pdf": "PDF",
+	"books_format_ebook": "ኢ-መጽሐፍ",
+	"books_format_audiobook": "የድምፅ መጽሐፍ",
+
+	"books_access_all": "ሁሉም",
+	"books_access_free": "በነፃ የሚነበቡ",
+	"books_access_paid": "ለሽያጭ",
+
+	"books_sort_newest": "አዲሶቹ መጀመሪያ",
+	"books_sort_title": "በፊደል ተራ",
+	"books_sort_rating": "ከፍተኛ ደረጃ ያገኙ",
+	"books_sort_price_low": "ዋጋ፣ ከዝቅተኛ ወደ ከፍተኛ",
+	"books_sort_price_high": "ዋጋ፣ ከከፍተኛ ወደ ዝቅተኛ",
+
+	"books_results_count": "{count} መጻሕፍት",
+	"books_clear_filters": "ማጣሪያዎችን አጽዳ",
+
+	"books_featured": "ተመራጭ",
+	"books_by": "በ",
+	"books_review_count": "{count} አስተያየቶች",
+	"books_view_book": "መጽሐፉን ይክፈቱ",
+	"books_free_download": "በነፃ ይውረድ",
+	"books_free_label": "ነፃ",
+	"books_price_on_request": "ዋጋውን ይጠይቁን",
+
+	"books_empty_title": "ከእነዚህ ማጣሪያዎች ጋር የሚስማማ መጽሐፍ የለም",
+	"books_empty_description": "ሌላ ፍለጋ ይሞክሩ፣ ወይም ሁሉንም መጻሕፍት ለማየት ማጣሪያዎቹን ያጽዱ።",
+
+	"books_pagination_label": "የመጻሕፍት ገጾች",
+	"books_previous": "ቀዳሚ",
+	"books_next": "ቀጣይ",
+	"books_page_of": "ገጽ {current} ከ{total}",
+
+
+	
+	"book_back_to_books": "ሁሉም መጻሕፍት",
+
+	"book_price_label": "ዋጋ",
+	"book_download_format": "{format} ያውርዱ",
+	"book_buy_external": "ከመደብሩ ይግዙ",
+	"book_read_preview": "ናሙና ያንብቡ",
+	"book_formats_title": "የሚገኙ ቅርጸቶች",
+
+	"book_order_button": "ይህን መጽሐፍ ያዙ",
+	"book_order_loading": "ትዕዛዝዎ እየተመዘገበ ነው",
+	"book_order_note": "ስለ ክፍያና ስለ አቅርቦት ለመነጋገር እናገኝዎታለን። እዚህ ላይ ምንም ክፍያ አይፈጸምም።",
+	"book_order_placed_title": "ትዕዛዝዎ ተመዝግቧል",
+	"book_out_of_stock": "አሁን አልቋል — በቅርቡ ይመለሱ",
+	"book_total_label": "ጠቅላላ",
+	"book_quantity_decrease": "አንድ ቅጂ ቀንስ",
+	"book_quantity_increase": "አንድ ቅጂ ጨምር",
+
+	"book_published_label": "የታተመበት",
+	"book_pages_label": "ገጾች",
+	"book_about_title": "ስለዚህ መጽሐፍ",
+	"book_author_title": "ስለ ጸሐፊው",
+	"book_resources_title": "ከዚህ መጽሐፍ ጋር የሚነበቡ",
+
+	"book_reviews_title": "አንባቢዎች ምን አሉ",
+	"book_write_review": "አስተያየት ይጻፉ",
+	"book_review_form_title": "ያሰቡትን ያካፍሉ",
+	"book_review_rating_label": "የእርስዎ ደረጃ",
+	"book_review_name_label": "ስምዎ",
+	"book_review_name_placeholder": "እንዲጠቀስ የሚፈልጉት ስም",
+	"book_review_email_label": "ኢሜይል",
+	"book_review_email_placeholder": "አማራጭ — ልናገኝዎ እንድንችል ብቻ",
+	"book_review_headline_label": "ርዕስ",
+	"book_review_headline_placeholder": "በአንድ መስመር ያጠቃልሉት",
+	"book_review_content_label": "አስተያየትዎ",
+	"book_review_content_placeholder": "ምን ነካዎት? ማን ሊያነበው ይገባል?",
+	"book_review_submit": "አስተያየት ይላኩ",
+	"book_review_loading": "አስተያየትዎ እየተላከ ነው",
+	"book_review_moderation_note": "አስተያየቶች በገጹ ላይ ከመታየታቸው በፊት በቡድናችን ይነበባሉ።",
+	"book_review_thanks_title": "አስተያየትዎ ደርሶናል",
+
+	"book_no_reviews_title": "እስካሁን አስተያየት የለም",
+	"book_no_reviews_description": "ይህ መጽሐፍ ያደረገልዎትን ለሌሎች የመጀመሪያው ሆነው ይንገሩ።",
+
+	"book_also_title": "ተመሳሳይ መጻሕፍት",
+	"book_see_all": "ሁሉንም መጻሕፍት ይመልከቱ",
+
+
+	  "projects_meta_title": "ፕሮጀክቶች — ስቴዋርድ ኦፍ ላይፍ",
+  "projects_meta_description": "በኢትዮጵያ ውስጥ ከቤተሰቦች፣ ከወጣቶችና ከቤተ ክርስቲያን መሪዎች ጋር የምንሠራው ሥራ — ወጪው፣ ተጠቃሚዎቹና እንዴት መተባበር እንደሚቻል።",
+  "projects_badge": "ፕሮጀክቶች",
+  "projects_heading": "ሥራው፣ በአንድ ጊዜ አንድ ቤተሰብ",
+  "projects_description": "ከዚህ በታች ያለው እያንዳንዱ ፕሮጀክት ግብ፣ ቦታና የሚያገለግላቸው ሰዎች አሉት። የደረሰበትን ይመልከቱ፤ አብረውት ይቁሙ።",
+  "projects_stat_projects": "ፕሮጀክቶች",
+  "projects_stat_reached": "የተደረሱ ሰዎች",
+  "projects_stat_raised": "እስካሁን የተሰበሰበ",
+  "projects_search_placeholder": "በስም፣ በቦታ ወይም በተጠቃሚዎች ይፈልጉ",
+  "projects_all_statuses": "ሁሉም",
+  "projects_all_areas": "ሁሉም የአገልግሎት ዘርፎች",
+  "projects_status_planned": "የታቀደ",
+  "projects_status_active": "በሂደት ላይ",
+  "projects_status_paused": "የቆመ",
+  "projects_status_completed": "የተጠናቀቀ",
+  "projects_support_label": "ድጋፍ",
+  "projects_support_any": "በማንኛውም መንገድ",
+  "projects_support_donations": "ይለግሱ",
+  "projects_support_volunteers": "በበጎ ፈቃድ ያገልግሉ",
+  "projects_support_prayer": "ይጸልዩ",
+  "projects_sort_newest": "አዲሶቹ መጀመሪያ",
+  "projects_sort_name": "በፊደል ተራ",
+  "projects_sort_funding": "ብዙ ገንዘብ የተሰበሰበላቸው",
+  "projects_sort_reach": "ብዙ ሰዎች የደረሱባቸው",
+  "projects_results_count": "{count} ፕሮጀክቶች",
+  "projects_clear_filters": "ማጣሪያዎችን አጽዳ",
+  "projects_view_project": "ፕሮጀክቱን ይመልከቱ",
+  "projects_reached_count": "{count} ሰዎች ተደርሰዋል",
+  "projects_reach_progress": "ከ{target} ሰዎች {reached} ተደርሰዋል",
+  "projects_of_goal": "ከ{goal}",
+  "projects_empty_title": "ከእነዚህ ማጣሪያዎች ጋር የሚስማማ ፕሮጀክት የለም",
+  "projects_empty_description": "ሌላ ፍለጋ ይሞክሩ፣ ወይም ሁሉንም ሥራዎቻችንን ለማየት ማጣሪያዎቹን ያጽዱ።",
+  "projects_pagination_label": "የፕሮጀክት ገጾች",
+  "projects_previous": "ቀዳሚ",
+  "projects_next": "ቀጣይ",
+  "projects_page_of": "ገጽ {current} ከ{total}",
+
+  
+	"project_back_to_projects": "ሁሉም ፕሮጀክቶች",
+
+	"project_about_title": "ስለዚህ ፕሮጀክት",
+	"project_goal_title": "ግባችን",
+	"project_activities_title": "የምንሠራው ሥራ",
+	"project_results_title": "እስካሁን የተለወጠው",
+	"project_updates_title": "ከሜዳው የመጡ መረጃዎች",
+	"project_stories_title": "ከዚህ ፕሮጀክት የተገኙ ታሪኮች",
+	"project_gallery_title": "ከዚህ ፕሮጀክት",
+	"project_documents_title": "ሪፖርቶችና ሰነዶች",
+
+	"project_funded_percent": "{percent}% ተሸፍኗል",
+	"project_people_label": "ሰዎች",
+	"project_serves_label": "የሚያገለግላቸው",
+	"project_where_label": "ቦታ",
+	"project_running_label": "የሚካሄድበት ጊዜ",
+	"project_ongoing": "በመካሄድ ላይ",
+	"project_leader_label": "መሪ",
+	"project_partners_title": "የዚህ ፕሮጀክት አጋሮች",
+
+	"project_support_title": "ከዚህ ፕሮጀክት ጎን ይቁሙ",
+	"project_give_button": "ለዚህ ፕሮጀክት ይለግሱ",
+	"project_get_involved_button": "ያገልግሉ፣ ይጸልዩ ወይም ይተባበሩ",
+	"project_support_note": "እያንዳንዱ ፕሮጀክት ገንዘብ እንደሚያስፈልገው ሁሉ እጆችንና ጸሎትንም ይፈልጋል።",
+	"project_support_sent_title": "መልእክትዎ ተልኳል",
+
+	"project_purpose_volunteer": "በበጎ ፈቃድ",
+	"project_purpose_pray": "ጸሎት",
+	"project_purpose_partner": "አጋርነት",
+	"project_purpose_question": "ጥያቄ ይጠይቁ",
+
+	"project_form_name_label": "ሙሉ ስም",
+	"project_form_name_placeholder": "ስምዎ",
+	"project_form_email_label": "ኢሜይል",
+	"project_form_email_placeholder": "you@example.com",
+	"project_form_phone_label": "ስልክ",
+	"project_form_phone_placeholder": "አማራጭ",
+	"project_form_message_label": "መልእክትዎ",
+	"project_form_message_placeholder": "እንዴት መሳተፍ እንደሚፈልጉ፣ ወይም ማወቅ የሚፈልጉትን ይንገሩን",
+	"project_form_submit": "መልእክት ይላኩ",
+	"project_form_loading": "መልእክትዎ እየተላከ ነው",
+
+	"project_related_title": "በዚህ ዘርፍ ያሉ ሌሎች ሥራዎች",
+	"project_see_all": "ሁሉንም ፕሮጀክቶች ይመልከቱ",
+
+
+	"donate_meta_title": "ይለግሱ — ስቴዋርድ ኦፍ ላይፍ",
+	"donate_meta_description": "በኢትዮጵያ ውስጥ የአገልጋይ አመራርን፣ የወጣቶች እድገትንና የክርስቲያን ትዳሮችን ይደግፉ። በአንድ ጊዜ ወይም በየወሩ በባንክ ዝውውር ይለግሱ።",
+	"donate_badge": "ልገሳ",
+	"donate_heading": "ክርስቲያናዊ መሪዎችን በማፍራት ላይ አሻራዎን ያሳርፉ",
+	"donate_description": "ልገሳዎ ወጣቶችን ወደ ዓላማ፣ ባለትዳሮችን ወደ እርዳታ፣ የቤተ ክርስቲያን መሪዎችን ወደ ስልጠና ያደርሳል። የት እንደሚውልና በምን ያህል ጊዜ እንደሚሆን ይምረጡ።",
+
+	"donate_stat_raised": "እስካሁን የተለገሰ",
+	"donate_stat_donors": "ለጋሾች",
+	"donate_stat_recurring": "ወርሃዊ አጋሮች",
+
+	"donate_accounts_title": "ልገሳዎን የሚልኩበት",
+	"donate_accounts_description": "ቁጥሩን ለመቅዳት ሒሳቡን ይንኩ፤ ለዝውውርዎ ይጠቀሙበት።",
+	"donate_account_number_label": "የሒሳብ ቁጥር",
+	"donate_copy_hint": "ቁጥሩን ለመቅዳት ይንኩ",
+	"donate_copied_hint": "ተቀድቷል — ለዝውውርዎ ይጠቀሙበት",
+	"donate_copy_number": "ቁጥሩን ይቅዱ",
+	"donate_account_copied": "የ{bank} የሒሳብ ቁጥር ተቀድቷል",
+	"donate_account_copy_failed": "አሳሹ መቅዳቱን አግዶታል። ቁጥሩን በእጅ ይምረጡት።",
+
+	"donate_cause_title": "የት ይዋል?",
+	"donate_cause_any": "በጣም ወደሚያስፈልግበት",
+	"donate_cause_any_note": "አሁን ፍላጎቱ ከፍ ወዳለበት ቦታ እናውለዋለን።",
+
+	"donate_amount_title": "ምን ያህል፣ በምን ያህል ጊዜ?",
+	"donate_frequency_once": "አንድ ጊዜ",
+	"donate_frequency_monthly": "በየወሩ",
+	"donate_frequency_quarterly": "በየሩብ ዓመቱ",
+	"donate_frequency_yearly": "በየዓመቱ",
+	"donate_custom_amount": "ወይም የራስዎን መጠን ያስገቡ",
+	"donate_recurring_note": "{amount} {frequency} ለመስጠት ቃል እየገቡ ነው። ከእያንዳንዱ ዝውውር በፊት እናገኝዎታለን።",
+
+	"donate_you_title": "ስለ እርስዎ",
+	"donate_form_name_label": "ሙሉ ስም",
+	"donate_form_name_placeholder": "ስምዎ",
+	"donate_form_email_label": "ኢሜይል",
+	"donate_form_email_placeholder": "ደረሰኝዎን የምንልክበት",
+	"donate_form_phone_label": "ስልክ",
+	"donate_form_phone_placeholder": "አማራጭ",
+	"donate_form_message_label": "ከልገሳዎ ጋር የሚላክ ማስታወሻ",
+	"donate_form_message_placeholder": "አማራጭ — ጸሎት፣ ውዳሴ፣ ወይም እንዴት እንዳወቁን",
+	"donate_anonymous_label": "ስም ሳይገለጽ ይለግሱ",
+	"donate_anonymous_note": "ስምዎ በገጹ ላይ አይወጣም። ለደረሰኝ ግን የፋይናንስ ቡድናችን ያየዋል።",
+
+	"donate_transfer_to": "ወደ {bank}፣ የሒሳብ ቁጥር {number} ያስተላልፉ",
+	"donate_form_submit": "ልገሳዬን ይመዝግቡ",
+	"donate_form_loading": "ልገሳዎ እየተመዘገበ ነው",
+	"donate_submit_note": "እዚህ ላይ ምንም ክፍያ አይፈጸምም። ልገሳዎን እንመዘግባለን፣ እርስዎ ዝውውሩን ያደርጋሉ፣ ሲደርሰን እናረጋግጣለን።",
+
+	"donate_thanks_title": "እናመሰግናለን",
+	"donate_see_work": "የደገፉትን ሥራ ይመልከቱ",
+
+	"donate_other_ways_title": "ሌሎች የመስጫ መንገዶች",
+	"donate_way_match_title": "አቻ ድጋፍ",
+	"donate_way_match_body": "ብዙ ቀጣሪዎች ሠራተኞቻቸው የሚሰጡትን እጥፍ ያደርጋሉ። የእርስዎ ድርጅት ለበጎ አድራጎት ልገሳ አቻ ድጋፍ ይሰጥ እንደሆነ ይጠይቁ።",
+	"donate_way_legacy_title": "ውርስ",
+	"donate_way_legacy_body": "ስቴዋርድ ኦፍ ላይፍን በኑዛዜዎ ውስጥ ያካትቱ፤ ከእርስዎ በኋላም ቤተሰቦችን ማገልገል ይቀጥሉ።",
+	"donate_way_pledge_title": "ቃል ኪዳን",
+	"donate_way_pledge_body": "በዓመት ውስጥ የሚሰጡትን መጠን ቃል ይግቡ፤ እኛም ሥራውን በዚያ ላይ አቅደን እንሠራለን።",
+	"donate_other_ways_contact": "ከእነዚህ ውስጥ ለማንኛውም፣ ወይም በሌላ ገንዘብ ለመለገስ፣",
+	"donate_other_ways_contact_link": "ያግኙን",
+
+	"donate_recent_title": "የቅርብ ጊዜ ለጋሾች",
+
+
+	
+	"gallery_meta_title": "የፎቶ መዝገብ — ስቴዋርድ ኦፍ ላይፍ",
+	"gallery_meta_description": "በኢትዮጵያ ውስጥ ከጉባኤዎቻችን፣ ከሪትሪቶቻችን፣ ከስልጠናዎቻችንና ከፕሮጀክቶቻችን የተወሰዱ ፎቶዎችና ቪዲዮዎች።",
+	"gallery_badge": "የፎቶ መዝገብ",
+	"gallery_heading": "ሥራው፣ በተከናወነበት ጊዜ",
+	"gallery_description": "ከጉባኤዎች፣ ከሪትሪቶች፣ ከስልጠናዎችና ከወለዷቸው ፕሮጀክቶች የተወሰዱ ፎቶዎችና ቪዲዮዎች።",
+
+	"gallery_search_placeholder": "አልበሞችን ይፈልጉ",
+	"gallery_all_years": "ሁሉም ዓመታት",
+	"gallery_all_areas": "ሁሉም የአገልግሎት ዘርፎች",
+
+	"gallery_sort_newest": "አዲሶቹ መጀመሪያ",
+	"gallery_sort_oldest": "የቀድሞዎቹ መጀመሪያ",
+	"gallery_sort_title": "በፊደል ተራ",
+
+	"gallery_results_count": "{count} አልበሞች",
+	"gallery_clear_filters": "ማጣሪያዎችን አጽዳ",
+
+	"gallery_item_of": "{current} ከ{total}",
+	"gallery_close": "አልበሙን ዝጋ",
+	"gallery_previous_item": "ቀዳሚ",
+	"gallery_next_item": "ቀጣይ",
+	"gallery_album_empty": "በዚህ አልበም ውስጥ ገና ምንም አልተጨመረም።",
+
+	"gallery_empty_title": "ከእነዚህ ማጣሪያዎች ጋር የሚስማማ አልበም የለም",
+	"gallery_empty_description": "ሌላ ፍለጋ ይሞክሩ፣ ወይም ሁሉንም ለማየት ማጣሪያዎቹን ያጽዱ።",
+
+	"gallery_pagination_label": "የአልበም ገጾች",
+	"gallery_previous": "ቀዳሚ",
+	"gallery_next": "ቀጣይ",
+	"gallery_page_of": "ገጽ {current} ከ{total}",
+	  "team_eyebrow": "ቡድናችን",
+  "team_executive_title": "የአመራር ቡድናችን",
+  "team_executive_description": "ይህን ሥራ በየዕለቱ የሚሸከሙት ሰዎች።",
+  "team_executive_badge": "አመራር",
+  "team_all_title": "ሰፊው ቡድን",
+  "team_all_description": "ሥራው እንዲከናወን የሚያደርጉ አሠልጣኞች፣ አመቻቾችና አስተባባሪዎች።",
+  "team_read_bio": "ሙሉ ታሪኩን ያንብቡ",
+  "team_email_label": "ኢሜይል",
+  "team_close": "ዝጋ",
+  "team_meet_the_team": "ሙሉውን ቡድን ይተዋወቁ",
+
+
+  
+	"testimonial_eyebrow": "ታሪኮች",
+	"testimonial_title": "ይህ ሥራ ያመጣው ለውጥ",
+	"testimonial_description": "በኖሩት ሰዎች አንደበት።",
+	"testimonial_read_full": "ሙሉውን ታሪክ ያንብቡ",
+	"testimonial_previous": "ቀዳሚ ታሪክ",
+	"testimonial_next": "ቀጣይ ታሪክ",
+	"testimonial_go_to": "ታሪክ {number}",
+	"testimonial_close": "ዝጋ",
+	"testimonial_see_all": "ተጨማሪ ታሪኮችን ያንብቡ"
+
+
+
+
+
+
+
+
+
 }

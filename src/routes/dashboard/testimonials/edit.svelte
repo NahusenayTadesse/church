@@ -2,7 +2,7 @@
 	import LoadingBtn from '$lib/formComponents/LoadingBtn.svelte';
 	import { SquarePen, Save } from '@lucide/svelte';
 	import { Button } from '$lib/components/ui/button/index.js';
-	import type { EditPaymentMethod as schema } from './schema';
+	import type { EditPaymentMethod as schema } from './columns';
 
 	import type { Infer, SuperValidated } from 'sveltekit-superforms';
 	import { superForm } from 'sveltekit-superforms';

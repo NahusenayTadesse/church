@@ -34,19 +34,15 @@
 	const menuItems = [
 		{ label: m.header_nav_home, href: '/', icon: HomeIcon },
 		{ label: m.header_nav_about_us, href: '/about', icon: InfoIcon },
+		{ label: m.header_nav_books, href: '/books', icon: InfoIcon },
 		{ label: m.header_nav_blog, href: '/blogs', icon: InfoIcon },
+		{ label: m.header_nav_events, href: '/events', icon: InfoIcon },
+		{ label: m.header_nav_gallery, href: '/gallery', icon: InfoIcon },
+		{ label: m.header_nav_orders, href: '/donate', icon: InfoIcon },
 		{ label: m.header_nav_contact_us, href: '/contact', icon: ContactIcon }
 	];
 
-	function executionDesktopSearch(e: KeyboardEvent) {
-		if (e.key === 'Enter') {
-			const shopUrl = new URL('/shop', window.location.origin);
-			if (searchQuery.trim()) {
-				shopUrl.searchParams.set('search', searchQuery.trim());
-			}
-			goto(shopUrl.toString());
-		}
-	}
+
 
 	$effect(() => {
 		if (navigating.to) {

@@ -22,6 +22,7 @@
     import ImgSeparator from '$lib/components/imgSeparator.svelte';
     import Mission from '$lib/components/mission.svelte';
     import * as m from '$lib/paraglide/messages.js';
+	import Teammembers from '$lib/components/Teammembers.svelte';
 
     let { data } = $props();
 
@@ -393,9 +394,27 @@
     </section>
 </div>
 
-{#if data?.imagesList?.length}
+<div class="flex flex-col my-6  justify-center items-center">
+<div class="w-full lg:w-9/10 flex flex-col gap-16">
+
+
+<Teammembers
+  members={data.executives}
+  eyebrow={m.team_eyebrow()}
+  variant="full"
+  title={m.team_executive_title()}
+  description={m.team_executive_description()}
+  />
+  <span id="testimonial"></span>
+<Testimonial testimonials={data.stories} variant="grid"
+  title={m.testimonial_title()} ctaLabel={m.testimonial_see_all()} />
+  </div>
+</div>
+
+
+<!-- {#if data?.imagesList?.length}
     <Slider imagesList={data.imagesList} />
-{/if}
+{/if} -->
 
 {#if data?.testimonialList?.length}
     <section class="mx-auto max-w-7xl px-4 py-20 sm:px-6 lg:px-8">

@@ -162,8 +162,12 @@
 	"header_nav_about_us": "About Us",
 	"header_nav_blog": "Resources",
 	"header_nav_contact_us": "Contact Us",
-	"header_nav_orders": "Donations",
+	"header_nav_orders": "Donate",
 	"header_nav_account": "Profile",
+	"header_nav_books": "Books",
+	"header_nav_events": "Events",
+	"header_nav_gallery": "Gallery",
+
 	"header_search": "Search",
 	"header_search_placeholder": "Search articles, books, sermons...",
 
@@ -273,15 +277,74 @@
 	"about_page_testimonials_description": "Real responses from individuals, pastors, and families touched by our training courses.",
 
 	"BLOG PAGE": "TEACHINGS & ARTICLES",
-	"blog_meta_title": "Teachings & Articles | Steward of Life",
-	"blog_meta_description": "Read our collections on marriage counseling, purpose discovery, emotional intelligence, and servant leadership.",
+
 	"blog_meta_keywords": "Steward of Life blog, Christian leadership sermons, marriage advice Ethiopia, youth purpose discovery",
 	"blog_og_description": "Explore spiritual guides, leadership articles, and sermon highlights from Steward of Life.",
 	"blog_twitter_description": "Helpful biblical leadership guides, family values updates, and counseling resources.",
-	"blog_search_placeholder": "Search articles or sermons",
 	"blog_showing": "Showing",
 	"blog_article_singular": "teaching",
 	"blog_article_plural": "teachings",
+     	"blog_meta_title": "Resources — Steward of Life",
+	"blog_meta_description": "Articles, sermons, teachings and Bible studies on servant leadership, youth development and Christian marriage.",
+	"blog_badge": "Resources",
+	"blog_heading": "Teaching that strengthens leaders and families",
+	"blog_description": "Articles, sermons, teachings and studies from our team — written to develop servant leaders, equip youth and strengthen Christian marriages.",
+
+	"blog_search_placeholder": "Search by title, summary or Bible reference",
+	"blog_all_types": "All resources",
+	"blog_all_categories": "All categories",
+	"blog_all_areas": "All ministry areas",
+	"blog_all_tags": "All tags",
+
+	"blog_type_article": "Article",
+	"blog_type_sermon": "Sermon",
+	"blog_type_teaching": "Teaching",
+	"blog_type_video": "Video",
+	"blog_type_audio": "Audio",
+	"blog_type_bible_study": "Bible study",
+
+	"blog_sort_newest": "Newest first",
+	"blog_sort_oldest": "Oldest first",
+	"blog_sort_popular": "Most read",
+	"blog_sort_title": "Title A–Z",
+
+	"blog_results_count": "{count} resources",
+	"blog_clear_filters": "Clear filters",
+
+	"blog_featured": "Featured",
+	"blog_by": "By",
+	"blog_min_read": "{minutes} min read",
+	"blog_read_more": "Read the full piece",
+
+	"blog_empty_title": "Nothing matches these filters",
+	"blog_empty_description": "Try a different search term, or clear the filters to see every resource.",
+
+	"blog_pagination_label": "Resource pages",
+	"blog_previous": "Previous",
+	"blog_next": "Next",
+	"blog_page_of": "Page {current} of {total}",
+  "post_back_to_resources": "All resources",
+  "post_bible_references": "Bible references",
+  "post_tags_title": "Tags",
+  "post_gallery_title": "From this session",
+  "post_outline_title": "In this resource",
+  "post_listen_title": "Listen to this resource",
+  "post_download": "Download",
+  "post_author_title": "Written by",
+  "post_share_title": "Share this",
+  "post_share_copy": "Copy link",
+  "post_share_copied": "Link copied",
+  "post_share_copy_failed": "Your browser blocked the copy. Copy the address bar instead.",
+  "post_related_title": "Keep reading",
+  "post_related_books_title": "Books on this",
+  "post_previous": "Earlier",
+  "post_next": "Later",
+  "post_error_title": "This resource isn't here",
+  "post_error_description": "The link may be broken, or the piece hasn't been published yet.",
+  "post_error_back": "Back to all resources",
+
+
+
 	"portfolio_hero_badge": "Ministry Insights",
 	"portfolio_hero_title": "Nourish your spirit and leadership skills.",
 	"portfolio_hero_description": "Access guides on vocational skills, family stability, character dynamics, and transparent Christian lifestyle.",
@@ -721,5 +784,441 @@
   "vmv_value_excellence_body": "We serve with excellence, knowing we represent God in our work, words, and actions.",
 
   "vmv_value_transform_title": "Transformation",
-  "vmv_value_transform_body": "We work for changed leadership in workplaces, in young people, and in marriages."
+  "vmv_value_transform_body": "We work for changed leadership in workplaces, in young people, and in marriages.",
+
+
+    "events_meta_title": "Events — Steward of Life",
+  "events_meta_description": "Conferences, workshops, retreats and trainings on servant leadership, youth development and Christian marriage.",
+  "events_badge": "Events",
+  "events_heading": "Come and be equipped",
+  "events_description": "Conferences, retreats, workshops and trainings where leaders, youth and couples are formed — in Addis Ababa and online.",
+  "events_search_placeholder": "Search by name, description or place",
+  "events_when_upcoming": "Upcoming",
+  "events_when_past": "Past",
+  "events_when_all": "All",
+  "events_all_types": "All events",
+  "events_all_areas": "All ministry areas",
+  "events_free_only": "Free only",
+  "events_type_conference": "Conference",
+  "events_type_workshop": "Workshop",
+  "events_type_retreat": "Retreat",
+  "events_type_training": "Training",
+  "events_type_seminar": "Seminar",
+  "events_type_other": "Other",
+  "events_format_all": "In person and online",
+  "events_format_in_person": "In person",
+  "events_format_online": "Online",
+  "events_sort_soonest": "Soonest first",
+  "events_sort_latest": "Most recent first",
+  "events_sort_name": "Name A–Z",
+  "events_results_count": "{count} events",
+  "events_clear_filters": "Clear filters",
+  "events_next_up": "Next up",
+  "events_countdown_days": "Days",
+  "events_countdown_hours": "Hrs",
+  "events_countdown_minutes": "Min",
+  "events_countdown_seconds": "Sec",
+  "events_register": "Register",
+  "events_view_details": "See details",
+  "events_speakers_label": "Speaking",
+  "events_online_label": "Online",
+  "events_free_label": "Free",
+  "events_seats_left": "{count} seats left",
+  "events_sold_out": "Fully booked",
+  "events_status_cancelled": "Cancelled",
+  "events_status_happening_now": "Happening now",
+  "events_empty_title": "No events match these filters",
+  "events_empty_description": "Try a different search, or switch to past events to see what we have already run.",
+  "events_pagination_label": "Event pages",
+  "events_previous": "Previous",
+  "events_next": "Next",
+  "events_page_of": "Page {current} of {total}",
+
+  
+	"event_back_to_events": "All events",
+
+	"event_about_title": "About this event",
+	"event_speakers_title": "Who you will hear from",
+	"event_role_speaker": "Speaker",
+	"event_role_host": "Host",
+	"event_role_panelist": "Panelist",
+	"event_role_facilitator": "Facilitator",
+
+	"event_downloads_title": "Schedule and materials",
+	"event_location_title": "Where it happens",
+	"event_online_note": "This event runs online. The joining link is sent to registered participants before it starts.",
+	"event_join_online": "Join now",
+	"event_gallery_title": "From this event",
+
+	"event_when_label": "Date",
+	"event_until": "Until",
+	"event_time_label": "Time",
+	"event_where_label": "Place",
+	"event_cost_label": "Cost",
+	"event_per_seat": "per seat",
+	"event_seats_label": "Seats",
+	"event_deadline_note": "Registration closes on {date}.",
+	"event_add_to_calendar": "Add to calendar",
+
+	"event_register_title": "Reserve your seat",
+	"event_form_name_label": "Full name",
+	"event_form_name_placeholder": "Your name as it should appear on the list",
+	"event_form_email_label": "Email",
+	"event_form_email_placeholder": "you@example.com",
+	"event_form_phone_label": "Phone",
+	"event_form_phone_placeholder": "+251 9…",
+	"event_form_organization_label": "Church or organization",
+	"event_form_organization_placeholder": "Optional",
+	"event_form_seats_label": "Seats",
+	"event_form_seats_decrease": "One seat fewer",
+	"event_form_seats_increase": "One seat more",
+	"event_form_payment_label": "How you will pay",
+	"event_form_notes_label": "Anything we should know",
+	"event_form_notes_placeholder": "Dietary needs, accessibility, travelling with family…",
+	"event_total_label": "Total",
+	"event_form_loading": "Reserving your seat",
+	"event_form_submit_free": "Register",
+	"event_form_submit_paid": "Reserve seat",
+
+	"event_registered_title": "You're on the list",
+
+	"event_cancelled_title": "This event was cancelled",
+	"event_cancelled_description": "Reach out if you had already registered and we will sort out your place or refund.",
+
+	"event_finished_title": "This event has finished",
+	"event_finished_description": "Photos and materials stay on this page. Come to the next one.",
+	"event_see_upcoming": "See upcoming events",
+
+	"event_no_registration_title": "No registration needed",
+	"event_no_registration_description": "Come as you are — the doors open at the time listed above.",
+
+	"event_sold_out_description": "Every seat is taken. Contact us to join the waiting list.",
+
+	"event_closed_title": "Registration has closed",
+	"event_closed_description": "The deadline for this event has passed. Contact us if you still hope to attend.",
+
+	"event_payment_title": "Bank transfer details",
+	"event_payment_description": "Your seat is held once you register. Transfer the total to the account below and send us the receipt — we confirm your place as soon as the payment lands.",
+	"event_payment_copied": "Account number copied",
+
+	"event_organizer_label": "Organized by",
+	"event_related_title": "Other events coming up",
+
+
+	
+	"books_meta_title": "Books — Steward of Life",
+	"books_meta_description": "Books on servant leadership, youth development and Christian marriage, in Amharic and English.",
+	"books_badge": "Books",
+	"books_heading": "Books that build leaders and homes",
+	"books_description": "Written for pastors, couples and young leaders — in Amharic and English, in print, PDF, ebook and audio.",
+
+	"books_search_placeholder": "Search by title, author or subject",
+
+	"books_all_languages": "All languages",
+	"books_all_formats": "All formats",
+	"books_all_areas": "All ministry areas",
+
+	"books_language_english": "English",
+	"books_language_amharic": "አማርኛ",
+	"books_language_other": "Other",
+
+	"books_format_physical": "Print",
+	"books_format_pdf": "PDF",
+	"books_format_ebook": "Ebook",
+	"books_format_audiobook": "Audiobook",
+
+	"books_access_all": "All",
+	"books_access_free": "Free to read",
+	"books_access_paid": "For sale",
+
+	"books_sort_newest": "Newest first",
+	"books_sort_title": "Title A–Z",
+	"books_sort_rating": "Best rated",
+	"books_sort_price_low": "Price, low to high",
+	"books_sort_price_high": "Price, high to low",
+
+	"books_results_count": "{count} books",
+	"books_clear_filters": "Clear filters",
+
+	"books_featured": "Featured",
+	"books_by": "By",
+	"books_review_count": "{count} reviews",
+	"books_view_book": "Open this book",
+	"books_free_download": "Free to download",
+	"books_free_label": "Free",
+	"books_price_on_request": "Ask us for the price",
+
+	"books_empty_title": "No books match these filters",
+	"books_empty_description": "Try a different search, or clear the filters to see the whole shelf.",
+
+	"books_pagination_label": "Book pages",
+	"books_previous": "Previous",
+	"books_next": "Next",
+	"books_page_of": "Page {current} of {total}",
+
+
+	
+	"book_back_to_books": "All books",
+
+	"book_price_label": "Price",
+	"book_download_format": "Download the {format}",
+	"book_buy_external": "Buy from the store",
+	"book_read_preview": "Read a sample",
+	"book_formats_title": "Available formats",
+
+	"book_order_button": "Order this book",
+	"book_order_loading": "Placing your order",
+	"book_order_note": "We contact you to arrange payment and delivery. Nothing is charged here.",
+	"book_order_placed_title": "Order placed",
+	"book_out_of_stock": "Out of stock — check back soon",
+	"book_total_label": "Total",
+	"book_quantity_decrease": "One copy fewer",
+	"book_quantity_increase": "One copy more",
+
+	"book_published_label": "Published",
+	"book_pages_label": "Pages",
+	"book_about_title": "About this book",
+	"book_author_title": "About the author",
+	"book_resources_title": "Read alongside this book",
+
+	"book_reviews_title": "What readers say",
+	"book_write_review": "Write a review",
+	"book_review_form_title": "Share what you thought",
+	"book_review_rating_label": "Your rating",
+	"book_review_name_label": "Your name",
+	"book_review_name_placeholder": "How you want to be credited",
+	"book_review_email_label": "Email",
+	"book_review_email_placeholder": "Optional — only so we can reach you",
+	"book_review_headline_label": "Headline",
+	"book_review_headline_placeholder": "Sum it up in a line",
+	"book_review_content_label": "Your review",
+	"book_review_content_placeholder": "What stayed with you? Who should read it?",
+	"book_review_submit": "Send review",
+	"book_review_loading": "Sending your review",
+	"book_review_moderation_note": "Reviews are read by our team before they appear on the page.",
+	"book_review_thanks_title": "Review received",
+
+	"book_no_reviews_title": "No reviews yet",
+	"book_no_reviews_description": "Be the first to tell others what this book did for you.",
+
+	"book_also_title": "More like this",
+	"book_see_all": "See every book",
+
+
+	  "projects_meta_title": "Projects — Steward of Life",
+  "projects_meta_description": "The work we are doing with families, youth and church leaders across Ethiopia — what it costs, who it reaches and how to help.",
+  "projects_badge": "Projects",
+  "projects_heading": "The work, one family at a time",
+  "projects_description": "Each project below has a goal, a place and people it serves. See where it stands and how you can stand with it.",
+  "projects_stat_projects": "Projects",
+  "projects_stat_reached": "People reached",
+  "projects_stat_raised": "Raised so far",
+  "projects_search_placeholder": "Search by name, place or who it serves",
+  "projects_all_statuses": "All",
+  "projects_all_areas": "All ministry areas",
+  "projects_status_planned": "Planned",
+  "projects_status_active": "Active",
+  "projects_status_paused": "Paused",
+  "projects_status_completed": "Completed",
+  "projects_support_label": "Support",
+  "projects_support_any": "Any way",
+  "projects_support_donations": "Give",
+  "projects_support_volunteers": "Volunteer",
+  "projects_support_prayer": "Pray",
+  "projects_sort_newest": "Newest first",
+  "projects_sort_name": "Name A–Z",
+  "projects_sort_funding": "Most funded",
+  "projects_sort_reach": "Most people reached",
+  "projects_results_count": "{count} projects",
+  "projects_clear_filters": "Clear filters",
+  "projects_view_project": "See the project",
+  "projects_reached_count": "{count} reached",
+  "projects_reach_progress": "{reached} of {target} people reached",
+  "projects_of_goal": "of {goal}",
+  "projects_empty_title": "No projects match these filters",
+  "projects_empty_description": "Try a different search, or clear the filters to see all of our work.",
+  "projects_pagination_label": "Project pages",
+  "projects_previous": "Previous",
+  "projects_next": "Next",
+  "projects_page_of": "Page {current} of {total}",
+
+
+
+
+
+
+	"project_back_to_projects": "All projects",
+
+	"project_about_title": "About this project",
+	"project_goal_title": "What we are aiming for",
+	"project_activities_title": "What we do",
+	"project_results_title": "What has changed so far",
+	"project_updates_title": "Updates from the field",
+	"project_stories_title": "Stories from this project",
+	"project_gallery_title": "From this project",
+	"project_documents_title": "Reports and documents",
+
+	"project_funded_percent": "{percent}% funded",
+	"project_people_label": "People",
+	"project_serves_label": "Who it serves",
+	"project_where_label": "Where",
+	"project_running_label": "Running",
+	"project_ongoing": "ongoing",
+	"project_leader_label": "Led by",
+	"project_partners_title": "Partners on this project",
+
+	"project_support_title": "Stand with this project",
+	"project_give_button": "Give to this project",
+	"project_get_involved_button": "Serve, pray or partner",
+	"project_support_note": "Every project needs hands and prayer as much as it needs funds.",
+	"project_support_sent_title": "Message sent",
+
+	"project_purpose_volunteer": "Volunteer",
+	"project_purpose_pray": "Pray",
+	"project_purpose_partner": "Partner",
+	"project_purpose_question": "Ask a question",
+
+	"project_form_name_label": "Full name",
+	"project_form_name_placeholder": "Your name",
+	"project_form_email_label": "Email",
+	"project_form_email_placeholder": "you@example.com",
+	"project_form_phone_label": "Phone",
+	"project_form_phone_placeholder": "Optional",
+	"project_form_message_label": "Your message",
+	"project_form_message_placeholder": "Tell us how you would like to be involved, or what you want to know",
+	"project_form_submit": "Send message",
+	"project_form_loading": "Sending your message",
+
+	"project_related_title": "Other work in this area",
+	"project_see_all": "See every project",
+
+
+	
+	"donate_meta_title": "Give — Steward of Life",
+	"donate_meta_description": "Support servant leadership, youth development and Christian marriages in Ethiopia. Give once or monthly by bank transfer.",
+	"donate_badge": "Give",
+	"donate_heading": "Make an impact in developing Christian leaders",
+	"donate_description": "Your giving reaches young people with purpose, couples with help, and church leaders with training. Choose where it goes and how often.",
+
+	"donate_stat_raised": "Given so far",
+	"donate_stat_donors": "Givers",
+	"donate_stat_recurring": "Monthly partners",
+
+	"donate_accounts_title": "Where to send your gift",
+	"donate_accounts_description": "Tap an account to copy the number and use it for your transfer.",
+	"donate_account_number_label": "Account number",
+	"donate_copy_hint": "Tap to copy the number",
+	"donate_copied_hint": "Copied — use it for your transfer",
+	"donate_copy_number": "Copy the number",
+	"donate_account_copied": "{bank} account number copied",
+	"donate_account_copy_failed": "Your browser blocked the copy. Select the number instead.",
+
+	"donate_cause_title": "Where should it go?",
+	"donate_cause_any": "Where it is needed most",
+	"donate_cause_any_note": "We put it to work where the need is greatest right now.",
+
+	"donate_amount_title": "How much, and how often?",
+	"donate_frequency_once": "One time",
+	"donate_frequency_monthly": "Monthly",
+	"donate_frequency_quarterly": "Quarterly",
+	"donate_frequency_yearly": "Yearly",
+	"donate_custom_amount": "Or enter your own amount",
+	"donate_recurring_note": "You are pledging {amount} {frequency}. We contact you before each transfer.",
+
+	"donate_you_title": "About you",
+	"donate_form_name_label": "Full name",
+	"donate_form_name_placeholder": "Your name",
+	"donate_form_email_label": "Email",
+	"donate_form_email_placeholder": "Where we send your receipt",
+	"donate_form_phone_label": "Phone",
+	"donate_form_phone_placeholder": "Optional",
+	"donate_form_message_label": "A note with your gift",
+	"donate_form_message_placeholder": "Optional — a prayer, a dedication, or how you heard about us",
+	"donate_anonymous_label": "Give anonymously",
+	"donate_anonymous_note": "Your name stays off the page. Our finance team still sees it for the receipt.",
+
+	"donate_transfer_to": "Transfer to {bank}, account {number}",
+	"donate_form_submit": "Record my gift",
+	"donate_form_loading": "Recording your gift",
+	"donate_submit_note": "Nothing is charged here. We record your gift, you make the transfer, and we confirm it when it lands.",
+
+	"donate_thanks_title": "Thank you",
+	"donate_see_work": "See the work you are backing",
+
+	"donate_other_ways_title": "Other ways to give",
+	"donate_way_match_title": "Match",
+	"donate_way_match_body": "Many employers double what their staff give. Ask yours whether they match gifts to non-profits.",
+	"donate_way_legacy_title": "Legacy",
+	"donate_way_legacy_body": "Name Steward of Life in your will and keep serving families long after you.",
+	"donate_way_pledge_title": "Pledge",
+	"donate_way_pledge_body": "Commit an amount over a year and we will plan the work around it.",
+	"donate_other_ways_contact": "For any of these, or for a gift in another currency,",
+	"donate_other_ways_contact_link": "talk to us",
+
+	"donate_recent_title": "Recent givers",
+
+
+
+	
+	"gallery_meta_title": "Gallery — Steward of Life",
+	"gallery_meta_description": "Photos and video from our conferences, retreats, trainings and projects across Ethiopia.",
+	"gallery_badge": "Gallery",
+	"gallery_heading": "The work, as it happened",
+	"gallery_description": "Photos and video from conferences, retreats, trainings and the projects they grew into.",
+
+	"gallery_search_placeholder": "Search albums",
+	"gallery_all_years": "All years",
+	"gallery_all_areas": "All ministry areas",
+
+	"gallery_sort_newest": "Newest first",
+	"gallery_sort_oldest": "Oldest first",
+	"gallery_sort_title": "Title A–Z",
+
+	"gallery_results_count": "{count} albums",
+	"gallery_clear_filters": "Clear filters",
+
+	"gallery_item_of": "{current} of {total}",
+	"gallery_close": "Close the album",
+	"gallery_previous_item": "Previous",
+	"gallery_next_item": "Next",
+	"gallery_album_empty": "Nothing has been added to this album yet.",
+
+	"gallery_empty_title": "No albums match these filters",
+	"gallery_empty_description": "Try a different search, or clear the filters to see everything we have.",
+
+	"gallery_pagination_label": "Album pages",
+	"gallery_previous": "Previous",
+	"gallery_next": "Next",
+	"gallery_page_of": "Page {current} of {total}",
+
+	  "team_eyebrow": "Our team",
+  "team_executive_title": "Our executive team",
+  "team_executive_description": "The people carrying this work day to day.",
+  "team_executive_badge": "Executive",
+  "team_all_title": "The wider team",
+  "team_all_description": "Trainers, facilitators and coordinators who make the work happen.",
+  "team_read_bio": "Read full bio",
+  "team_email_label": "Email",
+  "team_close": "Close",
+  "team_meet_the_team": "Meet the whole team",
+
+  
+	"testimonial_eyebrow": "Stories",
+	"testimonial_title": "What this work has done",
+	"testimonial_description": "In the words of the people who lived it.",
+	"testimonial_read_full": "Read the full story",
+	"testimonial_previous": "Previous story",
+	"testimonial_next": "Next story",
+	"testimonial_go_to": "Story {number}",
+	"testimonial_close": "Close",
+	"testimonial_see_all": "Read more stories"
+
+
+
+
+	
+
+
+
+
 }

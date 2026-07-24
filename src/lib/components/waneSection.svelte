@@ -58,8 +58,7 @@
     <!-- CTA Button -->
     <div class="mt-12 flex justify-center">
       <Button 
-        href="https://wanetrading.com/" 
-        target="_blank" 
+        href="/about" 
         rel="noopener noreferrer"
         size="lg"
         class="gap-2 shadow-sm shadow-primary/20 hover:shadow-md transition-all"

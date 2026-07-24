@@ -8,9 +8,9 @@ import {
 	testimonials
 } from '$lib/server/db/schema';
 import { eq, getTableColumns } from 'drizzle-orm';
-import type { LayoutServerLoad } from './$types';
+import { loadFlash } from 'sveltekit-flash-message/server';
 
-export const load: LayoutServerLoad = async ({ locals }) => {
+export const load = loadFlash(async ({locals}) => {
 	const currentUser = locals?.user;
 	let roleName = ''; // Initialize with a default value
 
@@ -32,9 +32,7 @@ export const load: LayoutServerLoad = async ({ locals }) => {
 
 
 
-	const testimonialList = await db
-		.select()
-		.from(testimonials);
+	
 
 	const blogItems = await db
 		.select({
@@ -47,6 +45,6 @@ export const load: LayoutServerLoad = async ({ locals }) => {
 	return {
 		roleName,
 		blogItems,
-		testimonialList,
+
 	}
-};
+});

@@ -23,6 +23,7 @@
 	import BlogCard from '$lib/components/blogs/portfolio-card.svelte';
 	import ProductSeparator from '$lib/components/productSeparator.svelte';
 	import WaneSection from '$lib/components/waneSection.svelte';
+	import Teammembers from '$lib/components/Teammembers.svelte';
 
 	// Keeps setLocale available without changing this page UI.
 	void setLocale;
@@ -71,22 +72,17 @@
 {/if}
   
 <WaneSection />
-
-{#if data?.imagesList?.length > 0}
-	<Slider imagesList={data?.imagesList} />
-{/if}
-{#if data?.testimonialList.length > 0}
-	<main class="flex flex-col items-center justify-center px-4 py-12 md:py-20">
-		<div class="mb-12 max-w-2xl text-center">
-			<h2 class="mb-4 text-3xl font-bold text-foreground md:text-4xl">
-				{m.home_testimonials_title()}
-			</h2>
-			<p class="text-lg text-muted-foreground">
-				{m.home_testimonials_description()}
-			</p>
-		</div>
-
-		<Testimonial testimonials={data.testimonialList} />
-	</main>
-{/if}
+<div class="flex flex-col  justify-center items-center">
+<div class="w-full lg:w-9/10 flex flex-col">
+<Teammembers
+  members={data.executives}
+  eyebrow={m.team_eyebrow()}
+  variant="compact"
+  title={m.team_executive_title()}
+  description={m.team_executive_description()}
+  />
+<Testimonial testimonials={data.stories} variant="featured"
+  title={m.testimonial_title()} ctaHref="/about#testimonial" ctaLabel={m.testimonial_see_all()} />
+  </div>
+</div>
 <Faq />

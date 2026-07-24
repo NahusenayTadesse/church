@@ -10,8 +10,17 @@
 		Star,
 		Building2,
 		Book,
+		BookOpen,
+		CalendarDays,
+		FolderKanban,
+		Images,
+		UsersRound,
+		PanelsTopLeft,
 
-		PanelsTopLeft
+		Banknote,
+
+		BanknoteArrowDown
+
 
 	} from '@lucide/svelte';
 	import * as Sidebar from '$lib/components/ui/sidebar/index.js';
@@ -25,34 +34,94 @@
 	const navigation = [
 		{
 			section: null,
-			items: [
-				{ title: 'Dashboard', url: '/dashboard', icon: LayoutDashboard },
-			]
+			items: [{ title: 'Dashboard', url: '/dashboard', icon: LayoutDashboard }]
 		},
 		{
 			section: 'Operations',
 			items: [
-	
+				{
+					title: 'Bank Accounts',
+					url: '/dashboard/accounts',
+					icon: Banknote,
+				},
+				{
+					title: 'Payment Methods',
+					url: '/dashboard/payment-methods',
+					icon: BanknoteArrowDown,
+				},
 				{
 					title: 'Messages',
 					url: '/dashboard/messages',
 					icon: Mail,
 					counter: messageNumber
-				}
+				},
 			]
 		},
 		{
 			section: 'Content',
 			items: [
-				{ title: 'Partner Logos', url: '/dashboard/logos', icon: Building2 },
-				{ title: 'Testimonial', url: '/dashboard/testimonials', icon: PanelsTopLeft },
 				{
-					title: 'Blogs',
+					title: 'Partners',
+					url: '/dashboard/partners',
+					icon: Building2,
+					items: [
+						{ title: 'Add New Partner', url: '/dashboard/partners/add-partner' },
+						{ title: 'View All Partners', url: '/dashboard/partners' }
+					]
+				},
+				{ title: 'Testimonials', url: '/dashboard/testimonials', icon: PanelsTopLeft },
+				{
+					title: 'Resources',
 					url: '/dashboard/blog',
 					icon: Book,
 					items: [
 						{ title: 'Add New Blog', url: '/dashboard/blog/add-blog' },
 						{ title: 'View All Blogs', url: '/dashboard/blog' }
+					]
+				},
+				{
+					title: 'Books',
+					url: '/dashboard/books',
+					icon: BookOpen,
+					items: [
+						{ title: 'Add New Book', url: '/dashboard/books/add-book' },
+						{ title: 'View All Books', url: '/dashboard/books' }
+					]
+				},
+				{
+					title: 'Events',
+					url: '/dashboard/events',
+					icon: CalendarDays,
+					items: [
+						{ title: 'Add New Event', url: '/dashboard/events/add-event' },
+						{ title: 'View All Events', url: '/dashboard/events' }
+					]
+				},
+				{
+					title: 'Projects',
+					url: '/dashboard/projects',
+					icon: FolderKanban,
+					items: [
+						{ title: 'Add New Project', url: '/dashboard/projects/add-project' },
+						{ title: 'View All Projects', url: '/dashboard/projects' }
+					]
+				},
+				{
+					title: 'Galleries',
+					url: '/dashboard/galleries',
+					icon: Images,
+					items: [
+						{ title: 'Add New Gallery', url: '/dashboard/galleries/add-gallery' },
+						{ title: 'View All Galleries', url: '/dashboard/galleries' }
+					]
+				},
+				{
+					title: 'Team',
+					url: '/dashboard/team',
+					icon: UsersRound,
+					items: [
+						{ title: 'Add New Member', url: '/dashboard/team/add-team' },
+						{ title: 'View All Members', url: '/dashboard/team' }
 					]
 				}
 			]
@@ -60,13 +129,11 @@
 		{
 			section: 'Analytics',
 			items: [
-				{ title: 'Reports', url: '/dashboard/reports', icon: ChartArea },
 				{
 					title: 'Admin Panel',
 					url: '/dashboard/admin-panel',
 					icon: UserRoundCog,
 					items: [
-					
 						{ title: 'Users', url: '/dashboard/admin-panel/users' },
 						{ title: 'Roles', url: '/dashboard/admin-panel/roles' }
 					]
@@ -117,13 +184,15 @@
 
 	<Sidebar.Footer class="border-t border-border/60 bg-sidebar px-4 py-3">
 		<p class="text-[10px] text-muted-foreground">
-			Powered by{' '}
-			<a
-				href="https://digitalconstruct.com"
+		Developed By
+		<a
+			
+			
+				href="https://nahusenaytadesse.vercel.app"
 				target="_blank"
 				class="font-medium text-foreground no-underline hover:underline"
 			>
-				Digital Construct
+				NT
 			</a>
 		</p>
 	</Sidebar.Footer>

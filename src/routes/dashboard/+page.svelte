@@ -11,7 +11,13 @@
 		PanelsTopLeft,
 		ChartArea,
 		UserRoundCog,
-		LayoutDashboard
+		LayoutDashboard,
+
+		BanknoteArrowDown,
+
+		Banknote
+
+
 	} from '@lucide/svelte';
 
 	type Stop = {
@@ -30,7 +36,6 @@
 		stops: Stop[];
 	};
 
-	let { messageCount = 0 }: { messageCount?: number } = $props();
 
 	const lines: Line[] = [
 		{
@@ -42,9 +47,21 @@
 					href: '/dashboard/messages',
 					icon: Mail,
 					description: 'What visitors send you',
-					count: messageCount,
 					countLabel: 'unread'
-				}
+				},
+				{
+					title: 'Bank Accounts',
+					href: 'dashboard/accounts',
+					icon: Banknote,
+					description: "Control What accounts are seen"
+				},
+				{
+					title: 'Payment Methods',
+					href: '/dashboard/payment-methods',
+					icon: BanknoteArrowDown,
+					description: "Insert and Update payment methods"
+
+				},
 			]
 		},
 		{

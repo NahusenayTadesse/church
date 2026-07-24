@@ -1,8 +1,8 @@
 import { superValidate, message } from 'sveltekit-superforms';
 import { zod4 } from 'sveltekit-superforms/adapters';
 import { eq } from 'drizzle-orm';
-import { sendEmail, customerContactTemplate, adminContactTemplate } from '$lib/server/email';
-import { SMTP_USER } from '$env/static/private';
+// `import { sendEmail, customerContactTemplate, adminContactTemplate } from '$lib/server/email';
+// import { SMTP_USER } from '$env/static/private';`
 import { contactSchema } from './schema';
 import { db } from '$lib/server/db';
 import { contactMessages } from '$lib/server/db/schema';
@@ -31,11 +31,11 @@ export const actions: Actions = {
 				.insert(contactMessages)
 				.values({ name, phone: phoneNumber, email, subject, message: contactMessage });
 
-			const adminMail = adminContactTemplate(form.data);
-			sendEmail(SMTP_USER, adminMail.subject, adminMail.html);
+			// const adminMail = adminContactTemplate(form.data);
+			// sendEmail(SMTP_USER, adminMail.subject, adminMail.html);
 
-			const userMail = customerContactTemplate(name, subject);
-			sendEmail(email, userMail.subject, userMail.html);
+			// const userMail = customerContactTemplate(name, subject);
+			// sendEmail(email, userMail.subject, userMail.html);
 
 			return message(form, { type: 'success', text: 'Message Successfully Sent!' });
 		} catch (err) {

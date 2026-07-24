@@ -67,7 +67,7 @@
 	{@render children()}
 	<Footer />
 	<!-- <Cart header={true} /> -->
-	<BottomMenu />
+
 {:else}
 	{@render children()}
 {/if}

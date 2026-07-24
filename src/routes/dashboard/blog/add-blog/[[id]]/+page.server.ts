@@ -14,7 +14,7 @@ import {
 	teamMembers,
 	tags
 } from '$lib/server/db/schema';
-import { saveUploadedFile, deleteUploadedFile } from '$lib/server/upload.js';
+import { saveUploadedFile } from '$lib/server/upload.js';
 import type { Actions, PageServerLoad } from './$types';
 
 /**
@@ -188,52 +188,7 @@ export const actions: Actions = {
 			};
 
 			resourceId = await db.transaction(async (tx) => {
-				if (isEdit) {
-					await tx
-						.update(blog)
-						.set({
-							...baseFields,
-							...(featuredImage !== undefined && { featuredImage }),
-							...(audioUrl !== undefined && { audioUrl }),
-							...(downloadUrl !== undefined && { downloadUrl }),
-							updatedBy: locals?.user?.id
-						})
-						.where(eq(blog.id, editId!));
-
-					// Old files being replaced — clean up storage so uploads
-					// doesn't grow with orphaned images/audio/attachments.
-					if (featuredImage !== undefined && existing!.featuredImage) {
-						await deleteUploadedFile(existing!.featuredImage).catch(() => {});
-					}
-					if (audioUrl !== undefined && existing!.audioUrl) {
-						await deleteUploadedFile(existing!.audioUrl).catch(() => {});
-					}
-					if (downloadUrl !== undefined && existing!.downloadUrl) {
-						await deleteUploadedFile(existing!.downloadUrl).catch(() => {});
-					}
-
-					if (galleryImages.length > 0) {
-						const oldGallery = await tx
-							.select({ imageUrl: blogGallery.imageUrl })
-							.from(blogGallery)
-							.where(eq(blogGallery.blogId, editId!));
-
-						await tx.delete(blogGallery).where(eq(blogGallery.blogId, editId!));
-						await tx.insert(blogGallery).values(
-							galleryImages.map((url, i) => ({
-								blogId: editId!,
-								imageUrl: url,
-								sortOrder: i
-							}))
-						);
-
-						await Promise.all(
-							oldGallery.map((g) => deleteUploadedFile(g.imageUrl).catch(() => {}))
-						);
-					}
-
-					return editId!;
-				}
+			
 
 				// Add path — unchanged from the original action.
 				const [row] = await tx
