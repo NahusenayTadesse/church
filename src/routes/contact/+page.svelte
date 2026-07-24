@@ -108,7 +108,7 @@
                 {m.contact_support_center_badge()}
             </span>
             <h2
-                class="bg-gradient-to-r from-foreground via-foreground to-foreground/60 bg-clip-text text-4xl font-extrabold tracking-tight text-transparent sm:text-5xl"
+                class="bg-linear-to-r from-foreground via-foreground to-foreground/60 bg-clip-text text-4xl font-extrabold tracking-tight text-transparent sm:text-5xl"
             >
                 {m.contact_heading()}
             </h2>
@@ -267,11 +267,11 @@
 
                 <div transition:fly={{ y: 20, duration: 600, delay: 400 }}>
                     <Card
-                        class="border-primary/10 bg-gradient-to-br from-card/40 to-primary/5 shadow-md backdrop-blur-md"
+                        class="border-primary/10 bg-linear-to-br from-card/40 to-primary/5 shadow-md backdrop-blur-md"
                     >
                         <CardHeader class="flex flex-row items-center gap-2.5 pb-2">
                             <ClockIcon class="h-5 w-5 text-primary" />
-                            <CardTitle class="!mt-0 text-lg font-bold tracking-wide">
+                            <CardTitle class="mt-0! text-lg font-bold tracking-wide">
                                 {m.contact_delivery_hours_title()}
                             </CardTitle>
                         </CardHeader>
@@ -294,7 +294,7 @@
         <section transition:fly={{ y: 30, duration: 800, delay: 500 }} class="relative mt-16 w-full">
             <div class="absolute inset-0 -z-10 rounded-3xl bg-primary/5 blur-xl"></div>
             <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3940.3309312526444!2d38.73715996008017!3d9.033545988881428!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x164b85fef49d234f%3A0x37ebbe938f6e42e3!2s&#39;Yirga%20Haile&#39;%20Market%20Center%2C%20Fitawrari%20Gebeyebu%20St%2C%20Addis%20Ababa!5e0!3m2!1sen!2set!4v1781167286180!5m2!1sen!2set"
+						src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63054.71852985862!2d38.7908451975006!3d8.979517497023181!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x164b9b33a3569139%3A0xb505349b8c87fdd2!2sBole%2C%20Addis%20Ababa!5e0!3m2!1sen!2set!4v1784897175018!5m2!1sen!2set"
                 style="border:0;"
                 class="h-[40vh] w-full rounded-3xl border border-primary/10 shadow-lg lg:h-[50vh]"
                 loading="lazy"
