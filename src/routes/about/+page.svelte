@@ -23,6 +23,7 @@
     import Mission from '$lib/components/mission.svelte';
     import * as m from '$lib/paraglide/messages.js';
 	import Teammembers from '$lib/components/Teammembers.svelte';
+	import Partners from '$lib/components/partners.svelte';
 
     let { data } = $props();
 
@@ -211,6 +212,8 @@
         </div>
     </section>
 
+   
+
     <!-- What you can count on -->
     <section class="mx-auto max-w-7xl px-4 pb-20 sm:px-6 lg:px-8">
         <div class="grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
@@ -229,6 +232,7 @@
         </div>
     </section>
 
+     <Mission />
     <!-- Three pillars (previously tabbed — now all visible) -->
     <section class="border-y border-border bg-muted/40 px-4 py-20 sm:px-6 lg:px-8">
         <div class="mx-auto max-w-7xl">
@@ -362,9 +366,8 @@
         </div>
     </section>
 
-    <ImgSeparator />
 
-    <Mission />
+
 
     <!-- Closing call to action -->
     <section class="mx-auto max-w-4xl px-4 py-20 sm:px-6 lg:px-8">
@@ -385,7 +388,7 @@
             </p>
 
             <div class="mt-8">
-                <Button href="/shop" size="lg" class="group gap-2">
+                <Button href="/blogs" size="lg" class="group gap-2">
                     {m.about_page_shop_now()}
                     <ArrowRightIcon class="size-4 transition-transform group-hover:translate-x-1" />
                 </Button>
@@ -408,6 +411,10 @@
   <span id="testimonial"></span>
 <Testimonial testimonials={data.stories} variant="grid"
   title={m.testimonial_title()} ctaLabel={m.testimonial_see_all()} />
+
+
+
+<Partners partners={data.allPartners} />
   </div>
 </div>
 
@@ -416,19 +423,6 @@
     <Slider imagesList={data.imagesList} />
 {/if} -->
 
-{#if data?.testimonialList?.length}
-    <section class="mx-auto max-w-7xl px-4 py-20 sm:px-6 lg:px-8">
-        <div class="mx-auto mb-10 max-w-2xl text-center">
-            <h2 class="text-3xl font-bold tracking-tight sm:text-4xl">
-                {m.about_page_testimonials_title()}
-            </h2>
-            <p class="mt-3 text-base leading-relaxed text-muted-foreground">
-                {m.about_page_testimonials_description()}
-            </p>
-        </div>
 
-        <Testimonial testimonials={data.testimonialList} />
-    </section>
-{/if}
 
 <Faq />

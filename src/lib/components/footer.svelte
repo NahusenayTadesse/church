@@ -70,7 +70,7 @@
 
 				<div class="mt-2 flex flex-col gap-3 text-sm">
 					<a
-						href="https://maps.app.goo.gl/9fpn43xdxMFbNGEp7"
+						href="https://maps.app.goo.gl/q7LnUgS4EvxPkUwp9"
 						target="_blank"
 						rel="noopener noreferrer"
 						class="group flex items-start gap-3 text-muted-foreground transition-colors hover:text-foreground"

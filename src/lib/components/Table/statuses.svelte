@@ -12,8 +12,20 @@
 	const statusMeta = {
 		/* confirmed / paid */
 		confirmed: { icon: BadgeCheck, colour: 'bg-green-400' },
+		completed: { icon: BadgeCheck, colour: 'bg-green-400' },
 		published: { icon: BadgeCheck, colour: 'bg-green-400' },
 		paid: { icon: BadgeCheck, colour: 'bg-green-400' },
+		quarterly: { icon: BadgeCheck, colour: 'bg-green-400' },
+		monthly: { icon: BadgeCheck, colour: 'bg-green-400' },
+		yearly: { icon: BadgeCheck, colour: 'bg-green-400' },
+		given: { icon: BadgeCheck, colour: 'bg-green-400' },
+		'ready to publish': { icon: BadgeCheck, colour: 'bg-green-400' },
+		
+		'not given': { icon: BadgeCheck, colour: 'bg-green-400' },
+		' on home': { icon: BadgeCheck, colour: 'bg-green-400' },
+		
+
+
 
 		complete: { icon: BadgeCheck, colour: 'bg-green-400' },
 		incomplete: { icon: OctagonMinus, colour: 'bg-red-500' },
@@ -22,11 +34,20 @@
 		cancelled: { icon: OctagonMinus, colour: 'bg-red-500' },
 		unpaid: { icon: OctagonMinus, colour: 'bg-red-500' },
 		dead: { icon: OctagonMinus, colour: 'bg-red-500' },
+		failed: { icon: OctagonMinus, colour: 'bg-red-500' },
+		refunded: { icon: OctagonMinus, colour: 'bg-red-500' },
+		hidden: { icon: OctagonMinus, colour: 'bg-red-500' },
+		'awaiting permission': { icon: Loader, colour: 'bg-yellow-500' },
 
 		/* pending */
 		pending: { icon: Loader, colour: 'bg-yellow-500' },
+		paused: { icon: Loader, colour: 'bg-yellow-500' },
+		planned: { icon: Loader, colour: 'bg-yellow-500' },
+
+
 		delivered: { icon: BadgeCheck, colour: 'bg-green-400' },
 		read: { icon: BadgeCheck, colour: 'bg-green-400' },
+		
 
 		/* active */
 		active: { icon: BadgeCheck, colour: 'bg-green-400' },

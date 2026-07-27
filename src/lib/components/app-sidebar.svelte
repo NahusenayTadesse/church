@@ -19,7 +19,10 @@
 
 		Banknote,
 
-		BanknoteArrowDown
+		BanknoteArrowDown,
+
+		Coins
+
 
 
 	} from '@lucide/svelte';
@@ -39,6 +42,11 @@
 		{
 			section: 'Operations',
 			items: [
+				{
+					title: 'Donations',
+					url: '/dashboard/donations',
+					icon: Coins,
+				},
 				{
 					title: 'Bank Accounts',
 					url: '/dashboard/accounts',

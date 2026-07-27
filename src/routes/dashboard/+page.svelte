@@ -15,7 +15,10 @@
 
 		BanknoteArrowDown,
 
-		Banknote
+		Banknote,
+
+		Coins
+
 
 
 	} from '@lucide/svelte';
@@ -42,6 +45,12 @@
 			name: 'Operations',
 			hsl: '199 89% 48%',
 			stops: [
+					{
+					title: 'Donations',
+					href: '/dashboard/donations',
+					icon: Coins,
+					description: "Manage Donations that have been entered"
+				},
 				{
 					title: 'Messages',
 					href: '/dashboard/messages',

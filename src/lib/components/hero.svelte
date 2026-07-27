@@ -159,7 +159,7 @@
             </div>
 
             <div class="mt-8 flex flex-wrap items-center gap-4 md:mt-12">
-                <Button href="/partner" variant="default" class="gap-2">
+                <Button href="/contact" variant="default" class="gap-2">
                     <HeartHandshake class="h-4 w-4" />
                     {m.hero_partner_with_us()}
                     <ArrowRight class="h-4 w-4" />

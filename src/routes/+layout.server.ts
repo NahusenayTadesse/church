@@ -4,10 +4,9 @@ import {
 	roles,
 	blog,
 	blogCategories,
-
-	testimonials
+    partners
 } from '$lib/server/db/schema';
-import { eq, getTableColumns } from 'drizzle-orm';
+import { eq, getTableColumns, asc } from 'drizzle-orm';
 import { loadFlash } from 'sveltekit-flash-message/server';
 
 export const load = loadFlash(async ({locals}) => {
@@ -27,7 +26,21 @@ export const load = loadFlash(async ({locals}) => {
 	}
 
 
-	
+		const allPartners = await db
+		.select({
+			id: partners.id,
+			name: partners.name,
+			logo: partners.logo,
+			description: partners.description,
+			about: partners.about,
+			website: partners.website,
+			partnershipType: partners.partnershipType,
+			showOnHome: partners.showOnHome,
+			sortOrder: partners.sortOrder
+		})
+		.from(partners)
+		.orderBy(asc(partners.sortOrder), asc(partners.name));
+
 
 
 
@@ -45,6 +58,7 @@ export const load = loadFlash(async ({locals}) => {
 	return {
 		roleName,
 		blogItems,
+		allPartners
 
 	}
 });

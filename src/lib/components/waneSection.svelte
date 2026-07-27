@@ -5,7 +5,6 @@
 
   // Shared infrastructure data mapped to dynamic Paraglide message functions
   const sharedServices = [
-    { name: m.tech(), icon: Cpu },
     { name: m.finance(), icon: Coins },
     { name: m.legal(), icon: Scale },
     { name: m.procurement(), icon: ShoppingBag },

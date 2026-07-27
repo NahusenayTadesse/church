@@ -111,7 +111,7 @@
 
 	"FAQ": "Statement of Faith",
 	"faq_customer_support_badge": "What We Believe",
-	"faq_heading": "Statement of Faith & Core Beliefs",
+	"faq_heading": "Statement of Faith",
 	"faq_description": "The biblical foundations guiding our life's work, ministry operations, and teaching principles.",
 	"faq_product_quality_title": "What do we believe about the Holy Bible?",
 	"faq_product_quality_description": "We believe the Bible is the inspired, infallible, and authoritative Word of God.",
@@ -368,8 +368,8 @@
 	"contact_social_tiktok": "TikTok",
 	"contact_social_facebook": "Facebook",
 	"contact_social_telegram": "Telegram",
-	"contact_email_support_label": "Email Support",
-	"contact_direct_call_whatsapp_label": "Direct Call / Center Lines",
+	"contact_email_support_label": "Email",
+	"contact_direct_call_whatsapp_label": "Phone",
 	"contact_support_center_badge": "Ministry Center",
 	"contact_heading": "We can’t wait to hear from you",
 	"contact_description": "Have questions about our leadership programs, donation channels, or need counseling support? Reach out today.",
@@ -910,7 +910,7 @@
 	"books_meta_description": "Books on servant leadership, youth development and Christian marriage, in Amharic and English.",
 	"books_badge": "Books",
 	"books_heading": "Books that build leaders and homes",
-	"books_description": "Written for pastors, couples and young leaders — in Amharic and English, in print, PDF, ebook and audio.",
+	"books_description": "Written for leaders, couples and youth — in Amharic and English, in print, PDF, ebook and audio.",
 
 	"books_search_placeholder": "Search by title, author or subject",
 
@@ -1211,9 +1211,27 @@
 	"testimonial_next": "Next story",
 	"testimonial_go_to": "Story {number}",
 	"testimonial_close": "Close",
-	"testimonial_see_all": "Read more stories"
+	"testimonial_see_all": "Read more stories",
 
 
+  "partners_eyebrow": "Working together",
+  "partners_title": "Our Partners",
+  "partners_subtitle": "We serve alongside churches, organisations and individuals who share the work with us — through funding, expertise, prayer and presence on the ground.",
+  "partners_filter_all": "All",
+  "partner_type_sponsor": "Sponsor",
+  "partner_type_ministry_partner": "Ministry partner",
+  "partner_type_implementing_partner": "Implementing partner",
+  "partner_type_media_partner": "Media partner",
+  "partner_type_donor": "Donor",
+  "partner_type_other": "Partner",
+  "partner_logo_alt": "{name} logo",
+  "partner_about_heading": "About",
+  "partner_visit_website": "Visit website",
+  "partners_empty_title": "No partners to show yet",
+  "partners_empty_body": "Partnerships are being confirmed. Check back soon, or reach out if you'd like to be among the first.",
+  "partners_cta_title": "Partner with us",
+  "partners_cta_body": "Whether you give, build, teach or pray, there is a place for you in this work. Tell us what you have in mind and we'll take it from there.",
+  "partners_cta_button": "Get in touch"
 
 
 	

@@ -78,7 +78,7 @@
 
 	"FAQ": "የእምነት መግለጫ",
 	"faq_customer_support_badge": "የምናምነው እውነት",
-	"faq_heading": "የእምነት መግለጫ እና መሠረታዊ አስተምህሮዎች",
+	"faq_heading": "የእምነት መግለጫ",
 	"faq_description": "ለአገልግሎታችን፣ ለዕለታዊ ስራችን እና ለምናስተምራቸው መርሆዎች መሰረት የሆኑ የእምነት እውነታዎች።",
 	"faq_product_quality_title": "ስለ ቅዱስ መጽሐፍ ቅዱስ ምን እናምናለን?",
 	"faq_product_quality_description": "መጽሐፍ ቅዱስ የእግዚአብሔር መንፈስ ያለበት፣ የማይሳሳት እና ስልጣን ያለው የእግዚአብሔር ቃል መሆኑን እናምናለን።",
@@ -330,8 +330,8 @@
 	"contact_social_tiktok": "TikTok",
 	"contact_social_facebook": "Facebook",
 	"contact_social_telegram": "Telegram",
-	"contact_email_support_label": "የኢሜይል ድጋፍ",
-	"contact_direct_call_whatsapp_label": "ቀጥታ ጥሪ / የማዕከሉ ስልኮች",
+	"contact_email_support_label": "ኢሜይል",
+	"contact_direct_call_whatsapp_label": "ስልክ",
 	"contact_support_center_badge": "የአገልግሎት ማዕከል",
 	"contact_heading": "ከእርስዎ ለመስማት ጓጉተናል",
 	"contact_description": "ስለ መሪነት ፕሮግራሞቻችን፣ ስለ ልገሳ መንገዶች ጥያቄ አለዎት ወይስ የምክር ድጋፍ ይፈልጋሉ? ዛሬ ያግኙን።",
@@ -888,7 +888,7 @@
 	"books_meta_description": "ስለ አገልጋይ አመራር፣ ስለ ወጣቶች እድገትና ስለ ክርስቲያናዊ ትዳር በአማርኛና በእንግሊዝኛ የተጻፉ መጻሕፍት።",
 	"books_badge": "መጻሕፍት",
 	"books_heading": "መሪዎችንና ቤቶችን የሚገነቡ መጻሕፍት",
-	"books_description": "ለአገልጋዮች፣ ለባለትዳሮችና ለወጣት መሪዎች የተጻፉ — በአማርኛና በእንግሊዝኛ፤ በኅትመት፣ በPDF፣ በኢ-መጽሐፍና በድምፅ።",
+	"books_description": "ለወጣቶች ፣ ለባለትዳሮችና ለመሪዎች የተጻፉ — በአማርኛና በእንግሊዝኛ፤ በኅትመት፣ በPDF፣ በኢ-መጽሐፍና በድምፅ።",
 
 	"books_search_placeholder": "በርዕስ፣ በጸሐፊ ወይም በጉዳይ ይፈልጉ",
 
@@ -1183,10 +1183,28 @@
 	"testimonial_next": "ቀጣይ ታሪክ",
 	"testimonial_go_to": "ታሪክ {number}",
 	"testimonial_close": "ዝጋ",
-	"testimonial_see_all": "ተጨማሪ ታሪኮችን ያንብቡ"
+	"testimonial_see_all": "ተጨማሪ ታሪኮችን ያንብቡ",
 
 
 
+  "partners_eyebrow": "በጋራ በመስራት",
+  "partners_title": "አጋሮቻችን",
+  "partners_subtitle": "በገንዘብ፣ በእውቀት፣ በጸሎትና በቦታው በመገኘት ሥራውን ከእኛ ጋር የሚካፈሉ አብያተ ክርስቲያናት፣ ድርጅቶችና ግለሰቦች ጎን ለጎን እናገለግላለን።",
+  "partners_filter_all": "ሁሉም",
+  "partner_type_sponsor": "ደጋፊ",
+  "partner_type_ministry_partner": "የአገልግሎት አጋር",
+  "partner_type_implementing_partner": "አስፈጻሚ አጋር",
+  "partner_type_media_partner": "የሚዲያ አጋር",
+  "partner_type_donor": "ለጋሽ",
+  "partner_type_other": "አጋር",
+  "partner_logo_alt": "የ{name} አርማ",
+  "partner_about_heading": "ስለ እነሱ",
+  "partner_visit_website": "ድረ ገጻቸውን ይጎብኙ",
+  "partners_empty_title": "እስካሁን የሚታይ አጋር የለም",
+  "partners_empty_body": "የአጋርነት ስምምነቶች በሂደት ላይ ናቸው። በቅርቡ ይመለሱ፣ ወይም ከመጀመሪያዎቹ መካከል መሆን ከፈለጉ ያግኙን።",
+  "partners_cta_title": "ከእኛ ጋር በአጋርነት ይስሩ",
+  "partners_cta_body": "በመስጠት፣ በመገንባት፣ በማስተማር ወይም በጸሎት ቢሆን፣ በዚህ ሥራ ውስጥ የእርስዎ ድርሻ አለ። በአእምሮዎ ያለውን ይንገሩን፣ የቀረውን አብረን እናከናውናለን።",
+  "partners_cta_button": "ያግኙን"
 
 
 

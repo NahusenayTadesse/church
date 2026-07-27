@@ -24,6 +24,7 @@
 	import ProductSeparator from '$lib/components/productSeparator.svelte';
 	import WaneSection from '$lib/components/waneSection.svelte';
 	import Teammembers from '$lib/components/Teammembers.svelte';
+	import Partners from '$lib/components/partners.svelte';
 
 	// Keeps setLocale available without changing this page UI.
 	void setLocale;
@@ -81,6 +82,13 @@
   title={m.team_executive_title()}
   description={m.team_executive_description()}
   />
+
+<Partners
+  partners={data.allPartners.filter((p) => p.showOnHome)}
+  showFilters={false}
+  showCta={false}
+  limit={8}
+/>
 <Testimonial testimonials={data.stories} variant="featured"
   title={m.testimonial_title()} ctaHref="/about#testimonial" ctaLabel={m.testimonial_see_all()} />
   </div>

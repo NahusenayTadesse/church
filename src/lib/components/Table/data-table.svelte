@@ -250,8 +250,8 @@
 						</div>
 					</ScrollArea>
 				{/if}
-				<div class="max-h-96 rounded-md border">
-					<Table.Root id={uniqueTableId} class="relative max-h-96">
+				<div class="rounded-md border">
+					<Table.Root id={uniqueTableId} class="relative">
 						<Table.Header>
 							{#each table.getHeaderGroups() as headerGroup (headerGroup.id)}
 								<Table.Row>

@@ -224,9 +224,8 @@
 			label="Sold On Site As"
 			placeholder="Link a product to sell from stock"
 			items={data?.productOptions}
-		/> -->
+		/>  -->
 
-		<!-- {#if !sellsOnSite}
 			<InputComp
 				{form}
 				{errors}
@@ -235,7 +234,6 @@
 				label="External Store Link"
 				placeholder="Amazon, Lulu or another store URL"
 			/>
-		{/if} -->
 
 		<!-- Formats -->
 		<p class="px-1 pt-2 text-sm font-medium">Formats</p>
@@ -243,6 +241,7 @@
 			A digital format is listed once its file is uploaded. Leave the price blank to use the book
 			price above.
 		</p>
+
 
 		<InputComp
 			{form}
@@ -264,7 +263,7 @@
 				min="0"
 			/>
 		{/if}
-
+  
 		<InputComp
 			{form}
 			{errors}
