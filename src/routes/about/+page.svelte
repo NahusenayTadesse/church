@@ -10,6 +10,7 @@
         HeartIcon,
         ShieldIcon,
         SparklesIcon,
+        Users,
         UsersIcon
     } from '@lucide/svelte';
 
@@ -18,14 +19,17 @@
 
     import Faq from '$lib/components/faq.svelte';
     import Testimonial from '$lib/components/testimonial.svelte';
-    import Slider from '$lib/components/slider.svelte';
-    import ImgSeparator from '$lib/components/imgSeparator.svelte';
+ 
     import Mission from '$lib/components/mission.svelte';
     import * as m from '$lib/paraglide/messages.js';
 	import Teammembers from '$lib/components/Teammembers.svelte';
 	import Partners from '$lib/components/partners.svelte';
 
     let { data } = $props();
+    const executives = $derived(data?.executives?.map(
+  exec => `${exec.name} - ${exec.position}`
+))
+    
 
     // Was a three-tab switcher. Now all three are on the page at once.
     const pillars = [
@@ -35,21 +39,17 @@
             title: m.about_page_tab_quality_title,
             text: m.about_page_tab_quality_text,
             points: [
-                m.about_page_tab_quality_point_selected,
-                m.about_page_tab_quality_point_performance,
-                m.about_page_tab_quality_point_reliable
+                m.about_page_tab_quality_point_selected(),
+                m.about_page_tab_quality_point_performance(),
+                m.about_page_tab_quality_point_reliable()
             ]
         },
         {
-            icon: BookOpenIcon,
+            icon: Users,
             label: m.about_page_tab_products_label,
             title: m.about_page_tab_products_title,
             text: m.about_page_tab_products_text,
-            points: [
-                m.about_page_tab_products_point_mobile,
-                m.about_page_tab_products_point_storage,
-                m.about_page_tab_products_point_audio
-            ]
+            points: executives
         },
         {
             icon: HandHeartIcon,
@@ -57,9 +57,9 @@
             title: m.about_page_tab_support_title,
             text: m.about_page_tab_support_text,
             points: [
-                m.about_page_tab_support_point_warranty,
-                m.about_page_tab_support_point_technical,
-                m.about_page_tab_support_point_replacement
+                m.about_page_tab_support_point_warranty(),
+                m.about_page_tab_support_point_technical(),
+                m.about_page_tab_support_point_replacement()
             ]
         }
     ];
@@ -129,12 +129,12 @@
             text: m.about_page_layer_storage_text,
             image: '/image4.webp'
         },
-        {
-            icon: BookOpenIcon,
-            title: m.about_page_layer_audio_title,
-            text: m.about_page_layer_audio_text,
-            image: '/image5.webp'
-        }
+        // {
+        //     icon: BookOpenIcon,
+        //     title: m.about_page_layer_audio_title,
+        //     text: m.about_page_layer_audio_text,
+        //     image: '/image5.webp'
+        // }
     ];
 
     const journey = [
@@ -267,7 +267,7 @@
                                     <span class="mt-0.5 rounded-full bg-primary/10 p-1 text-primary">
                                         <CheckIcon class="size-3" />
                                     </span>
-                                    <span class="text-sm font-medium">{point()}</span>
+                                    <span class="text-sm font-medium">{point}</span>
                                 </li>
                             {/each}
                         </ul>
@@ -307,7 +307,7 @@
                 </p>
             </div>
 
-            <div class="mt-12 grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
+            <div class="mt-12 grid gap-6 sm:grid-cols-1 lg:grid-cols-3">
                 {#each focusAreas as area (area.title)}
                     {@const Icon = area.icon}
                     <article

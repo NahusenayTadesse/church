@@ -42,7 +42,7 @@ export const actions: Actions = {
 				.set({
 					...gated,
 					updatedBy: locals?.user?.id,
-					avatar: photo,
+					avatar: photo,	
 				})
 				.where(eq(testimonials.id, id));
 

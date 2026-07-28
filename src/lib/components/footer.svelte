@@ -60,9 +60,7 @@
 			<div class="flex flex-col gap-4">
 				<div class="flex items-center gap-2">
 					<img src="/logo.webp" class="w-30" alt={m.footer_logo_alt()} />
-					<span class="text-xl font-bold tracking-tight text-foreground">
-						{m.footer_brand_electronics()}
-					</span>
+		
 				</div>
 				<p class="text-sm leading-relaxed text-muted-foreground">
 					{m.footer_company_description()}
@@ -70,7 +68,7 @@
 
 				<div class="mt-2 flex flex-col gap-3 text-sm">
 					<a
-						href="https://maps.app.goo.gl/q7LnUgS4EvxPkUwp9"
+						href="https://maps.app.goo.gl/mFLb36gXCfzPZ6jAA"
 						target="_blank"
 						rel="noopener noreferrer"
 						class="group flex items-start gap-3 text-muted-foreground transition-colors hover:text-foreground"
@@ -79,12 +77,12 @@
 						<span>{m.footer_address()}</span>
 					</a>
 					<a
-						href="tel:+251911234567"
+						href="tel:+251 911623708"
 						target="_blank"
 						class="flex items-center gap-3 text-muted-foreground transition-colors hover:text-foreground"
 					>
 						<PhoneIcon class="size-4 shrink-0 text-primary" />
-						<span>+251 91 123 4567</span>
+						<span>+251 9 11 62 37 08</span>
 					</a>
 					<a
 						href="mailto:info@stewardoflife.org"
@@ -131,14 +129,14 @@
 				</h4>
 				<div class="relative h-36 w-full overflow-hidden rounded-xl border border-border bg-muted">
 					<iframe
-						src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63054.71852985862!2d38.7908451975006!3d8.979517497023181!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x164b9b33a3569139%3A0xb505349b8c87fdd2!2sBole%2C%20Addis%20Ababa!5e0!3m2!1sen!2set!4v1784897175018!5m2!1sen!2set"
+						src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31525.882341021457!2d38.71339480468071!3d8.996487415928225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x164b87279cf9d1c7%3A0xa52f6dc421c8a900!2sMekanisa%20Kore!5e0!3m2!1sen!2set!4v1785221629407!5m2!1sen!2set"
 						style="border:0;"
 						class="absolute inset-0 h-full w-full opacity-80 contrast-125 grayscale invert dark:invert-0"
 						loading="lazy"
 						referrerpolicy="no-referrer-when-downgrade"
 						title={m.footer_map_title()}
 					></iframe>
-					
+				
 				</div>
 			</div>
 		</div>

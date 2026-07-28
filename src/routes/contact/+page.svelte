@@ -25,7 +25,7 @@
     const socialLinks = [
         {
             name: m.contact_social_phone,
-            url: 'tel:+251911234567',
+            url: 'tel:+251911623708',
             icon: Phone,
             color: 'hover:text-pink-500 hover:border-pink-500/30'
         },
@@ -67,8 +67,8 @@
             key: 'phone',
             icon: PhoneIcon,
             label: m.contact_direct_call_whatsapp_label,
-            value: '+251 91 123 4567',
-            href: 'https://wa.me/251911234567'
+            value: '+251911623708',
+            href: 'https://wa.me/251911623708'
         }
     ];
 
@@ -294,7 +294,7 @@
         <section transition:fly={{ y: 30, duration: 800, delay: 500 }} class="relative mt-16 w-full">
             <div class="absolute inset-0 -z-10 rounded-3xl bg-primary/5 blur-xl"></div>
             <iframe
-						src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d63054.71852985862!2d38.7908451975006!3d8.979517497023181!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x164b9b33a3569139%3A0xb505349b8c87fdd2!2sBole%2C%20Addis%20Ababa!5e0!3m2!1sen!2set!4v1784897175018!5m2!1sen!2set"
+						src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d31525.882341021457!2d38.71339480468071!3d8.996487415928225!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x164b87279cf9d1c7%3A0xa52f6dc421c8a900!2sMekanisa%20Kore!5e0!3m2!1sen!2set!4v1785221629407!5m2!1sen!2set"
                 style="border:0;"
                 class="h-[40vh] w-full rounded-3xl border border-primary/10 shadow-lg lg:h-[50vh]"
                 loading="lazy"

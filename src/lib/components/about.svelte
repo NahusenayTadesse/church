@@ -15,7 +15,13 @@
         Sparkles,
         BookOpen,
         GraduationCap,
-        Globe
+        Globe,
+
+		ShieldUser,
+
+		RefreshCcw
+
+
     } from '@lucide/svelte';
 
     import { fly, scale } from 'svelte/transition';
@@ -38,9 +44,19 @@
             description: m.about_value_integrity_description
         },
         {
-            icon: Sparkles,
+            icon: ShieldUser,
             label: m.about_value_stewardship_label,
             description: m.about_value_stewardship_description
+        },
+          {
+            icon: Sparkles,
+            label: m.about_value_excellence_label,
+            description: m.about_value_excellence_description
+        },
+          {
+            icon: RefreshCcw,
+            label: m.about_value_transformation_label,
+            description: m.about_value_transformation_description
         }
     ];
 
@@ -210,17 +226,17 @@
             </div>
 
             <!-- Core Values List -->
-            <div class="flex flex-col gap-4">
-                {#each values as valueItem, i}
+            <div class="grid grid-cols-1 lg:grid-cols-2 gap-4">
+                {#each values as valueItem, i (valueItem.label)}
                     <div transition:fly={{ y: 20, duration: 600, delay: 180 + i * 90 }}>
                         <Card
                             class="group border-primary/10 bg-card/40 backdrop-blur-md transition duration-500 hover:-translate-y-1 hover:border-primary/30 hover:shadow-lg hover:shadow-primary/5"
                         >
-                            <CardContent class="flex gap-4 pt-6">
+                            <CardContent class="flex flex-col gap-4 pt-6">
                                 <div
                                     class="flex size-12 shrink-0 items-center justify-center rounded-xl border border-primary/10 bg-primary/5 text-primary transition duration-500 group-hover:scale-110 group-hover:bg-primary/10"
                                 >
-                                    <svelte:component this={valueItem.icon} class="size-6" />
+                                    <valueItem.icon class="size-6" />
                                 </div>
 
                                 <div>

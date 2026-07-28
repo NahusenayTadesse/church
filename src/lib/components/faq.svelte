@@ -14,10 +14,17 @@
         Church,
         Crown,
         Heart,
-        HandHeart
+        HandHeart,
+
+		HandGrab,
+
+		LucideHeartHandshake
+
+
     } from '@lucide/svelte';
     import { fly } from 'svelte/transition';
     import * as m from '$lib/paraglide/messages.js';
+	import Pray from '@tabler/icons-svelte/icons/pray';
 
     const features = [
         {
@@ -73,7 +80,14 @@
             title: m.faq_customer_support_title,
             description: m.faq_customer_support_description,
             icon: HandHeart // Human Life
+        },
+           {
+            id: 'customer-last',
+            title: m.faq_customer_last_title,
+            description: m.faq_customer_last_description,
+            icon: Pray
         }
+
     ];
 </script>
 

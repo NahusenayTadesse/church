@@ -424,7 +424,7 @@
 								<div class="grid grid-cols-3 gap-3">
 									{#each fallbackPresets as preset (preset.id)}
 										{@const value = Number(preset.amount)}
-										<button
+										<!-- <button
 											type="button"
 											onclick={() => ($form.amount = value)}
 											class="flex flex-col items-center gap-0.5 rounded-2xl border px-3 py-4 transition-all duration-300 {$form.amount ===
@@ -441,7 +441,7 @@
 													{preset.label}
 												</span>
 											{/if}
-										</button>
+										</button> -->
 									{/each}
 								</div>
 							{/if}
