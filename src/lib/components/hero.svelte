@@ -6,12 +6,12 @@
     import * as m from '$lib/paraglide/messages.js';
 
     let heroImage = [
-        'image1.webp',
-        'image2.webp',
-        'image3.webp',
-        'image4.webp',
-        'image5.webp',
-        'image6.webp'
+        'image14.webp',
+        'image07.webp',
+        'image08.webp',
+        'image09.webp',
+        'image10.webp',
+        'image11.webp'
     ];
 
     let currentImage = $state(0);

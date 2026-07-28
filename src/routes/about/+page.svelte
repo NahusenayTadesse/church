@@ -115,19 +115,19 @@
             icon: CrossIcon,
             title: m.about_page_layer_power_title,
             text: m.about_page_layer_power_text,
-            image: '/image2.webp'
+            image: '/image11.webp'
         },
         {
             icon: HeartIcon,
             title: m.about_page_layer_mobile_title,
             text: m.about_page_layer_mobile_text,
-            image: '/image3.webp'
+            image: '/image13.webp'
         },
         {
             icon: UsersIcon,
             title: m.about_page_layer_storage_title,
             text: m.about_page_layer_storage_text,
-            image: '/image4.webp'
+            image: '/image6.webp'
         },
         // {
         //     icon: BookOpenIcon,
@@ -142,7 +142,7 @@
             icon: ChurchIcon,
             title: m.about_page_journey_explore_title,
             text: m.about_page_journey_explore_text,
-            image: '/image6.webp'
+            image: '/image08.webp'
         },
         {
             icon: BookOpenIcon,
@@ -316,7 +316,7 @@
                         <img
                             src={area.image}
                             alt={area.title()}
-                            class="aspect-[3/2] w-full object-cover"
+                            class="aspect-3/2 w-full object-cover"
                         />
                         <div class="p-6">
                             <div class="flex size-10 items-center justify-center rounded-xl bg-primary/10 text-primary">

@@ -62,19 +62,19 @@
 
     const galleryImages = [
         {
-            image: '/image2.webp',
+            image: '/image16.webp',
             alt: m.about_gallery_marriage_alt
         },
         {
-            image: '/image3.webp',
+            image: '/image10.webp',
             alt: m.about_gallery_youth_alt
         },
         {
-            image: '/image4.webp',
+            image: '/image13.webp',
             alt: m.about_gallery_leadership_alt
         },
         {
-            image: '/image5.webp',
+            image: '/image15.webp',
             alt: m.about_gallery_community_alt
         }
     ];
@@ -84,26 +84,26 @@
             icon: Users,
             title: m.about_pillar_servant_leadership_title,
             copy: m.about_pillar_servant_leadership_copy,
-            image: '/image6.webp'
+            image: '/image18.webp'
         },
         {
             icon: GraduationCap,
             title: m.about_pillar_youth_empowerment_title,
             copy: m.about_pillar_youth_empowerment_copy,
-            image: '/image7.webp'
+            image: '/image09.webp'
         },
         {
             icon: HeartHandshake,
             title: m.about_pillar_marriage_leadership_title,
             copy: m.about_pillar_marriage_leadership_copy,
-            image: '/image8.webp'
+            image: '/image17.webp'
         }
     ];
 </script>
 
 <section class="relative overflow-hidden bg-background px-4 py-24 text-foreground sm:px-6 lg:px-8">
     <div
-        class="absolute inset-0 -z-20 bg-[radial-gradient(circle_at_top_left,hsl(var(--primary)/0.16),transparent_32%),radial-gradient(circle_at_bottom_right,hsl(var(--primary)/0.1),transparent_34%)]"
+        class="absolute inset-0 -z-20 bg-[radial-gradient(circle_at_top_left,hsl(var(--primary)/0.16),transparent_32%)x,radial-gradient(circle_at_bottom_right,hsl(var(--primary)/0.1),transparent_34%)]"
     ></div>
     <div
         class="absolute top-0 left-1/4 -z-10 h-96 w-96 animate-pulse rounded-full bg-primary/10 blur-3xl"
@@ -113,7 +113,7 @@
     ></div>
 
     <div class="mx-auto max-w-6xl">
-        <!-- Header Section -->
+        <!-- Header Section -->B
         <div transition:fly={{ y: 30, duration: 700 }} class="mb-16 text-center">
             <span
                 class="mx-auto mb-4 inline-flex rounded-full border border-primary/20 bg-primary/5 px-4 py-1 text-xs font-semibold tracking-wider text-primary uppercase"
@@ -183,7 +183,7 @@
                                 class="relative overflow-hidden rounded-2xl border border-primary/10 bg-background/70 p-3 shadow-inner"
                             >
                                 <img
-                                    src="/image1.webp"
+                                    src="/image05.webp"
                                     alt={m.about_showcase_alt()}
                                     class="aspect-4/5 w-full rounded-xl object-cover transition duration-700 hover:scale-105"
                                 />
@@ -327,8 +327,7 @@
                             class="group flex flex-col justify-between overflow-hidden rounded-2xl border border-primary/10 bg-background/60 p-6 transition duration-500 hover:-translate-y-1 hover:border-primary/30 hover:bg-primary/5"
                         >
                             <div>
-                                <svelte:component
-                                    this={pillar.icon}
+                                <pillar.icon
                                     class="mb-4 size-7 text-primary transition duration-500 group-hover:scale-110"
                                 />
 
@@ -343,7 +342,7 @@
                                 <img 
                                     src={pillar.image} 
                                     alt={pillar.title()} 
-                                    class="h-36 w-full object-cover transition duration-500 group-hover:scale-105"
+                                    class="h-56 w-full object-contain transition duration-500 group-hover:scale-105"
                                 />
                             </div>
                         </div>
