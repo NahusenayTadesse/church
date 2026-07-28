@@ -148,13 +148,13 @@
             icon: BookOpenIcon,
             title: m.about_page_journey_choose_title,
             text: m.about_page_journey_choose_text,
-            image: '/image7.webp'
+            image: '/image05.webp'
         },
         {
             icon: HandHeartIcon,
             title: m.about_page_journey_support_title,
             text: m.about_page_journey_support_text,
-            image: '/image8.webp'
+            image: '/image04.webp'
         }
     ];
 </script>
