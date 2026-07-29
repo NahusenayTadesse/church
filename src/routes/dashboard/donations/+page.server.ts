@@ -4,7 +4,7 @@ import { zod4 } from 'sveltekit-superforms/adapters';
 import { eq, desc, sql } from 'drizzle-orm';
 
 import { db } from '$lib/server/db';
-import { donations, donationCauses, projects, transactions } from '$lib/server/db/schema';
+import { donations, donationCauses, projects, transactions, paymentAccounts } from '$lib/server/db/schema';
 
 import { markReceiptSent, updateDonationStatus, deleteDonation } from './schema';
 
@@ -38,6 +38,11 @@ export const load: PageServerLoad = async () => {
 			status: donations.status,
 			receiptSentAt: donations.receiptSentAt,
 			createdAt: donations.createdAt,
+			paymentAccount: donations.paymentAccount,
+			paymentAccountId: donations.paymentAccountId,
+			bank: paymentAccounts.bankName,
+			currentAccount: paymentAccounts.accountNumber,
+
 
 			transactionId: donations.transactionId,
 			txnRef: transactions.txnRef,
@@ -45,6 +50,7 @@ export const load: PageServerLoad = async () => {
 		})
 		.from(donations)
 		.leftJoin(donationCauses, eq(donations.causeId, donationCauses.id))
+		.leftJoin(paymentAccounts, eq(donations.paymentAccountId, paymentAccounts.id))
 		.leftJoin(projects, eq(donations.projectId, projects.id))
 		.leftJoin(transactions, eq(donations.transactionId, transactions.id))
 		.orderBy(desc(donations.createdAt));

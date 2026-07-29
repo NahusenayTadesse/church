@@ -616,6 +616,7 @@ export const transactions = mysqlTable('transactions', {
 		'overpaid',
 		'disputed'
 	]).default('pending'),
+
 	paymentMethodId: int('payment_method_id').references(() => paymentMethods.id, {
 		onDelete: 'set null'
 	}),
@@ -675,7 +676,8 @@ export const donations = mysqlTable('donations', {
 	message: varchar('message', { length: 500 }),
 
 	transactionId: int('transaction_id').references(() => transactions.id),
-	paymentAccountId: int('payment_account_id').references(() => paymentAccounts.id),
+	paymentAccountId: int('payment_account_id').references(() => paymentAccounts.id, { onDelete: 'set null'}),
+	paymentAccount: varchar('payment_account', { length: 255 }),
 
 	status: mysqlEnum('status', ['pending', 'completed', 'failed', 'refunded', 'cancelled']).default(
 		'pending'

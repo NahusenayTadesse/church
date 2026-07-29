@@ -170,6 +170,7 @@ export const actions: Actions = {
 		} = form.data;
 
 		/* Trust the database for the cause and its currency, not the posted form. */
+
 		const [cause] = causeId
 			? await db
 					.select({
@@ -187,6 +188,7 @@ export const actions: Actions = {
 					.select({
 						id: paymentAccounts.id,
 						currency: paymentAccounts.currency,
+						account: paymentAccounts.accountNumber,
 						paymentMethodId: paymentAccounts.paymentMethodId
 					})
 					.from(paymentAccounts)
@@ -225,6 +227,7 @@ export const actions: Actions = {
 				message: note || null,
 				transactionId: Number(result.insertId),
 				paymentAccountId: account?.id ?? null,
+				paymentAccount: account?.account ?? null,
 				status: 'pending'
 			});
 

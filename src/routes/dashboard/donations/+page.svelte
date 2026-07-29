@@ -12,6 +12,7 @@
 	import Copy from '$lib/Copy.svelte';
 	import { formatEthiopianDate as formatDate } from '$lib/global.svelte.js';
 	import FilterMenu from '$lib/components/Table/FilterMenu.svelte';
+	import DataTableLinks from '$lib/components/Table/data-table-links.svelte';
 
 	let { data } = $props();
 
@@ -76,6 +77,28 @@
 			sortable: true,
 			cell: ({ row }) => money(row.original.amount, row.original.currency)
 		},
+
+		{
+			accessorKey: 'bank',
+			header: ({ column }) =>
+				renderComponent(DataTableSort, {
+					name: 'Bank Sent At',
+					onclick: column.getToggleSortingHandler()
+				}),
+			sortable: true,
+		},
+		{
+			accessorKey: 'paymentAccount',
+			header: ({ column }) =>
+				renderComponent(DataTableSort, {
+					name: 'Account Recieved In',
+					onclick: column.getToggleSortingHandler()
+				}),
+			sortable: true,
+		cell: ({ row }) => row.original.paymentAccount ?? row.original.currentAccount
+		
+		},
+
 
 		{
 			accessorKey: 'causeName',
@@ -197,7 +220,7 @@
 	<FilterMenu
 		data={data?.allDonations}
 		bind:filteredList
-		filterKeys={['status', 'causeName', 'isRecurring']}
+		filterKeys={['status', 'causeName', 'isRecurring', 'bank', 'paymentAccount', 'donorName']}
 	/>
 	<DataTable {columns} data={filteredList} search={true} fileName="Donations" />
 {/key}
