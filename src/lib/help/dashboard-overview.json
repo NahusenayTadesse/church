@@ -1,0 +1,69 @@
+{
+  "path": "/dashboard",
+  "title": "Dashboard Home (Map)",
+  "summary": "The starting page of the admin area — a visual map of every section you can manage, with no data of its own.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This is the very first page you see when you open the admin dashboard. Think of it like a lobby directory in a building — it doesn't hold any information itself, it just shows you every room (section) you can go into and points you in the right direction. It is laid out like a subway or metro map, with colored lines connecting groups of related sections, and a \"You are here\" marker to orient you."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "You can click on any icon to be taken straight to that section of the dashboard. That's the only action available on this page — there are no forms to fill in, nothing to save, and no numbers to review here. If you're ever unsure where a certain kind of task lives (for example, \"where do I add a new sermon?\"), come back to this page and look for the icon that matches what you're trying to do."
+    },
+    {
+      "heading": "The sections, explained",
+      "body": "The icons are grouped into three colored rows:\n\n- Operations (blue) — day-to-day church business. Donations (view and manage gifts that have been recorded), Messages (notes sent in by website visitors), Bank Accounts (control which bank accounts are shown to donors), and Payment Methods (add or update the ways people can give).\n\n- Content (orange) — everything published on the public website. Resources/Blog (articles, sermons and teaching), Books (titles and formats available), Events (conferences and their registrations), Projects (fieldwork and funding campaigns), Galleries (photos and videos), Team (staff and speaker profiles), Partners (sponsors and donor organizations), and Testimonials (stories shared by people in the field).\n\n- Analytics (purple) — behind-the-scenes administration. Admin Panel (manage user accounts and what each person is allowed to do)."
+    },
+    {
+      "heading": "Good to know",
+      "body": "This page will always look the same no matter how much content you add elsewhere — it's a fixed directory, not a live report. If an icon doesn't seem to do anything, try clicking directly on its picture or label rather than the empty space around it."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Dashboard Home (Map)",
+      "summary": "The starting page of the admin area — a visual map of every section you can manage, with no data of its own.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This is the very first page you see when you open the admin dashboard. Think of it like a lobby directory in a building — it doesn't hold any information itself, it just shows you every room (section) you can go into and points you in the right direction. It is laid out like a subway or metro map, with colored lines connecting groups of related sections, and a \"You are here\" marker to orient you."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "You can click on any icon to be taken straight to that section of the dashboard. That's the only action available on this page — there are no forms to fill in, nothing to save, and no numbers to review here. If you're ever unsure where a certain kind of task lives (for example, \"where do I add a new sermon?\"), come back to this page and look for the icon that matches what you're trying to do."
+        },
+        {
+          "heading": "The sections, explained",
+          "body": "The icons are grouped into three colored rows:\n\n- Operations (blue) — day-to-day church business. Donations (view and manage gifts that have been recorded), Messages (notes sent in by website visitors), Bank Accounts (control which bank accounts are shown to donors), and Payment Methods (add or update the ways people can give).\n\n- Content (orange) — everything published on the public website. Resources/Blog (articles, sermons and teaching), Books (titles and formats available), Events (conferences and their registrations), Projects (fieldwork and funding campaigns), Galleries (photos and videos), Team (staff and speaker profiles), Partners (sponsors and donor organizations), and Testimonials (stories shared by people in the field).\n\n- Analytics (purple) — behind-the-scenes administration. Admin Panel (manage user accounts and what each person is allowed to do)."
+        },
+        {
+          "heading": "Good to know",
+          "body": "This page will always look the same no matter how much content you add elsewhere — it's a fixed directory, not a live report. If an icon doesn't seem to do anything, try clicking directly on its picture or label rather than the empty space around it."
+        }
+      ]
+    },
+    "am": {
+      "title": "የዳሽቦርድ መነሻ ገጽ (ካርታ)",
+      "summary": "የአስተዳደር ክፍል የመጀመሪያ ገጽ ነው — እርስዎ ማስተዳደር የሚችሏቸውን ሁሉንም ክፍሎች የሚያሳይ ካርታ ብቻ ነው፣ የራሱ መረጃ የለውም።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "የአስተዳደር ዳሽቦርድን ሲከፍቱ የሚያዩት የመጀመሪያው ገጽ ይህ ነው። እንደ ህንፃ መግቢያ ማውጫ አድርገው ያስቡት — በራሱ ምንም መረጃ አይይዝም፣ ነገር ግን መሄድ የሚችሉባቸውን ሁሉንም ክፍሎች (ክፍሎች) ያሳይዎታል እና ትክክለኛውን አቅጣጫ ይጠቁምዎታል። እንደ ምድር ውስጥ ባቡር (ሜትሮ) ካርታ ተመስርቶ የተዘጋጀ ሲሆን፣ ተዛማጅ ክፍሎችን የሚያገናኙ ቀለም ያላቸው መስመሮች እና እርስዎ የት እንዳሉ የሚያሳይ ምልክት አለው።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "በማንኛውም አዶ ላይ በመጫን ወደዚያ የዳሽቦርድ ክፍል በቀጥታ መሄድ ይችላሉ። በዚህ ገጽ ላይ ያለው ብቸኛው ተግባር ይህ ነው — የሚሞሉት ቅጽ የለም፣ የሚያስቀምጡት ነገር የለም፣ የሚገመግሙት ቁጥርም የለም። የተወሰነ ስራ የት እንደሚገኝ እርግጠኛ ካልሆኑ (ለምሳሌ፣ \"አዲስ ስብከት የት ነው የማክለው?\") ወደዚህ ገጽ ተመልሰው ከሚያደርጉት ስራ ጋር የሚስማማውን አዶ ይፈልጉ።"
+        },
+        {
+          "heading": "ክፍሎቹ በዝርዝር",
+          "body": "አዶዎቹ በሶስት ቀለም ያላቸው ረድፎች የተከፋፈሉ ናቸው፡\n\n- ኦፕሬሽንስ (ሰማያዊ) — የዕለት ተዕለት የቤተክርስቲያን ስራዎች። ልገሳዎች (የተመዘገቡ ስጦታዎችን ይመልከቱ እና ያስተዳድሩ)፣ መልዕክቶች (በድረ-ገጽ ጎብኚዎች የተላኩ ማስታወሻዎች)፣ የባንክ አካውንቶች (ለለጋሾች የሚታዩ የባንክ አካውንቶችን ይቆጣጠሩ)፣ እና የክፍያ ዘዴዎች (ሰዎች መስጠት የሚችሉባቸውን መንገዶች ያክሉ ወይም ያዘምኑ)።\n\n- ይዘት (ብርቱካናማ) — በህዝባዊ ድረ-ገጽ ላይ የሚታተም ሁሉም ነገር። ግብዓቶች/ብሎግ (ጽሁፎች፣ ስብከቶች እና ትምህርቶች)፣ መጽሐፍት (የሚገኙ ርዕሶች እና ቅርጸቶች)፣ ዝግጅቶች (ጉባኤዎች እና ምዝገባቸው)፣ ፕሮጀክቶች (የመስክ ስራ እና የገንዘብ ማሰባሰብ)፣ ጋለሪዎች (ፎቶዎች እና ቪዲዮዎች)፣ ቡድን (የሰራተኞች እና የተናጋሪዎች መገለጫዎች)፣ አጋሮች (ስፖንሰሮች እና ለጋሽ ድርጅቶች)፣ እና ምስክርነቶች (በመስክ ካሉ ሰዎች የተጋሩ ታሪኮች)።\n\n- አናሊቲክስ (ወይን ጠጅ ቀለም) — ከጀርባ የሚከናወን አስተዳደር። አድሚን ፓነል (የተጠቃሚ አካውንቶችን እና እያንዳንዱ ሰው ምን ማድረግ እንደሚፈቀድለት ያስተዳድሩ)።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆነው",
+          "body": "በሌላ ቦታ ምንም ያህል ይዘት ቢጨምሩ ይህ ገጽ ሁልጊዜ ተመሳሳይ ሆኖ ይታያል — ቋሚ ማውጫ እንጂ ቀጥታ ሪፖርት አይደለም። አንድ አዶ ምንም የሚያደርገው ነገር ከሌለ ይመስል፣ በዙሪያው ባለው ባዶ ቦታ ላይ ሳይሆን በራሱ በምስሉ ወይም በስያሜው ላይ በቀጥታ ለመጫን ይሞክሩ።"
+        }
+      ]
+    }
+  }
+}

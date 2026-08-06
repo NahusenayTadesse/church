@@ -1,0 +1,81 @@
+{
+  "match": "/dashboard/projects/single",
+  "title": "Project Detail",
+  "summary": "The full page for one project — view its details, edit them, track funding against real donations, and manage its updates, partners, documents, and photos.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This is the home page for a single project. Everything about that project lives here: its description and timeline, how much money has come in versus its goal, progress updates you've posted, which partner organizations are involved, uploaded documents, and its photo gallery."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "Click \"Edit\" to switch the page into an editable form (the button then becomes \"Back\" to return to the read-only view). Click \"Delete\" to remove the project entirely — you'll be asked to confirm first, and you'll be taken back to the projects list afterward.\n\nIf the project accepts donations or has a reach target, you'll see progress cards near the top: a Funding card (amount raised out of the goal, with a progress bar and percentage) and a People Reached card (people reached out of the target, also with a progress bar).\n\nFurther down, separate sections let you manage Updates (post progress updates about the project), Partners (link partner organizations and set each one's role on this project), Documents (upload and manage files), and the Gallery (its own Edit/Back toggle lets you add, remove, and reorder photos)."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "In the read-only view you'll see the project's Name, Slug, Ministry Area, Status, Leader, Location, the dates it runs, its Short Description, Beneficiaries, Reach numbers, Ways To Support, whether it's Featured On Home, counts of linked stories and galleries, and who added or last updated it — plus the fuller write-up sections (About, Goal, Activities, and Impact and Results) wherever they've been filled in.\n\nSwitching to Edit mode shows the same fields as the Add Project form, plus a \"Save Changes\" button to store your edits."
+    },
+    {
+      "heading": "Understanding the Funding section",
+      "body": "This section only appears if the project accepts donations or already has donations recorded. It compares two numbers: the amount \"Recorded on the project\" (what shows on the public page) against the \"Completed donations\" total, calculated live from actual donation records. If the two don't match, a warning appears with a \"Set from donations\" button that recalculates the recorded total to match reality in one click.\n\nThere's also a manual box where you can type in the raised amount by hand and a \"Save total\" button if you'd rather set it yourself. Below that, you'll see a list of amounts received in other currencies — these are kept separate because they can't simply be added into the main total — and a count of donations still pending (not yet counted toward the total). A list of donation \"causes\" that point to this project is also shown, each one linking to its own page."
+    },
+    {
+      "heading": "Good to know",
+      "body": "The Funding section's numbers update as new donations come in, so it's worth checking back periodically rather than assuming the recorded total is always accurate — that's exactly what the comparison and warning are there to help with."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Project Detail",
+      "summary": "The full page for one project — view its details, edit them, track funding against real donations, and manage its updates, partners, documents, and photos.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This is the home page for a single project. Everything about that project lives here: its description and timeline, how much money has come in versus its goal, progress updates you've posted, which partner organizations are involved, uploaded documents, and its photo gallery."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "Click \"Edit\" to switch the page into an editable form (the button then becomes \"Back\" to return to the read-only view). Click \"Delete\" to remove the project entirely — you'll be asked to confirm first, and you'll be taken back to the projects list afterward.\n\nIf the project accepts donations or has a reach target, you'll see progress cards near the top: a Funding card (amount raised out of the goal, with a progress bar and percentage) and a People Reached card (people reached out of the target, also with a progress bar).\n\nFurther down, separate sections let you manage Updates (post progress updates about the project), Partners (link partner organizations and set each one's role on this project), Documents (upload and manage files), and the Gallery (its own Edit/Back toggle lets you add, remove, and reorder photos)."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "In the read-only view you'll see the project's Name, Slug, Ministry Area, Status, Leader, Location, the dates it runs, its Short Description, Beneficiaries, Reach numbers, Ways To Support, whether it's Featured On Home, counts of linked stories and galleries, and who added or last updated it — plus the fuller write-up sections (About, Goal, Activities, and Impact and Results) wherever they've been filled in.\n\nSwitching to Edit mode shows the same fields as the Add Project form, plus a \"Save Changes\" button to store your edits."
+        },
+        {
+          "heading": "Understanding the Funding section",
+          "body": "This section only appears if the project accepts donations or already has donations recorded. It compares two numbers: the amount \"Recorded on the project\" (what shows on the public page) against the \"Completed donations\" total, calculated live from actual donation records. If the two don't match, a warning appears with a \"Set from donations\" button that recalculates the recorded total to match reality in one click.\n\nThere's also a manual box where you can type in the raised amount by hand and a \"Save total\" button if you'd rather set it yourself. Below that, you'll see a list of amounts received in other currencies — these are kept separate because they can't simply be added into the main total — and a count of donations still pending (not yet counted toward the total). A list of donation \"causes\" that point to this project is also shown, each one linking to its own page."
+        },
+        {
+          "heading": "Good to know",
+          "body": "The Funding section's numbers update as new donations come in, so it's worth checking back periodically rather than assuming the recorded total is always accurate — that's exactly what the comparison and warning are there to help with."
+        }
+      ]
+    },
+    "am": {
+      "title": "የፕሮጀክት ዝርዝር",
+      "summary": "ለአንድ ፕሮጀክት ሙሉ ገጽ — ዝርዝሮቹን ይመልከቱ፣ ያርትዑ፣ የገንዘብ ድጋፍን ከትክክለኛ ልገሳዎች ጋር ያወዳድሩ፣ እና ዝማኔዎቹን፣ አጋሮቹን፣ ሰነዶቹን እና ፎቶዎቹን ያስተዳድሩ።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "ይህ ለአንድ ፕሮጀክት የመነሻ ገጽ ነው። ስለ ያ ፕሮጀክት ያለው ሁሉም ነገር እዚህ ይገኛል፡ መግለጫው እና የጊዜ ሰሌዳው፣ ከግቡ አንጻር ምን ያህል ገንዘብ እንደገባ፣ የለጠፏቸው የሂደት ዝማኔዎች፣ የትኞቹ አጋር ድርጅቶች እንደተሳተፉ፣ የተሰቀሉ ሰነዶች እና የፎቶ ጋለሪው።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "ገጹን ወደ ማርትዒያ ቅጽ ለመቀየር \"አርትዕ\" ን ይጫኑ (ቁልፉ ከዚያ ወደ ንባብ-ብቻ እይታ ለመመለስ \"ተመለስ\" ይሆናል)። ፕሮጀክቱን ሙሉ በሙሉ ለማስወገድ \"ሰርዝ\" ን ይጫኑ — መጀመሪያ እንዲያረጋግጡ ይጠየቃሉ፣ ከዚያም ወደ ፕሮጀክቶች ዝርዝር ይመለሳሉ።\n\nፕሮጀክቱ ልገሳዎችን የሚቀበል ወይም የተደራሽነት ኢላማ ካለው፣ ከላይ አካባቢ የሂደት ካርዶች ያያሉ፡ የገንዘብ ድጋፍ ካርድ (ከግቡ የተሰበሰበው መጠን፣ ከሂደት አሞሌ እና መቶኛ ጋር) እና የተደረሱ ሰዎች ካርድ (ከኢላማው የተደረሱ ሰዎች፣ እንዲሁም ከሂደት አሞሌ ጋር)።\n\nበታች፣ የተለያዩ ክፍሎች ዝማኔዎችን (ስለ ፕሮጀክቱ የሂደት ዝማኔዎችን ይለጥፉ)፣ አጋሮችን (አጋር ድርጅቶችን ያገናኙ እና በዚህ ፕሮጀክት ውስጥ የእያንዳንዳቸውን ሚና ያዘጋጁ)፣ ሰነዶችን (ፋይሎችን ይስቀሉ እና ያስተዳድሩ)፣ እና ጋለሪውን (የራሱ የአርትዕ/ተመለስ መቀያየሪያ ፎቶዎችን ለመጨመር፣ ለማስወገድ እና ቅደም ተከተላቸውን ለመቀየር ያስችላል) እንዲያስተዳድሩ ያስችሉዎታል።"
+        },
+        {
+          "heading": "መስኮቹ በዝርዝር",
+          "body": "በንባብ-ብቻ እይታ ውስጥ የፕሮጀክቱን ስም፣ ስላግ፣ የአገልግሎት ዘርፍ፣ ሁኔታ፣ መሪ፣ ቦታ፣ የሚካሄድባቸውን ቀናት፣ አጭር መግለጫውን፣ ተጠቃሚዎችን፣ የተደራሽነት ቁጥሮችን፣ የድጋፍ መንገዶችን፣ በመነሻ ገጽ ላይ የሚያድምቅ መሆኑን፣ የተያያዙ ታሪኮች እና ጋለሪዎች ቁጥርን፣ እና ማን እንደጨመረው ወይም መጨረሻ እንዳዘመነው ያያሉ — እንዲሁም የተሞሉ ካሉ ሙሉ የጽሁፍ ክፍሎችን (ስለ፣ ግብ፣ ተግባራት፣ እና ተጽዕኖ እና ውጤቶች)።\n\nወደ አርትዕ ሁኔታ መቀየር በፕሮጀክት ጨምር ቅጽ ውስጥ ያሉትን ተመሳሳይ መስኮች ያሳያል፣ እንዲሁም ለውጦችዎን ለማስቀመጥ \"ለውጦችን አስቀምጥ\" ቁልፍ።"
+        },
+        {
+          "heading": "የገንዘብ ድጋፍ ክፍልን መረዳት",
+          "body": "ይህ ክፍል የሚታየው ፕሮጀክቱ ልገሳዎችን የሚቀበል ወይም ቀድሞውኑ የተመዘገቡ ልገሳዎች ካሉት ብቻ ነው። ሁለት ቁጥሮችን ያወዳድራል፡ \"በፕሮጀክቱ ላይ የተመዘገበው\" መጠን (በህዝባዊ ገጹ ላይ የሚታየው) ከ\"የተጠናቀቁ ልገሳዎች\" ድምር ጋር፣ ይህም ከትክክለኛ የልገሳ መዝገቦች ቀጥታ የሚሰላ ነው። ሁለቱ ካልተመሳሰሉ፣ ማስጠንቀቂያ ይታያል፣ ከ\"ከልገሳዎች አዘጋጅ\" ቁልፍ ጋር፣ ይህም የተመዘገበውን ድምር በአንድ ጠቅታ ከእውነታው ጋር እንዲመሳሰል እንደገና ያሰላል።\n\nራስዎ ማዘጋጀት ከፈለጉ የተሰበሰበውን መጠን በእጅ ለመጻፍ የሚያስችል ሳጥን እና \"ድምር አስቀምጥ\" ቁልፍም አለ። ከዚያ በታች፣ በሌሎች የገንዘብ ዓይነቶች የተቀበሏቸውን መጠኖች ዝርዝር ያያሉ — ወደ ዋናው ድምር በቀላሉ ሊጨመሩ ስለማይችሉ ተነጣጥለው ተቀምጠዋል — እና ገና ያልተቆጠሩ (ወደ ድምሩ ገና ያልተጨመሩ) ልገሳዎች ብዛት። ወደዚህ ፕሮጀክት የሚያመለክቱ የልገሳ \"ምክንያቶች\" ዝርዝርም ይታያል፣ እያንዳንዱም ወደራሱ ገጽ ያገናኛል።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆነው",
+          "body": "የገንዘብ ድጋፍ ክፍል ቁጥሮች አዳዲስ ልገሳዎች ሲገቡ ይዘምናሉ፣ ስለዚህ የተመዘገበው ድምር ሁልጊዜ ትክክለኛ ነው ብሎ ከመገመት ይልቅ በየጊዜው መልሶ ማየት ጠቃሚ ነው — ንጽጽሩ እና ማስጠንቀቂያው የተዘጋጁት ለዚህ በትክክል ነው።"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "match": "/dashboard/books/single",
+  "title": "Book Detail",
+  "summary": "View every detail of one book, edit it, and manage its formats, reader reviews, and related articles or sermons.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This page is the full record for one single book. It's where you go to see everything about that title at a glance, make changes to it, and manage everything connected to it — its available formats, reader reviews, and any articles or sermons you want linked to it."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "Click \"Edit\" to switch the page into edit mode (the button then changes to say \"Back\" so you can return to the read-only view without saving). Click \"Delete\" to remove the book entirely — you'll be asked to confirm first, and once confirmed you'll be taken back to the books list.\n\nFurther down the page you'll find three extra sections: Formats (manage which versions — print, PDF, ebook, audiobook — are available and set their pricing), Reviews (see and manage what readers have written about this book), and Related Resources (connect this book to a published article or sermon). To link something, pick a published article or sermon from the dropdown and click \"Link\" — it will then appear in a list below, where you can click \"Unlink\" any time to remove the connection."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "In the read-only view you'll see: Title, Subtitle, Slug, Author, Ministry Area, Language, Published On, Pages, ISBN, Price, whether it's sold directly on the site (with how many copies are in stock) or only available externally, Purchase Link, Preview File, Status, Featured On Home, and who added and who last updated the book. Below that is the full description.\n\nWhen you switch to edit mode, you get the same set of fields as the Add Book form, plus a \"Save Changes\" button to save your updates."
+    },
+    {
+      "heading": "Good to know",
+      "body": "Linking related articles or sermons doesn't change anything about the book itself — it simply helps visitors on the public site discover more content related to this title. Unlinking something only removes the connection; it doesn't delete the article or sermon itself."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Book Detail",
+      "summary": "View every detail of one book, edit it, and manage its formats, reader reviews, and related articles or sermons.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This page is the full record for one single book. It's where you go to see everything about that title at a glance, make changes to it, and manage everything connected to it — its available formats, reader reviews, and any articles or sermons you want linked to it."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "Click \"Edit\" to switch the page into edit mode (the button then changes to say \"Back\" so you can return to the read-only view without saving). Click \"Delete\" to remove the book entirely — you'll be asked to confirm first, and once confirmed you'll be taken back to the books list.\n\nFurther down the page you'll find three extra sections: Formats (manage which versions — print, PDF, ebook, audiobook — are available and set their pricing), Reviews (see and manage what readers have written about this book), and Related Resources (connect this book to a published article or sermon). To link something, pick a published article or sermon from the dropdown and click \"Link\" — it will then appear in a list below, where you can click \"Unlink\" any time to remove the connection."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "In the read-only view you'll see: Title, Subtitle, Slug, Author, Ministry Area, Language, Published On, Pages, ISBN, Price, whether it's sold directly on the site (with how many copies are in stock) or only available externally, Purchase Link, Preview File, Status, Featured On Home, and who added and who last updated the book. Below that is the full description.\n\nWhen you switch to edit mode, you get the same set of fields as the Add Book form, plus a \"Save Changes\" button to save your updates."
+        },
+        {
+          "heading": "Good to know",
+          "body": "Linking related articles or sermons doesn't change anything about the book itself — it simply helps visitors on the public site discover more content related to this title. Unlinking something only removes the connection; it doesn't delete the article or sermon itself."
+        }
+      ]
+    },
+    "am": {
+      "title": "የመጽሐፍ ዝርዝር",
+      "summary": "የአንድ መጽሐፍ ሁሉንም ዝርዝሮች ይመልከቱ፣ ያርትዑ፣ እና ቅርጸቶቹን፣ የአንባቢ ግምገማዎችን፣ እና ተዛማጅ ጽሁፎችን ወይም ስብከቶችን ያስተዳድሩ።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "ይህ ገጽ ለአንድ ነጠላ መጽሐፍ ሙሉ መዝገብ ነው። ስለዚያ ርዕስ ያለውን ሁሉ በአንድ እይታ ለማየት፣ ለውጦችን ለማድረግ፣ እና ከእሱ ጋር የተያያዘውን ሁሉ ለማስተዳደር የሚሄዱበት ቦታ ነው — የሚገኙ ቅርጸቶቹን፣ የአንባቢ ግምገማዎችን፣ እና ማገናኘት የሚፈልጓቸውን ማንኛውንም ጽሁፎች ወይም ስብከቶች።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "ገጹን ወደ ማርትዕ ሁነታ ለመቀየር \"Edit\" የሚለውን ይጫኑ (አዝራሩም ያለ ማስቀመጥ ወደ ንባብ-ብቻ እይታ እንዲመለሱ \"Back\" ተብሎ ይቀየራል)። መጽሐፉን ሙሉ በሙሉ ለማስወገድ \"Delete\" የሚለውን ይጫኑ — መጀመሪያ እንዲያረጋግጡ ይጠየቃሉ፣ ከተረጋገጠ በኋላ ወደ መጽሐፍት ዝርዝር ይመለሳሉ።\n\nበገጹ ግርጌ ላይ ሶስት ተጨማሪ ክፍሎችን ያገኛሉ፡ ቅርጸቶች (የትኞቹ ስሪቶች — print, PDF, ebook, audiobook — እንደሚገኙ ያስተዳድሩ እና ዋጋቸውን ያዘጋጁ)፣ ግምገማዎች (አንባቢዎች ስለዚህ መጽሐፍ የጻፉትን ይመልከቱ እና ያስተዳድሩ)፣ እና ተዛማጅ ግብዓቶች (ይህን መጽሐፍ ከታተመ ጽሁፍ ወይም ስብከት ጋር ያገናኙ)። አንድ ነገር ለማገናኘት፣ ከተቆልቋይ የታተመ ጽሁፍ ወይም ስብከት ይምረጡ እና \"Link\" የሚለውን ይጫኑ — ከዚያ ከታች ባለው ዝርዝር ውስጥ ይታያል፣ እዚያም ግንኙነቱን ለማስወገድ በማንኛውም ጊዜ \"Unlink\" መጫን ይችላሉ።"
+        },
+        {
+          "heading": "መስኮቹ በዝርዝር",
+          "body": "በንባብ-ብቻ እይታ ውስጥ የሚያዩት፡ ርዕስ፣ ንዑስ ርዕስ፣ ስሉግ፣ ደራሲ፣ የአገልግሎት ዘርፍ፣ ቋንቋ፣ የታተመበት ቀን፣ ገጾች፣ ISBN፣ ዋጋ፣ በድረ-ገጹ ላይ በቀጥታ የሚሸጥ መሆኑ (ምን ያህል ቅጂዎች በክምችት እንዳሉ ጋር) ወይም ከውጪ ብቻ የሚገኝ መሆኑ፣ የግዢ ማገናኛ፣ የቅድመ-እይታ ፋይል፣ ስቴተስ፣ ተለይቶ በመነሻ ገጽ ላይ የቀረበ፣ እና ማን እንደጨመረው እና ማን ለመጨረሻ ጊዜ እንዳዘመነው ናቸው። ከዚያ በታች ሙሉው መግለጫ አለ።\n\nወደ ማርትዕ ሁነታ ሲቀይሩ፣ ለውጦችዎን ለማስቀመጥ ከ\"Save Changes\" አዝራር ጋር ከ Add Book ቅጽ ጋር ተመሳሳይ የመስኮች ስብስብ ያገኛሉ።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆነው",
+          "body": "ተዛማጅ ጽሁፎችን ወይም ስብከቶችን ማገናኘት ስለ መጽሐፉ ራሱ ምንም ነገር አይቀይርም — በህዝባዊ ድረ-ገጹ ላይ ያሉ ጎብኚዎች ከዚህ ርዕስ ጋር ተዛማጅ ተጨማሪ ይዘት እንዲያገኙ ብቻ ይረዳል። አንድን ነገር ማላቀቅ ግንኙነቱን ብቻ ያስወግዳል፤ ጽሁፉን ወይም ስብከቱን ራሱ አይሰርዝም።"
+        }
+      ]
+    }
+  }
+}

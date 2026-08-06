@@ -1,0 +1,69 @@
+{
+  "match": "/dashboard/admin-panel/users/{id}",
+  "title": "User Details",
+  "summary": "View and edit one staff member's account, reassign their role, and see the permissions they currently have.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This page shows everything about one staff member's dashboard account: their contact details, which role they belong to, and - for reference only - the full list of permissions that role gives them."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "In view mode, you'll see the person's Name, Email, Phone, Role, Created At, and Updated At. Below that, a Permissions table lists everything this person can currently do.\n\nClick \"Edit\" to switch into an editable form (the button becomes \"Back\" while editing). In edit mode you can change their Name, Email, and reassign them to a different Role using a dropdown. Click \"Save Changes\" to apply.\n\nClick \"Delete\" to remove this person's account entirely."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "Name - the staff member's full name.\n\nEmail - their login address.\n\nPhone - their contact phone number.\n\nRole - which role (permission group) they belong to; in edit mode this is a dropdown you can change.\n\nCreated At - when the account was first set up.\n\nUpdated At - when the account was last changed.\n\nPermissions table - a read-only list of every permission this person currently has, inherited entirely from their Role."
+    },
+    {
+      "heading": "Good to know",
+      "body": "Changing this person's Name, Email, or Role immediately signs them out of every device they're currently logged into - the form shows a warning about this right where you make the change, so let them know beforehand if you can, especially if they're in the middle of something.\n\nThe Permissions table on this page is for viewing only - you cannot check or uncheck permissions for one person here. Access always comes from their Role, so to actually change what this person can do, either pick a different Role for them here, or go edit the shared Role itself on its own detail page (which will affect everyone else with that role too)."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "User Details",
+      "summary": "View and edit one staff member's account, reassign their role, and see the permissions they currently have.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This page shows everything about one staff member's dashboard account: their contact details, which role they belong to, and - for reference only - the full list of permissions that role gives them."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "In view mode, you'll see the person's Name, Email, Phone, Role, Created At, and Updated At. Below that, a Permissions table lists everything this person can currently do.\n\nClick \"Edit\" to switch into an editable form (the button becomes \"Back\" while editing). In edit mode you can change their Name, Email, and reassign them to a different Role using a dropdown. Click \"Save Changes\" to apply.\n\nClick \"Delete\" to remove this person's account entirely."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "Name - the staff member's full name.\n\nEmail - their login address.\n\nPhone - their contact phone number.\n\nRole - which role (permission group) they belong to; in edit mode this is a dropdown you can change.\n\nCreated At - when the account was first set up.\n\nUpdated At - when the account was last changed.\n\nPermissions table - a read-only list of every permission this person currently has, inherited entirely from their Role."
+        },
+        {
+          "heading": "Good to know",
+          "body": "Changing this person's Name, Email, or Role immediately signs them out of every device they're currently logged into - the form shows a warning about this right where you make the change, so let them know beforehand if you can, especially if they're in the middle of something.\n\nThe Permissions table on this page is for viewing only - you cannot check or uncheck permissions for one person here. Access always comes from their Role, so to actually change what this person can do, either pick a different Role for them here, or go edit the shared Role itself on its own detail page (which will affect everyone else with that role too)."
+        }
+      ]
+    },
+    "am": {
+      "title": "የተጠቃሚ ዝርዝሮች",
+      "summary": "የአንድ ሰራተኛ አካውንት ይመልከቱና ያርሙ፣ ሚናቸውን ይቀይሩ፣ አሁን ያላቸውን ፈቃዶች ይመልከቱ።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "ይህ ገጽ ስለ አንድ ሰራተኛ የዳሽቦርድ አካውንት ሁሉንም ነገር ያሳያል፦ የመገናኛ ዝርዝሮቻቸው፣ የትኛው ሚና እንዳላቸው፣ እና - ለማጣቀሻ ብቻ - ያ ሚና የሚሰጣቸው ፈቃዶች ሙሉ ዝርዝር።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "በእይታ ሁኔታ፣ የሰውዬውን ስም (Name)፣ ኢሜይል (Email)፣ ስልክ (Phone)፣ ሚና (Role)፣ የተፈጠረበት ቀን (Created At) እና የተዘመነበት ቀን (Updated At) ያያሉ። ከዚያ በታች፣ የፈቃድ ሰንጠረዥ ይህ ሰው አሁን ማድረግ የሚችለውን ሁሉ ይዘረዝራል።\n\n\"Edit\" ን ጠቅ በማድረግ ወደ ሊታረም ወደሚችል ቅጽ ይቀይሩ (እርስዎ ሲያርሙ አዝራሩ ወደ \"Back\" ይቀየራል)። በአርም ሁኔታ ውስጥ ስማቸውን፣ ኢሜያቸውን መቀየር እና በመምረጫ ዝርዝር ወደ ሌላ ሚና ማዛወር ይችላሉ። ተግባራዊ ለማድረግ \"Save Changes\" ን ጠቅ ያድርጉ።\n\nየዚህን ሰው አካውንት ሙሉ በሙሉ ለማስወገድ \"Delete\" ን ጠቅ ያድርጉ።"
+        },
+        {
+          "heading": "የመስኮች ማብራሪያ",
+          "body": "ስም (Name) - የሰራተኛው ሙሉ ስም።\n\nኢሜይል (Email) - የመግቢያ አድራሻቸው።\n\nስልክ (Phone) - የመገናኛ ስልክ ቁጥራቸው።\n\nሚና (Role) - የትኛው ሚና (የፈቃድ ቡድን) እንዳላቸው፤ በአርም ሁኔታ ውስጥ ይህ ሊቀይሩት የሚችሉት የመምረጫ ዝርዝር ነው።\n\nየተፈጠረበት ቀን (Created At) - አካውንቱ መጀመሪያ የተዘጋጀበት ጊዜ።\n\nየተዘመነበት ቀን (Updated At) - አካውንቱ መጨረሻ የተቀየረበት ጊዜ።\n\nየፈቃድ ሰንጠረዥ - ይህ ሰው አሁን ያለውን ፈቃድ ሁሉ ለንባብ ብቻ የሚያሳይ ዝርዝር፣ ሙሉ በሙሉ ከሚናቸው የተወረሰ።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆኑ ነገሮች",
+          "body": "የዚህን ሰው ስም፣ ኢሜይል ወይም ሚና መቀየር ወዲያውኑ አሁን ገብተውበት ካሉት መሳሪያዎች ሁሉ ያስወጣቸዋል - ቅጹ ይህንን ማስጠንቀቂያ ለውጡን በሚያደርጉበት ቦታ ላይ በትክክል ያሳያል፣ ስለዚህ ከቻሉ አስቀድመው ይንገሯቸው፣ በተለይ በሆነ ስራ ላይ እያሉ ከሆነ።\n\nበዚህ ገጽ ላይ ያለው የፈቃድ ሰንጠረዥ ለእይታ ብቻ ነው - እዚህ ላይ ለአንድ ሰው ፈቃዶችን ምልክት ማድረግ ወይም ማንሳት አይችሉም። መዳረሻ ሁልጊዜ ከሚናቸው ነው የሚመጣው፣ ስለዚህ ይህ ሰው በትክክል ምን ማድረግ እንደሚችል ለመቀየር፣ ወይ እዚህ ለእሱ/ለእሷ የተለየ ሚና ይምረጡ፣ ወይም ራሱን የጋራ ሚናውን በራሱ ዝርዝር ገጽ ላይ ያርሙ (ይህም ያ ሚና ላለው ሌላ ሁሉ ተጽዕኖ ያሳድራል)።"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "match": "/dashboard/partners/single",
+  "title": "Partner Detail",
+  "summary": "The full page for one partner organization — view its details, edit them, and manage which projects it's linked to.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This is the home page for a single partner organization. Everything about that partner lives here: its contact and description info, its homepage visibility, and which projects it's connected to."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "Click \"Edit\" to switch into an editable form (the button becomes \"Back\" to return to the read-only view). If the partner has a website set, a \"Visit site\" button opens it in a new tab. Click \"Delete\" to remove the partner — you'll be asked to confirm first, and you'll return to the partners list afterward.\n\nIf the partner is set to show on the homepage but has no logo uploaded, a warning explains that it will appear as a visible gap in the homepage partner strip until a logo is added.\n\nBelow the details, a Projects section shows which projects this partner is linked to and lets you manage those links."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "In the read-only view you'll see the Name, Partnership Type, Short Description, Website, how many projects the partner is linked to, its Home Page status (shown with its position among homepage partners, or \"Not shown\" if it isn't set to appear there), Sort Order, and who added or last updated it — plus the full \"About\" write-up if it's been filled in.\n\nSwitching to Edit mode shows Name, Partnership Type, Short Description, About, Website, a \"Show in the home page partner strip\" checkbox, Sort Order (which only appears once \"Show on home\" is checked), and a Logo upload (showing the current logo). A \"Save Changes\" button stores your edits."
+    },
+    {
+      "heading": "Good to know",
+      "body": "Each project's specific role for this partner is managed from the Projects section on this page, not from the project's own edit form — so if you need to update how this partner is described on a particular project, this is the place to do it."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Partner Detail",
+      "summary": "The full page for one partner organization — view its details, edit them, and manage which projects it's linked to.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This is the home page for a single partner organization. Everything about that partner lives here: its contact and description info, its homepage visibility, and which projects it's connected to."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "Click \"Edit\" to switch into an editable form (the button becomes \"Back\" to return to the read-only view). If the partner has a website set, a \"Visit site\" button opens it in a new tab. Click \"Delete\" to remove the partner — you'll be asked to confirm first, and you'll return to the partners list afterward.\n\nIf the partner is set to show on the homepage but has no logo uploaded, a warning explains that it will appear as a visible gap in the homepage partner strip until a logo is added.\n\nBelow the details, a Projects section shows which projects this partner is linked to and lets you manage those links."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "In the read-only view you'll see the Name, Partnership Type, Short Description, Website, how many projects the partner is linked to, its Home Page status (shown with its position among homepage partners, or \"Not shown\" if it isn't set to appear there), Sort Order, and who added or last updated it — plus the full \"About\" write-up if it's been filled in.\n\nSwitching to Edit mode shows Name, Partnership Type, Short Description, About, Website, a \"Show in the home page partner strip\" checkbox, Sort Order (which only appears once \"Show on home\" is checked), and a Logo upload (showing the current logo). A \"Save Changes\" button stores your edits."
+        },
+        {
+          "heading": "Good to know",
+          "body": "Each project's specific role for this partner is managed from the Projects section on this page, not from the project's own edit form — so if you need to update how this partner is described on a particular project, this is the place to do it."
+        }
+      ]
+    },
+    "am": {
+      "title": "የአጋር ዝርዝር",
+      "summary": "ለአንድ አጋር ድርጅት ሙሉ ገጽ — ዝርዝሮቹን ይመልከቱ፣ ያርትዑ፣ እና ከየትኞቹ ፕሮጀክቶች ጋር እንደተያያዘ ያስተዳድሩ።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "ይህ ለአንድ አጋር ድርጅት የመነሻ ገጽ ነው። ስለ ያ አጋር ያለው ሁሉም ነገር እዚህ ይገኛል፡ የመገኛ እና የመግለጫ መረጃው፣ በመነሻ ገጽ ላይ ያለው ታይነት፣ እና ከየትኞቹ ፕሮጀክቶች ጋር እንደተያያዘ።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "ወደ ማርትዒያ ቅጽ ለመቀየር \"አርትዕ\" ን ይጫኑ (ቁልፉ ወደ ንባብ-ብቻ እይታ ለመመለስ \"ተመለስ\" ይሆናል)። አጋሩ የተዘጋጀ ድረ-ገጽ ካለው፣ \"ድረ-ገጹን ጎብኝ\" ቁልፍ በአዲስ ትር ይከፍተዋል። አጋሩን ለማስወገድ \"ሰርዝ\" ን ይጫኑ — መጀመሪያ እንዲያረጋግጡ ይጠየቃሉ፣ ከዚያም ወደ አጋሮች ዝርዝር ይመለሳሉ።\n\nአጋሩ በመነሻ ገጽ ላይ እንዲታይ ተዘጋጅቶ ግን አርማ ካልተሰቀለለት፣ ማስጠንቀቂያ አርማ እስኪታከል ድረስ በመነሻ ገጽ የአጋሮች ረድፍ ላይ የሚታይ ክፍተት ሆኖ እንደሚታይ ያብራራል።\n\nከዝርዝሮቹ በታች፣ የፕሮጀክቶች ክፍል ይህ አጋር ከየትኞቹ ፕሮጀክቶች ጋር እንደተያያዘ ያሳያል እና እነዚያን ግንኙነቶች እንዲያስተዳድሩ ያስችልዎታል።"
+        },
+        {
+          "heading": "መስኮቹ በዝርዝር",
+          "body": "በንባብ-ብቻ እይታ ውስጥ ስሙን፣ የአጋርነት አይነቱን፣ አጭር መግለጫውን፣ ድረ-ገጹን፣ አጋሩ ከስንት ፕሮጀክቶች ጋር እንደተያያዘ፣ የመነሻ ገጽ ሁኔታውን (በመነሻ ገጽ አጋሮች መካከል ያለውን ቦታ ጋር ወይም እዚያ እንዲታይ ካልተዘጋጀ \"አይታይም\")፣ የደርድር ቅደም ተከተል፣ እና ማን እንደጨመረው ወይም መጨረሻ እንዳዘመነው ያያሉ — እንዲሁም ከተሞላ ሙሉ የ\"ስለ\" ጽሁፍ።\n\nወደ አርትዕ ሁኔታ መቀየር ስም፣ የአጋርነት አይነት፣ አጭር መግለጫ፣ ስለ፣ ድረ-ገጽ፣ \"በመነሻ ገጽ የአጋሮች ረድፍ ውስጥ አሳይ\" ሳጥን፣ የደርድር ቅደም ተከተል (የሚታየው \"በመነሻ ገጽ ላይ አሳይ\" ከተረጋገጠ በኋላ ብቻ ነው)፣ እና የአርማ መስቀያ (አሁን ያለውን አርማ ያሳያል) ያሳያል። \"ለውጦችን አስቀምጥ\" ቁልፍ ለውጦችዎን ያስቀምጣል።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆነው",
+          "body": "የእያንዳንዱ ፕሮጀክት ለዚህ አጋር ያለው ልዩ ሚና የሚስተዳደረው በዚህ ገጽ ላይ ካለው የፕሮጀክቶች ክፍል ነው፣ ከፕሮጀክቱ ራሱ የአርትዕ ቅጽ አይደለም — ስለዚህ ይህ አጋር በተወሰነ ፕሮጀክት ላይ እንዴት እንደሚገለጽ ማዘመን ካስፈለገዎት፣ ይህ ቦታ ነው መሆን ያለበት።"
+        }
+      ]
+    }
+  }
+}

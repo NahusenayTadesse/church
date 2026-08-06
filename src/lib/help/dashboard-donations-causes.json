@@ -1,0 +1,69 @@
+{
+  "path": "/dashboard/donations/causes",
+  "title": "Donation Causes",
+  "summary": "Manage the list of causes, funds, and campaigns that donors can choose to give toward.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "A \"cause\" is a specific campaign or fund that a donor can choose to give their money toward, such as \"Building Fund,\" \"Mission Trip,\" or a particular project the church is raising money for. This page is where you create, edit, and remove those causes so they show up as choices when someone makes a donation."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "Click \"Add New Category\" to open a form where you enter a Name and a Description, both required, then click \"Add Category\" to save it.\n\nIn the table, click a cause's Name to edit it directly, or use the pencil (Edit) icon on its row. Use the search box to quickly find a cause by name.\n\nUse the trash (Delete) icon to remove a cause you no longer need."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "# - the row number.\n\nName - the short title donors will see and choose from when giving, for example \"Building Fund\".\n\nDescription - a longer explanation of what the cause is for. Click a long description to expand and read it in full.\n\nEdit - opens the cause for editing.\n\nDelete - permanently removes the cause."
+    },
+    {
+      "heading": "Good to know",
+      "body": "Deleting a cause is permanent and cannot be undone. Before deleting one, think about whether any existing donations are already linked to it - removing a cause that donations point to may make those older records show \"General\" or leave the cause name unclear on past reports, so it's safest to only delete causes that are no longer in use and have no history tied to them."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Donation Causes",
+      "summary": "Manage the list of causes, funds, and campaigns that donors can choose to give toward.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "A \"cause\" is a specific campaign or fund that a donor can choose to give their money toward, such as \"Building Fund,\" \"Mission Trip,\" or a particular project the church is raising money for. This page is where you create, edit, and remove those causes so they show up as choices when someone makes a donation."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "Click \"Add New Category\" to open a form where you enter a Name and a Description, both required, then click \"Add Category\" to save it.\n\nIn the table, click a cause's Name to edit it directly, or use the pencil (Edit) icon on its row. Use the search box to quickly find a cause by name.\n\nUse the trash (Delete) icon to remove a cause you no longer need."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "# - the row number.\n\nName - the short title donors will see and choose from when giving, for example \"Building Fund\".\n\nDescription - a longer explanation of what the cause is for. Click a long description to expand and read it in full.\n\nEdit - opens the cause for editing.\n\nDelete - permanently removes the cause."
+        },
+        {
+          "heading": "Good to know",
+          "body": "Deleting a cause is permanent and cannot be undone. Before deleting one, think about whether any existing donations are already linked to it - removing a cause that donations point to may make those older records show \"General\" or leave the cause name unclear on past reports, so it's safest to only delete causes that are no longer in use and have no history tied to them."
+        }
+      ]
+    },
+    "am": {
+      "title": "የልገሳ ዓላማዎች",
+      "summary": "ለጋሾች ገንዘባቸው እንዲውል ሊመርጡ የሚችሉትን የዓላማዎች፣ ፈንዶች እና ዘመቻዎች ዝርዝር ያስተዳድሩ።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "\"ዓላማ\" (cause) ማለት ለጋሽ ገንዘቡ እንዲውል የሚመርጠው የተወሰነ ዘመቻ ወይም ፈንድ ማለት ነው፣ ለምሳሌ \"የግንባታ ፈንድ\"፣ \"የሚሲዮን ጉዞ\"፣ ወይም ቤተክርስቲያኗ ገንዘብ እያሰባሰበችለት ያለ የተወሰነ ፕሮጀክት። ይህ ገጽ እነዚህን ዓላማዎች የሚፈጥሩበት፣ የሚያርሙበት እና የሚያስወግዱበት ነው፣ ስለዚህ አንድ ሰው ልገሳ ሲያደርግ እንደ አማራጭ ይታያሉ።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "\"Add New Category\" (አዲስ ምድብ ጨምር) የሚለውን ጠቅ በማድረግ ስም (Name) እና መግለጫ (Description) የሚያስገቡበት ቅጽ ይከፈታል፣ ሁለቱም አስፈላጊ ናቸው፣ ከዚያም \"Add Category\" ን ጠቅ በማድረግ ያስቀምጡ።\n\nበሰንጠረዡ ውስጥ የአንድን ዓላማ ስም ጠቅ በማድረግ በቀጥታ ማርም ይችላሉ፣ ወይም በረድፉ ላይ ያለውን የእርሳስ (Edit) አዶ ይጠቀሙ። ዓላማን በስም በፍጥነት ለማግኘት የፍለጋ ሳጥኑን ይጠቀሙ።\n\nየማይፈልጉትን ዓላማ ለማስወገድ የቆሻሻ መጣያ (Delete) አዶን ይጠቀሙ።"
+        },
+        {
+          "heading": "የመስኮች ማብራሪያ",
+          "body": "# - የረድፍ ቁጥር።\n\nስም (Name) - ለጋሾች ልገሳ ሲያደርጉ የሚያዩትና የሚመርጡት አጭር ርዕስ፣ ለምሳሌ \"የግንባታ ፈንድ\"።\n\nመግለጫ (Description) - ዓላማው ለምን እንደሆነ ረዘም ያለ ማብራሪያ። ረጅም መግለጫን ጠቅ በማድረግ ሙሉውን ያስፉ እና ያንብቡ።\n\nEdit (አርም) - ዓላማውን ለማርም ይከፍታል።\n\nDelete (ሰርዝ) - ዓላማውን ለዘላለም ያስወግዳል።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆኑ ነገሮች",
+          "body": "አንድን ዓላማ መሰረዝ መልሶ ሊቀር የማይችል ነው። ከመሰረዝዎ በፊት፣ ማንኛውም ነባር ልገሳዎች ከዚያ ዓላማ ጋር የተያያዙ መሆናቸውን ያስቡ - ልገሳዎች ወደሚያመለክቱት ዓላማ ማስወገድ ያንን የቆየ መዝገብ \"General\" (አጠቃላይ) አድርጎ እንዲያሳይ ወይም በቀድሞ ሪፖርቶች ላይ የዓላማውን ስም ግልጽ ያልሆነ እንዲያደርገው ሊያደርግ ይችላል፣ ስለዚህ ጥቅም ላይ ያልዋሉ እና ምንም ታሪክ ያልተያያዘባቸውን ዓላማዎች ብቻ መሰረዝ የተሻለ ነው።"
+        }
+      ]
+    }
+  }
+}

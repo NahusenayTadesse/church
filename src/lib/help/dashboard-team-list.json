@@ -1,0 +1,69 @@
+{
+  "path": "/dashboard/team",
+  "title": "Team Members",
+  "summary": "See everyone whose profile appears in the church's leadership, staff, or speaker listings, and manage the whole list from one place.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This page shows every person who has a profile set up in the system — pastors, staff, ministry leaders, and guest speakers. From here you can see who is currently visible on the public website, add someone new, or open an existing profile to review or update it."
+    },
+    {
+      "heading": "What you'll see at the top",
+      "body": "Near the top of the page you'll see a heading like \"No of Team Members: 12\" along with a quick summary such as \"9 published · 4 executive · 3 speaker(s)\". This tells you at a glance how many profiles are live on the website (published), how many are marked as executive leadership, and how many are marked as available speakers.\n\nIf any published profiles are missing something important — like a photo, a position title, or a biography — a note will appear letting you know, so you can go fill in the missing details before a visitor notices.\n\nIf any team members have open prayer requests waiting to be handled, you'll see a clickable number that takes you straight to the prayer requests queue."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "Click \"Add New Member\" to create a brand-new profile.\n\nUse the Filter menu to narrow the list down — for example, show only published members, only executives, only speakers, only people who have a photo uploaded, or only people who have a linked login account for the dashboard.\n\nThe main list is a table. Click anywhere on a person's row to open their full profile, where you can view all their details or make changes.\n\nIf there are no team members yet, you'll simply see a short message and an \"Add New Member\" button to get started."
+    },
+    {
+      "heading": "Good to know",
+      "body": "A profile does not need to be \"published\" to exist — you can keep someone's profile saved privately (for example, while you're still gathering their photo and bio) and only make it visible on the public website once it's ready.\n\nA person can be marked as executive, speaker, both, or neither — these are just labels used to sort where they appear on the public site."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Team Members",
+      "summary": "See everyone whose profile appears in the church's leadership, staff, or speaker listings, and manage the whole list from one place.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This page shows every person who has a profile set up in the system — pastors, staff, ministry leaders, and guest speakers. From here you can see who is currently visible on the public website, add someone new, or open an existing profile to review or update it."
+        },
+        {
+          "heading": "What you'll see at the top",
+          "body": "Near the top of the page you'll see a heading like \"No of Team Members: 12\" along with a quick summary such as \"9 published · 4 executive · 3 speaker(s)\". This tells you at a glance how many profiles are live on the website (published), how many are marked as executive leadership, and how many are marked as available speakers.\n\nIf any published profiles are missing something important — like a photo, a position title, or a biography — a note will appear letting you know, so you can go fill in the missing details before a visitor notices.\n\nIf any team members have open prayer requests waiting to be handled, you'll see a clickable number that takes you straight to the prayer requests queue."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "Click \"Add New Member\" to create a brand-new profile.\n\nUse the Filter menu to narrow the list down — for example, show only published members, only executives, only speakers, only people who have a photo uploaded, or only people who have a linked login account for the dashboard.\n\nThe main list is a table. Click anywhere on a person's row to open their full profile, where you can view all their details or make changes.\n\nIf there are no team members yet, you'll simply see a short message and an \"Add New Member\" button to get started."
+        },
+        {
+          "heading": "Good to know",
+          "body": "A profile does not need to be \"published\" to exist — you can keep someone's profile saved privately (for example, while you're still gathering their photo and bio) and only make it visible on the public website once it's ready.\n\nA person can be marked as executive, speaker, both, or neither — these are just labels used to sort where they appear on the public site."
+        }
+      ]
+    },
+    "am": {
+      "title": "የቡድን አባላት",
+      "summary": "በቤተክርስቲያኑ አመራር፣ ሠራተኞች ወይም ተናጋሪዎች ዝርዝር ውስጥ የሚታዩትን ሁሉንም ሰዎች ይመልከቱ፣ እንዲሁም ሙሉ ዝርዝሩን ከአንድ ቦታ ያስተዳድሩ።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምንድን ነው",
+          "body": "ይህ ገጽ በስርዓቱ ውስጥ መግለጫ (ፕሮፋይል) ያላቸውን ሁሉንም ሰዎች ያሳያል — አገልጋዮች፣ ሠራተኞች፣ የአገልግሎት መሪዎች እና እንግዳ ተናጋሪዎች። ከዚህ ገጽ በአሁኑ ጊዜ በህዝባዊ ድህረ ገጹ ላይ የሚታዩትን ማን እንደሆኑ ማየት፣ አዲስ ሰው መጨመር፣ ወይም ነባር መገለጫ ከፍቶ መከለስ ወይም ማዘመን ይችላሉ።"
+        },
+        {
+          "heading": "ከላይ የሚታየው",
+          "body": "በገጹ አናት ላይ እንደ \"No of Team Members: 12\" ያለ ርዕስ እና እንደ \"9 published · 4 executive · 3 speaker(s)\" ያለ አጭር ማጠቃለያ ያገኛሉ። ይህ ስንት መገለጫዎች በድህረ ገጹ ላይ ቀርበው (published) እንደሚታዩ፣ ስንቶቹ የከፍተኛ አመራር (executive) ተብለው እንደተለጠፉ፣ እና ስንቶቹ ተናጋሪ ሆነው ማገልገል እንደሚችሉ ተለጥፈው እንደተመዘገቡ በአንድ እይታ ያሳያል።\n\nየታተሙ መገለጫዎች ፎቶ፣ የስራ መደብ ስም ወይም የህይወት ታሪክ የመሳሰሉ አስፈላጊ መረጃዎች ከጎደሏቸው፣ ጎብኚ ከማስተዋሉ በፊት ጎድሎውን እንዲሞሉ የሚያሳስብ ማስታወሻ ይታያል።\n\nየትኛውም የቡድን አባል ገና ያልተመለሱ የጸሎት ጥያቄዎች ካሉት፣ ቀጥታ ወደ ጸሎት ጥያቄ ወረፋ የሚወስድ ሊጫን የሚችል ቁጥር ያያሉ።"
+        },
+        {
+          "heading": "እዚህ ገጽ ላይ ምን ማድረግ ይችላሉ",
+          "body": "\"Add New Member\" የሚለውን በመጫን አዲስ መገለጫ መፍጠር ይችላሉ።\n\nየFilter ምናሌውን በመጠቀም ዝርዝሩን ማጥበብ ይችላሉ — ለምሳሌ የታተሙ አባላት ብቻ፣ የከፍተኛ አመራር ብቻ፣ ተናጋሪዎች ብቻ፣ ፎቶ ያላቸው ብቻ፣ ወይም ለዳሽቦርድ የመግቢያ አካውንት የተያያዘላቸው ብቻ እንዲታዩ ማድረግ ይችላሉ።\n\nዋናው ዝርዝር ሠንጠረዥ ነው። በአንድ ሰው ረድፍ ላይ በማንኛውም ቦታ ሲጫኑ ሙሉ መገለጫቸው ይከፈታል፣ እዚያም ሁሉንም ዝርዝራቸውን ማየት ወይም ለውጦችን ማድረግ ይችላሉ።\n\nገና ምንም የቡድን አባል ከሌለ፣ አጭር መልእክት እና ለመጀመር \"Add New Member\" የሚል ቁልፍ ብቻ ያያሉ።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆኑ ነገሮች",
+          "body": "አንድ መገለጫ እንዲኖር \"የታተመ\" መሆን የለበትም — ለምሳሌ ፎቶና የህይወት ታሪክ እየሰበሰቡ ባሉበት ወቅት መገለጫውን በግል ብቻ አስቀምጠው፣ ዝግጁ ሲሆን ብቻ በህዝባዊ ድህረ ገጽ ላይ ሊታይ ያደርጉታል።\n\nአንድ ሰው የከፍተኛ አመራር፣ ተናጋሪ፣ ሁለቱም ወይም አንዳቸውም ሳይሆኑ ሊመዘገብ ይችላል — እነዚህ በህዝባዊ ድህረ ገጹ ላይ የት እንደሚታዩ ለመለየት የሚያገለግሉ መለያዎች ብቻ ናቸው።"
+        }
+      ]
+    }
+  }
+}

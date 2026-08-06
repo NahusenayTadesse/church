@@ -1,0 +1,69 @@
+{
+  "path": "/dashboard/payment-methods",
+  "title": "Payment Methods",
+  "summary": "Manage the general types of payment the church accepts, such as Bank Transfer, Telebirr, or CBE Birr.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This page manages the general categories of payment your church accepts — things like \"Bank Transfer\", \"Telebirr\", or \"CBE Birr\". Think of these as the labels donors choose from when deciding how to give. This page does not store specific account numbers — the actual bank and mobile-money account details for each payment method are managed on the separate Payment Accounts page."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "Click \"+ Add New Payment Method\" to open a small form where you can add a new type of payment.\n\nThe main list is a searchable table showing each payment method's number, logo, name, who created it (click their name to view their profile), and an Edit button to make changes."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "Name — the label for this payment type, as donors will see it (for example, \"Bank Transfer\"). This is required.\n\nLogo — an image representing this payment method, shown next to its name. This is required.\n\nAfter filling these in, click \"Add Payment Method\" to save."
+    },
+    {
+      "heading": "Good to know",
+      "body": "Once a payment method exists here, you can go to the Payment Accounts page to add the specific account numbers and bank details donors should use for it. Adding the method here is just the first step — it's the category, not the account itself."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Payment Methods",
+      "summary": "Manage the general types of payment the church accepts, such as Bank Transfer, Telebirr, or CBE Birr.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This page manages the general categories of payment your church accepts — things like \"Bank Transfer\", \"Telebirr\", or \"CBE Birr\". Think of these as the labels donors choose from when deciding how to give. This page does not store specific account numbers — the actual bank and mobile-money account details for each payment method are managed on the separate Payment Accounts page."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "Click \"+ Add New Payment Method\" to open a small form where you can add a new type of payment.\n\nThe main list is a searchable table showing each payment method's number, logo, name, who created it (click their name to view their profile), and an Edit button to make changes."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "Name — the label for this payment type, as donors will see it (for example, \"Bank Transfer\"). This is required.\n\nLogo — an image representing this payment method, shown next to its name. This is required.\n\nAfter filling these in, click \"Add Payment Method\" to save."
+        },
+        {
+          "heading": "Good to know",
+          "body": "Once a payment method exists here, you can go to the Payment Accounts page to add the specific account numbers and bank details donors should use for it. Adding the method here is just the first step — it's the category, not the account itself."
+        }
+      ]
+    },
+    "am": {
+      "title": "የክፍያ ዘዴዎች",
+      "summary": "ቤተክርስቲያኑ የሚቀበላቸውን አጠቃላይ የክፍያ ዓይነቶች ያስተዳድሩ፣ ለምሳሌ የባንክ ዝውውር፣ ቴሌብር ወይም CBE Birr።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምንድን ነው",
+          "body": "ይህ ገጽ ቤተክርስቲያንዎ የሚቀበላቸውን አጠቃላይ የክፍያ ምድቦች ያስተዳድራል — እንደ \"የባንክ ዝውውር\"፣ \"ቴሌብር\" ወይም \"CBE Birr\" ያሉ። እነዚህን ልገሳ ሰጪዎች እንዴት መስጠት እንዳለባቸው ሲወስኑ የሚመርጡዋቸው መለያዎች አድርገው ያስቧቸው። ይህ ገጽ የተለዩ የአካውንት ቁጥሮችን አያከማችም — ለእያንዳንዱ የክፍያ ዘዴ ትክክለኛ የባንክና የሞባይል ገንዘብ አካውንት ዝርዝሮች በተለየው የክፍያ አካውንቶች ገጽ ላይ ይስተዳደራሉ።"
+        },
+        {
+          "heading": "እዚህ ገጽ ላይ ምን ማድረግ ይችላሉ",
+          "body": "አዲስ የክፍያ ዓይነት ለመጨመር \"+ Add New Payment Method\" ን ይጫኑ፣ ይህም ትንሽ ቅጽ ይከፍታል።\n\nዋናው ዝርዝር እያንዳንዱን የክፍያ ዘዴ ቁጥር፣ አርማ፣ ስም፣ በማን እንደተፈጠረ (ስማቸውን ተጭነው መገለጫቸውን ማየት ይችላሉ)፣ እና ለውጦችን ለማድረግ የሚያስችል የEdit ቁልፍ የሚያሳይ ሊፈለግ የሚችል ሠንጠረዥ ነው።"
+        },
+        {
+          "heading": "የመስኮች ማብራሪያ",
+          "body": "ስም — ልገሳ ሰጪዎች እንደሚያዩት የዚህ የክፍያ ዓይነት መለያ (ለምሳሌ \"የባንክ ዝውውር\")። ይህ አስፈላጊ ነው።\n\nአርማ — ይህን የክፍያ ዘዴ የሚወክል፣ ከስሙ አጠገብ የሚታይ ምስል። ይህ አስፈላጊ ነው።\n\nእነዚህን ከሞሉ በኋላ ለማስቀመጥ \"Add Payment Method\" ይጫኑ።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆኑ ነገሮች",
+          "body": "አንድ የክፍያ ዘዴ እዚህ ከተፈጠረ በኋላ፣ ልገሳ ሰጪዎች ሊጠቀሙባቸው የሚገቡ የተለዩ የአካውንት ቁጥሮችንና የባንክ ዝርዝሮችን ለመጨመር ወደ የክፍያ አካውንቶች ገጽ መሄድ ይችላሉ። እዚህ ዘዴውን መጨመር የመጀመሪያው እርምጃ ብቻ ነው — ምድብ እንጂ አካውንቱ ራሱ አይደለም።"
+        }
+      ]
+    }
+  }
+}

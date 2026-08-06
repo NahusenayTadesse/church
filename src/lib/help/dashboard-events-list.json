@@ -1,0 +1,69 @@
+{
+  "path": "/dashboard/events",
+  "title": "Events List",
+  "summary": "Every conference, workshop, retreat, and training the church runs, with quick stats and registration status.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This page lists every event that has been added to the site — conferences, workshops, retreats, and trainings — in one table. It's where you come to get a quick overview of what's coming up, what's happening now, and how registrations are going, or to jump into a specific event to change its details."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "If no events have been added yet, you'll see a simple message with an \"Add New Event\" button to create your first one.\n\nOnce there are events, a heading at the top reads \"No of Events: {count}\" along with a summary line such as \"3 upcoming · 1 ongoing\", so you can see at a glance how the calendar is shaping up. If any events are completely full, you'll also see how many have reached capacity, and if there are people waiting to be approved for an event, you'll see a clickable count of pending registrations you can click to review them.\n\nUse the \"Add New Event\" button any time to open the form for creating a new event. Use the Filter menu to narrow the table down by timing (upcoming, ongoing, or past), status, event type, format, pricing, ministry area, or organizer — handy when the list gets long."
+    },
+    {
+      "heading": "The columns, explained",
+      "body": "#, Image (the event's photo), Event (its name — click to open the full event page), Type, Ministry Area, Starts and Ends (date and time), When (whether it's upcoming, currently ongoing, or already past), Format (shows \"Online\" or the physical venue), Organizer, Speakers (how many are listed), Registrations (seats taken versus the maximum, or \"n/a\" if the event doesn't require registration), Pending (registrations still awaiting approval), Waitlist, Attended, Registration Deadline, Cost (\"Free\" or the amount), Status, Featured (whether it's highlighted on the homepage), Photos (how many gallery images are attached), Files (how many downloadable files are attached), and Description."
+    },
+    {
+      "heading": "Good to know",
+      "body": "Clicking anywhere on an event's name takes you straight to that event's detail page, where you can edit it, manage speakers, view the registration list, and more. The stats at the top of the page (upcoming/ongoing counts, full events, pending registrations) update automatically as events and registrations change — you don't need to refresh anything by hand."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Events List",
+      "summary": "Every conference, workshop, retreat, and training the church runs, with quick stats and registration status.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This page lists every event that has been added to the site — conferences, workshops, retreats, and trainings — in one table. It's where you come to get a quick overview of what's coming up, what's happening now, and how registrations are going, or to jump into a specific event to change its details."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "If no events have been added yet, you'll see a simple message with an \"Add New Event\" button to create your first one.\n\nOnce there are events, a heading at the top reads \"No of Events: {count}\" along with a summary line such as \"3 upcoming · 1 ongoing\", so you can see at a glance how the calendar is shaping up. If any events are completely full, you'll also see how many have reached capacity, and if there are people waiting to be approved for an event, you'll see a clickable count of pending registrations you can click to review them.\n\nUse the \"Add New Event\" button any time to open the form for creating a new event. Use the Filter menu to narrow the table down by timing (upcoming, ongoing, or past), status, event type, format, pricing, ministry area, or organizer — handy when the list gets long."
+        },
+        {
+          "heading": "The columns, explained",
+          "body": "#, Image (the event's photo), Event (its name — click to open the full event page), Type, Ministry Area, Starts and Ends (date and time), When (whether it's upcoming, currently ongoing, or already past), Format (shows \"Online\" or the physical venue), Organizer, Speakers (how many are listed), Registrations (seats taken versus the maximum, or \"n/a\" if the event doesn't require registration), Pending (registrations still awaiting approval), Waitlist, Attended, Registration Deadline, Cost (\"Free\" or the amount), Status, Featured (whether it's highlighted on the homepage), Photos (how many gallery images are attached), Files (how many downloadable files are attached), and Description."
+        },
+        {
+          "heading": "Good to know",
+          "body": "Clicking anywhere on an event's name takes you straight to that event's detail page, where you can edit it, manage speakers, view the registration list, and more. The stats at the top of the page (upcoming/ongoing counts, full events, pending registrations) update automatically as events and registrations change — you don't need to refresh anything by hand."
+        }
+      ]
+    },
+    "am": {
+      "title": "የዝግጅቶች ዝርዝር",
+      "summary": "ቤተክርስቲያኑ የሚያካሂዳቸው ሁሉም ጉባኤዎች፣ ወርክሾፖች፣ ማፈግፈጎች እና ስልጠናዎች፣ ከፈጣን ስታትስቲክስ እና የምዝገባ ሁኔታ ጋር።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "ይህ ገጽ ወደ ድረ-ገጹ የተጨመሩትን ሁሉንም ዝግጅቶች — ጉባኤዎችን፣ ወርክሾፖችን፣ ማፈግፈጎችን እና ስልጠናዎችን — በአንድ ሠንጠረዥ ውስጥ ይዘረዝራል። ወደፊት ስለሚመጣው፣ አሁን እየተከናወነ ስላለው፣ እና ምዝገባዎች እንዴት እየሄዱ እንደሆነ ፈጣን አጠቃላይ እይታ ለማግኘት፣ ወይም ወደ አንድ የተወሰነ ዝግጅት ገብተው ዝርዝሮቹን ለመቀየር የሚመጡበት ቦታ ነው።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "እስካሁን ምንም ዝግጅት ካልታከለ፣ የመጀመሪያውን ለመፍጠር \"አዲስ ዝግጅት ያክሉ\" የሚል አዝራር ያለው ቀላል መልዕክት ያያሉ።\n\nዝግጅቶች ካሉ በኋላ፣ በላይኛው ክፍል \"No of Events: {count}\" የሚል ርዕስ ከ\"3 upcoming · 1 ongoing\" ያለ ማጠቃለያ መስመር ጋር ይታያል፣ ስለዚህ የቀን መቁጠሪያው እንዴት እየተቀረጸ እንዳለ በአንድ እይታ ማየት ይችላሉ። ማንኛውም ዝግጅት ሙሉ በሙሉ ከተያዘ፣ ምን ያህሉ ሙሉ አቅም ላይ እንደደረሱም ያያሉ፣ እና ለአንድ ዝግጅት ማጽደቅ የሚጠባበቁ ሰዎች ካሉ፣ ለመገምገም መጫን የሚችሉት የሚጠባበቁ ምዝገባዎች ቁጥር ያያሉ።\n\nአዲስ ዝግጅት ለመፍጠር ቅጹን ለመክፈት በማንኛውም ጊዜ \"አዲስ ዝግጅት ያክሉ\" የሚለውን አዝራር ይጠቀሙ። ዝርዝሩ ሲረዝም ጠቃሚ የሆነውን ሠንጠረዡን በጊዜ (ወደፊት፣ በመካሄድ ላይ፣ ወይም ያለፈ)፣ ስቴተስ፣ የዝግጅት ዓይነት፣ ቅርጸት፣ ዋጋ አወጣጥ፣ የአገልግሎት ዘርፍ፣ ወይም አዘጋጅ ለማጥበብ የማጣሪያ ምናሌውን ይጠቀሙ።"
+        },
+        {
+          "heading": "ዓምዶቹ በዝርዝር",
+          "body": "#, ምስል (የዝግጅቱ ፎቶ)፣ ዝግጅት (ስሙ — ሙሉ የዝግጅት ገጹን ለመክፈት ይጫኑት)፣ ዓይነት፣ የአገልግሎት ዘርፍ፣ ይጀምራል እና ያበቃል (ቀን እና ሰዓት)፣ መቼ (ወደፊት፣ አሁን በመካሄድ ላይ፣ ወይም ቀደም ብሎ ያለፈ መሆኑ)፣ ቅርጸት (\"Online\" ወይም አካላዊ ቦታውን ያሳያል)፣ አዘጋጅ፣ ተናጋሪዎች (ምን ያህል እንደተዘረዘሩ)፣ ምዝገባዎች (ከተያዙ መቀመጫዎች በላይ ከፍተኛውን፣ ወይም ዝግጅቱ ምዝገባ የማይፈልግ ከሆነ \"n/a\")፣ በመጠባበቅ ላይ (ማጽደቅ የሚጠባበቁ ምዝገባዎች)፣ የመጠባበቂያ ዝርዝር፣ የተገኙ፣ የምዝገባ ማብቂያ ቀን፣ ዋጋ (\"ነጻ\" ወይም መጠኑ)፣ ስቴተስ፣ ተለይቶ የቀረበ (በመነሻ ገጹ ላይ ጎላ ብሎ የቀረበ መሆኑ)፣ ፎቶዎች (ስንት የጋለሪ ምስሎች እንደተያያዙ)፣ ፋይሎች (ስንት ማውረድ የሚቻሉ ፋይሎች እንደተያያዙ)፣ እና መግለጫ።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆነው",
+          "body": "በአንድ ዝግጅት ስም ላይ በማንኛውም ቦታ መጫን ቀጥታ ወደዚያ ዝግጅት ዝርዝር ገጽ ይወስድዎታል፣ እዚያም ማርትዕ፣ ተናጋሪዎችን ማስተዳደር፣ የምዝገባ ዝርዝሩን መመልከት እና ሌሎችንም ማድረግ ይችላሉ። በገጹ ላይኛው ክፍል ያሉት ስታትስቲኮች (ወደፊት/በመካሄድ ላይ ቁጥሮች፣ ሙሉ ዝግጅቶች፣ የሚጠባበቁ ምዝገባዎች) ዝግጅቶች እና ምዝገባዎች ሲቀየሩ በራስ-ሰር ይዘምናሉ — በእጅ ምንም ነገር ማደስ አያስፈልግዎትም።"
+        }
+      ]
+    }
+  }
+}

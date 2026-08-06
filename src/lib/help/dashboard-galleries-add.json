@@ -1,0 +1,69 @@
+{
+  "match": "/dashboard/galleries/add-gallery",
+  "title": "Add a Gallery",
+  "summary": "A form for creating a new photo and video gallery, including its basic info, optional links to other content, uploads, and visibility settings.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This page is where you create a brand new gallery — a collection of photos and/or videos — before it appears on the galleries list and, if you publish it, on the public website."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "Basics: Title (required), Description (optional), and Captured On (an optional date for when the photos or video were actually taken).\n\nLinking: Ministry Area, Event, and Project are all optional dropdowns — a gallery can be tied to one of these if it belongs to a specific event or project, or left unattached to anything.\n\nMedia: Photos lets you upload several images at once. Video Links is a text box where you paste one web address per line, one video per line; a counter shows how many you've added out of the maximum allowed. Captions and the display order for these get set later, from the gallery's own page after it's created.\n\nCover Image is optional — if you leave it blank, the first photo you uploaded automatically becomes the cover shown wherever the gallery is previewed.\n\nVisibility: the \"Published\" checkbox controls whether the gallery is visible on the public website. Once you check it, a \"Feature on the homepage\" checkbox also appears, letting you highlight this gallery on the homepage."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "Fill in the fields, upload your photos and any video links, and decide whether to publish right away or save it unpublished to finish later. When ready, click \"Add Gallery\" to save."
+    },
+    {
+      "heading": "Good to know",
+      "body": "If you try to leave this page with unsaved changes, you'll be asked to confirm first, so your work isn't lost by accident."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Add a Gallery",
+      "summary": "A form for creating a new photo and video gallery, including its basic info, optional links to other content, uploads, and visibility settings.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This page is where you create a brand new gallery — a collection of photos and/or videos — before it appears on the galleries list and, if you publish it, on the public website."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "Basics: Title (required), Description (optional), and Captured On (an optional date for when the photos or video were actually taken).\n\nLinking: Ministry Area, Event, and Project are all optional dropdowns — a gallery can be tied to one of these if it belongs to a specific event or project, or left unattached to anything.\n\nMedia: Photos lets you upload several images at once. Video Links is a text box where you paste one web address per line, one video per line; a counter shows how many you've added out of the maximum allowed. Captions and the display order for these get set later, from the gallery's own page after it's created.\n\nCover Image is optional — if you leave it blank, the first photo you uploaded automatically becomes the cover shown wherever the gallery is previewed.\n\nVisibility: the \"Published\" checkbox controls whether the gallery is visible on the public website. Once you check it, a \"Feature on the homepage\" checkbox also appears, letting you highlight this gallery on the homepage."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "Fill in the fields, upload your photos and any video links, and decide whether to publish right away or save it unpublished to finish later. When ready, click \"Add Gallery\" to save."
+        },
+        {
+          "heading": "Good to know",
+          "body": "If you try to leave this page with unsaved changes, you'll be asked to confirm first, so your work isn't lost by accident."
+        }
+      ]
+    },
+    "am": {
+      "title": "ጋለሪ ጨምር",
+      "summary": "አዲስ የፎቶ እና የቪዲዮ ጋለሪ ለመፍጠር የሚያገለግል ቅጽ ሲሆን መሰረታዊ መረጃውን፣ ከሌላ ይዘት ጋር አማራጭ ግንኙነቶችን፣ ስቀላዎችን እና የታይነት ቅንብሮችን ያካትታል።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "ይህ ገጽ አዲስ ጋለሪ — የፎቶዎች እና/ወይም ቪዲዮዎች ስብስብ — በጋለሪዎች ዝርዝር ውስጥ እና እርስዎ ካሳተሙት በህዝባዊ ድረ-ገጽ ላይ ከመታየቱ በፊት የሚፈጥሩበት ነው።"
+        },
+        {
+          "heading": "መስኮቹ በዝርዝር",
+          "body": "መሰረታዊ መረጃ፡ ርዕስ (የግድ ያስፈልጋል)፣ መግለጫ (አማራጭ)፣ እና የተነሱበት ቀን (ፎቶዎቹ ወይም ቪዲዮው በትክክል የተነሱበት ቀን - አማራጭ)።\n\nግንኙነት፡ የአገልግሎት ዘርፍ፣ ዝግጅት እና ፕሮጀክት ሁሉም አማራጭ ተቆልቋይ ዝርዝሮች ናቸው — ጋለሪ ከተወሰነ ዝግጅት ወይም ፕሮጀክት ጋር ከተያያዘ ከእነዚህ ውስጥ ካንዱ ጋር ሊያያዝ ይችላል፣ ወይም ካልተያያዘ ተትቶ ሊቆይ ይችላል።\n\nሚዲያ፡ ፎቶዎች በአንድ ጊዜ ብዙ ምስሎችን እንዲሰቅሉ ያስችልዎታል። የቪዲዮ አድራሻዎች በእያንዳንዱ መስመር አንድ የድረ-ገጽ አድራሻ የሚለጥፉበት የጽሁፍ ሳጥን ነው፣ በእያንዳንዱ መስመር አንድ ቪዲዮ፤ ከፍተኛው ከሚፈቀደው ውስጥ ስንት እንደጨመሩ የሚያሳይ ቆጣሪ አለ። የእነዚህ መግለጫ ጽሁፎች እና የማሳያ ቅደም ተከተል ከተፈጠረ በኋላ ከጋለሪው ገጽ ራሱ በኋላ ላይ ይዘጋጃሉ።\n\nየሽፋን ምስል አማራጭ ነው — ባዶ ከተውት፣ የሰቀሉት የመጀመሪያ ፎቶ ጋለሪው በሚታይበት ቦታ ሁሉ የሚታየው ሽፋን በራስ-ሰር ይሆናል።\n\nታይነት፡ \"ታትሟል\" ሳጥን ጋለሪው በህዝባዊ ድረ-ገጽ ላይ የሚታይ መሆኑን ይቆጣጠራል። ካረጋገጡት በኋላ፣ \"በመነሻ ገጽ ላይ አድምቅ\" ሳጥንም ይታያል፣ ይህም ይህን ጋለሪ በመነሻ ገጽ ላይ እንዲያደምቁ ያስችልዎታል።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "መስኮቹን ይሙሉ፣ ፎቶዎችዎን እና ማንኛውንም የቪዲዮ አድራሻዎችን ይስቀሉ፣ እና ወዲያውኑ ማተም ወይም ላልታተመ ኋላ ላይ ለመጨረስ ማስቀመጥ እንደሚፈልጉ ይወስኑ። ዝግጁ ሲሆኑ ለማስቀመጥ \"ጋለሪ ጨምር\" ን ይጫኑ።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆነው",
+          "body": "ያልተቀመጡ ለውጦች እያሉዎት ይህን ገጽ ለቅቀው ለመሄድ ከሞከሩ፣ ስራዎ በስህተት እንዳይጠፋ መጀመሪያ እንዲያረጋግጡ ይጠየቃሉ።"
+        }
+      ]
+    }
+  }
+}

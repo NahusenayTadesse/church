@@ -1,0 +1,69 @@
+{
+  "path": "/dashboard/admin-panel/users",
+  "title": "Users",
+  "summary": "See every dashboard staff account, which role each person belongs to, and how many permissions they have.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This page lists every person who has a staff account for this dashboard - meaning everyone who can log in and use it. Use it to look up a staff member, see which role they belong to, or jump into managing their account."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "You can see the total number of accounts (shown as \"No of Users\") and browse the table. Click a person's Name to open their account details. Click their Role to jump straight to that role's detail page, where you can see or change what the role is allowed to do. Use the actions menu on a row for further options."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "# - the row number.\n\nName - the staff member's name, click to open their account details.\n\nEmail - the address they use to log in.\n\nRole - which role (permission group) this person belongs to. Click it to open that role's details.\n\nPermissions Count - how many permissions this person currently has. This number comes entirely from their Role, not from anything set on the person individually.\n\nAdded At - the date this account was created."
+    },
+    {
+      "heading": "Good to know",
+      "body": "The Permissions Count you see here is always inherited from the person's Role - there is no way to give one person extra permissions beyond what their role provides. If someone needs more or fewer abilities, the fix is to change their Role, either here by opening their account, or by editing the role itself."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Users",
+      "summary": "See every dashboard staff account, which role each person belongs to, and how many permissions they have.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This page lists every person who has a staff account for this dashboard - meaning everyone who can log in and use it. Use it to look up a staff member, see which role they belong to, or jump into managing their account."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "You can see the total number of accounts (shown as \"No of Users\") and browse the table. Click a person's Name to open their account details. Click their Role to jump straight to that role's detail page, where you can see or change what the role is allowed to do. Use the actions menu on a row for further options."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "# - the row number.\n\nName - the staff member's name, click to open their account details.\n\nEmail - the address they use to log in.\n\nRole - which role (permission group) this person belongs to. Click it to open that role's details.\n\nPermissions Count - how many permissions this person currently has. This number comes entirely from their Role, not from anything set on the person individually.\n\nAdded At - the date this account was created."
+        },
+        {
+          "heading": "Good to know",
+          "body": "The Permissions Count you see here is always inherited from the person's Role - there is no way to give one person extra permissions beyond what their role provides. If someone needs more or fewer abilities, the fix is to change their Role, either here by opening their account, or by editing the role itself."
+        }
+      ]
+    },
+    "am": {
+      "title": "ተጠቃሚዎች",
+      "summary": "እያንዳንዱ የዳሽቦርድ ሰራተኛ አካውንት፣ እያንዳንዱ ሰው የትኛው ሚና እንዳለው እና ስንት ፈቃድ እንዳለው ይመልከቱ።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "ይህ ገጽ ለዚህ ዳሽቦርድ የሰራተኛ አካውንት ያለው እያንዳንዱን ሰው ይዘረዝራል - ማለትም መግባትና መጠቀም የሚችል ሁሉንም ሰው። አንድ ሰራተኛ ለማግኘት፣ የትኛው ሚና እንዳለው/ላት ለማየት፣ ወይም አካውንታቸውን ወደ ማስተዳደር ለመዝለል ይህን ይጠቀሙ።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "የአካውንቶቹን ጠቅላላ ብዛት ማየት ይችላሉ (እንደ \"No of Users\" ሆኖ ይታያል) እና ሰንጠረዡን ማሰስ ይችላሉ። የአንድን ሰው ስም ጠቅ በማድረግ የአካውንት ዝርዝሮቻቸውን ይክፈቱ። ሚናቸውን ጠቅ በማድረግ በቀጥታ ወደ ያ ሚና ዝርዝር ገጽ ይዝለሉ፣ እዚያ ሚናው ምን ማድረግ እንደሚችል ማየት ወይም መቀየር ይችላሉ። ለተጨማሪ አማራጮች በረድፉ ላይ ያለውን የተግባራት ማውጫ ይጠቀሙ።"
+        },
+        {
+          "heading": "የመስኮች ማብራሪያ",
+          "body": "# - የረድፍ ቁጥር።\n\nስም (Name) - የሰራተኛው ስም፣ የአካውንት ዝርዝሮቻቸውን ለመክፈት ጠቅ ያድርጉ።\n\nኢሜይል (Email) - ለመግባት የሚጠቀሙበት አድራሻ።\n\nሚና (Role) - ይህ ሰው የትኛው ሚና (የፈቃድ ቡድን) እንዳለው/ላት። የያ ሚና ዝርዝሮችን ለመክፈት ጠቅ ያድርጉ።\n\nየፈቃድ ብዛት (Permissions Count) - ይህ ሰው አሁን ስንት ፈቃድ እንዳለው። ይህ ቁጥር ሙሉ በሙሉ ከሚናቸው የሚመጣ ነው፣ በግለሰቡ ላይ ተለይቶ ከተቀመጠ ነገር አይደለም።\n\nየተጨመረበት ቀን (Added At) - ይህ አካውንት የተፈጠረበት ቀን።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆኑ ነገሮች",
+          "body": "እዚህ የሚያዩት የፈቃድ ብዛት ሁልጊዜ ከሰውዬው ሚና የሚወረስ ነው - ከሚናው ከሚሰጠው በላይ ለአንድ ሰው ተጨማሪ ፈቃድ የመስጠት መንገድ የለም። አንድ ሰው ተጨማሪ ወይም ያነሰ ችሎታ ካስፈለገው/ላት፣ መፍትሄው ሚናቸውን መቀየር ነው፣ ወይ አካውንታቸውን በመክፈት እዚህ፣ ወይም ራሱን ሚናውን በማርም።"
+        }
+      ]
+    }
+  }
+}

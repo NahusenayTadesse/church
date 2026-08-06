@@ -5,6 +5,7 @@
 	import Search from '$lib/components/Search.svelte';
 	import AvatarSettings from '$lib/components/AvatarSettings.svelte';
 	import BottomMenu from '$lib/components/bottomMenu.svelte';
+	import HelpButton from '$lib/components/HelpButton.svelte';
 
 	let { children, data } = $props();
 </script>
@@ -20,6 +21,7 @@
 			<Sidebar.Trigger class="rounded-lg bg-white p-4 dark:bg-black" />
 			<div class="flex flex-row items-center gap-4">
 				<Search />
+				<HelpButton />
 				<DarkMode />
 				<AvatarSettings data={data?.name} />
 			</div>

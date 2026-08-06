@@ -1,0 +1,69 @@
+{
+  "match": "/dashboard/team/add-team",
+  "title": "Add a Team Member",
+  "summary": "Create a new profile for a pastor, staff member, ministry leader, or guest speaker.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "Use this form to add a new person's profile to the system — for example, a new staff member, a ministry leader, or a guest speaker. Once filled in and saved, this profile can be shown on the public website (if you choose to publish it) and used elsewhere in the dashboard, such as being linked to events."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "Full Name — the person's name as it should appear publicly. This is required.\n\nPosition — their title or role, such as \"Director of Youth Ministry\".\n\nPhoto — a picture of the person. This is required.\n\nEmail and Phone — contact details, if you'd like them shown or kept on file.\n\nBiography — a short write-up about the person. You can format the text using the built-in editor (bold, paragraphs, and so on).\n\nAreas of Expertise — tick the ministry areas this person is associated with, such as Youth, Worship, or Outreach.\n\nLinked Login Account — if this person also logs into the dashboard themselves, you can connect their profile to their actual login account here by searching for it in the dropdown. This is optional.\n\nSocial Links — enter a web address for each social media platform they use, if any.\n\nSort Order — a number that controls where this person appears compared to others in a list (lower numbers typically appear first)."
+    },
+    {
+      "heading": "The three checkboxes",
+      "body": "Executive — check this to show the person under executive leadership on the public site.\n\nSpeaker — check this if the person is available as a speaker for events and sermons.\n\nPublished — check this to make the profile visible on the public website. Leave it unchecked to keep the profile saved privately for now."
+    },
+    {
+      "heading": "Saving",
+      "body": "When you're ready, click \"Add Team Member\" to save the new profile.\n\nIf you try to leave the page without saving and you've made changes, you'll be asked to confirm — this is to make sure you don't accidentally lose your work."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Add a Team Member",
+      "summary": "Create a new profile for a pastor, staff member, ministry leader, or guest speaker.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "Use this form to add a new person's profile to the system — for example, a new staff member, a ministry leader, or a guest speaker. Once filled in and saved, this profile can be shown on the public website (if you choose to publish it) and used elsewhere in the dashboard, such as being linked to events."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "Full Name — the person's name as it should appear publicly. This is required.\n\nPosition — their title or role, such as \"Director of Youth Ministry\".\n\nPhoto — a picture of the person. This is required.\n\nEmail and Phone — contact details, if you'd like them shown or kept on file.\n\nBiography — a short write-up about the person. You can format the text using the built-in editor (bold, paragraphs, and so on).\n\nAreas of Expertise — tick the ministry areas this person is associated with, such as Youth, Worship, or Outreach.\n\nLinked Login Account — if this person also logs into the dashboard themselves, you can connect their profile to their actual login account here by searching for it in the dropdown. This is optional.\n\nSocial Links — enter a web address for each social media platform they use, if any.\n\nSort Order — a number that controls where this person appears compared to others in a list (lower numbers typically appear first)."
+        },
+        {
+          "heading": "The three checkboxes",
+          "body": "Executive — check this to show the person under executive leadership on the public site.\n\nSpeaker — check this if the person is available as a speaker for events and sermons.\n\nPublished — check this to make the profile visible on the public website. Leave it unchecked to keep the profile saved privately for now."
+        },
+        {
+          "heading": "Saving",
+          "body": "When you're ready, click \"Add Team Member\" to save the new profile.\n\nIf you try to leave the page without saving and you've made changes, you'll be asked to confirm — this is to make sure you don't accidentally lose your work."
+        }
+      ]
+    },
+    "am": {
+      "title": "የቡድን አባል ጨምር",
+      "summary": "ለአገልጋይ፣ ለሠራተኛ፣ ለአገልግሎት መሪ ወይም ለእንግዳ ተናጋሪ አዲስ መገለጫ ይፍጠሩ።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምንድን ነው",
+          "body": "አዲስ ሰው መገለጫ ወደ ስርዓቱ ለመጨመር ይህን ቅጽ ይጠቀሙ — ለምሳሌ አዲስ ሠራተኛ፣ የአገልግሎት መሪ ወይም እንግዳ ተናጋሪ። ተሞልቶ ከተቀመጠ በኋላ ይህ መገለጫ (ካሳተሙት) በህዝባዊ ድህረ ገጹ ላይ ሊታይ እና በዳሽቦርዱ ውስጥ በሌላ ቦታ ለምሳሌ ከዝግጅቶች ጋር ተያይዞ ሊያገለግል ይችላል።"
+        },
+        {
+          "heading": "የመስኮች ማብራሪያ",
+          "body": "ሙሉ ስም — ሰውየው በህዝብ ፊት እንዲታይ የሚፈለገው ስም። ይህ አስፈላጊ ነው።\n\nየስራ መደብ — እንደ \"የወጣቶች አገልግሎት ዳይሬክተር\" ያለ ማዕረግ ወይም ሚና።\n\nፎቶ — የሰውየው ምስል። ይህ አስፈላጊ ነው።\n\nኢሜይል እና ስልክ — ማሳየት ወይም መዝገብ ውስጥ ማስቀመጥ ከፈለጉ የመገኛ መረጃዎች።\n\nየህይወት ታሪክ — ስለ ሰውየው አጭር ጽሑፍ። ውስጣዊ አርታዒውን በመጠቀም ጽሑፉን ማሳመር ይችላሉ (ደማቅ ጽሑፍ፣ አንቀጾች፣ ወዘተ)።\n\nየእውቀት ዘርፎች — ይህ ሰው ከየትኞቹ የአገልግሎት ዘርፎች ጋር እንደተያያዘ ምልክት ያድርጉ፣ ለምሳሌ ወጣቶች፣ አምልኮ ወይም የተልእኮ አገልግሎት።\n\nየተያያዘ የመግቢያ አካውንት — ይህ ሰው ራሱ ወደ ዳሽቦርዱ የሚገባ ከሆነ፣ በተቆልቋይ ዝርዝር ውስጥ በመፈለግ መገለጫውን ከትክክለኛው የመግቢያ አካውንታቸው ጋር እዚህ ማገናኘት ይችላሉ። ይህ አማራጭ ነው።\n\nየማህበራዊ ትስስሮች — ካላቸው፣ ለሚጠቀሙባቸው እያንዳንዱ ማህበራዊ ሚዲያ መድረክ የድረ ገጽ አድራሻ ያስገቡ።\n\nየደረጃ ቅደም ተከተል — ይህ ሰው ከሌሎች ጋር ሲነጻጸር በዝርዝር ውስጥ የት እንደሚታይ የሚቆጣጠር ቁጥር (አነስተኛ ቁጥሮች ብዙ ጊዜ መጀመሪያ ይታያሉ)።"
+        },
+        {
+          "heading": "ሦስቱ የምልክት ሳጥኖች",
+          "body": "Executive (ከፍተኛ አመራር) — ሰውየውን በህዝባዊ ድህረ ገጹ ላይ ከከፍተኛ አመራር ስር ለማሳየት ይህን ምልክት ያድርጉ።\n\nSpeaker (ተናጋሪ) — ሰውየው ለዝግጅቶችና ስብከቶች እንደ ተናጋሪ ሆኖ ማገልገል የሚችል ከሆነ ይህን ምልክት ያድርጉ።\n\nPublished (የታተመ) — መገለጫውን በህዝባዊ ድህረ ገጹ ላይ ለማሳየት ይህን ምልክት ያድርጉ። መገለጫውን ለጊዜው በግል ብቻ ማስቀመጥ ከፈለጉ ምልክት ሳያደርጉ ይተውት።"
+        },
+        {
+          "heading": "ማስቀመጥ",
+          "body": "ዝግጁ ሲሆኑ አዲሱን መገለጫ ለማስቀመጥ \"Add Team Member\" የሚለውን ይጫኑ።\n\nለውጦችን አድርገው ገጹን ሳያስቀምጡ ለመልቀቅ ከሞከሩ፣ ስራዎ በስህተት እንዳይጠፋ ለማረጋገጥ እንዲያረጋግጡ ይጠየቃሉ።"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "path": "/dashboard/orders",
+  "title": "Pending Orders",
+  "summary": "This is the main Orders page. It shows every order that has been placed but not yet delivered or cancelled.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "When you open the Orders section of the dashboard, this Pending Orders view is what you land on first. It lists every order that is still waiting to be delivered - in other words, orders that are neither finished (Delivered) nor called off (Cancelled). Use this page as your main \"work queue\" for orders that still need attention."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "At the top of the page you will see four tabs: All Orders, Pending Orders, Delivered Orders, and Cancelled Orders. Click any tab to switch to that view - you are currently on Pending Orders.\n\nAbove the table there is a \"+ Add New Order\" button. Clicking it opens a form where you can create a brand new order.\n\nThere is also a search box above the table. Type a customer's name, phone number, or other details to quickly filter the list down to matching orders."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "The table has these columns:\n- # - just the row number, so you can count or refer to a row.\n- Name - the customer's name. Click it to open the same editing form as the pencil icon described below.\n- Phone - the customer's phone number. Click it to copy the number to your clipboard.\n- Items - the products in this order, with quantities and totals, shown in Ethiopian Birr.\n- Status - a colored badge showing the order's current state. Yellow with a spinning icon means Pending, green means Delivered, and red means Cancelled.\n- Edit - a pencil icon button that opens the order for editing.\n\nWhen you click \"+ Add New Order\" or the Edit pencil, a form opens with these fields:\n- Customer - a searchable dropdown listing your existing customers. Start typing a name to find them quickly.\n- Add Product - click this button to add a line for a product. Each product line has three parts: a Product dropdown (choose which item), a Price dropdown (this only shows the prices available for the product you picked, so always choose the product first), and a Quantity box (a number, at least 1). Click the \"X\" next to a line to remove that product from the order. You can add as many product lines as the order needs.\n- Status - a dropdown to mark the order as Pending, Delivered, or Cancelled.\n- If you set Status to Delivered, two extra fields appear: Payment Method (a dropdown of how the customer paid) and Receipt (upload a photo or PDF proof of payment; if one was already uploaded, you will see it here).\n- The button at the bottom says \"Add Order\" when creating a new order, or \"Save Changes\" when editing an existing one. While it saves you will briefly see \"Adding Order...\", followed by a confirmation message."
+    },
+    {
+      "heading": "Good to know",
+      "body": "If you try to mark an order as Delivered without choosing a Payment Method first, the save will fail and you will see an error asking you to pick one - just select a payment method and try saving again.\n\nWhen you mark an order Delivered, the system automatically sends a confirmation email to both the customer and the church office. You do not need to do anything extra - this happens in the background as soon as you save.\n\nWhen you edit an order's list of products, your changes replace the old list entirely - it does not add new products on top of the old ones. If you want to keep an existing product on the order, make sure it is still listed before you save.\n\nIf an order is already Delivered and you upload a new receipt, it replaces the old receipt - the previous file will no longer be available."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Pending Orders",
+      "summary": "This is the main Orders page. It shows every order that has been placed but not yet delivered or cancelled.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "When you open the Orders section of the dashboard, this Pending Orders view is what you land on first. It lists every order that is still waiting to be delivered - in other words, orders that are neither finished (Delivered) nor called off (Cancelled). Use this page as your main \"work queue\" for orders that still need attention."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "At the top of the page you will see four tabs: All Orders, Pending Orders, Delivered Orders, and Cancelled Orders. Click any tab to switch to that view - you are currently on Pending Orders.\n\nAbove the table there is a \"+ Add New Order\" button. Clicking it opens a form where you can create a brand new order.\n\nThere is also a search box above the table. Type a customer's name, phone number, or other details to quickly filter the list down to matching orders."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "The table has these columns:\n- # - just the row number, so you can count or refer to a row.\n- Name - the customer's name. Click it to open the same editing form as the pencil icon described below.\n- Phone - the customer's phone number. Click it to copy the number to your clipboard.\n- Items - the products in this order, with quantities and totals, shown in Ethiopian Birr.\n- Status - a colored badge showing the order's current state. Yellow with a spinning icon means Pending, green means Delivered, and red means Cancelled.\n- Edit - a pencil icon button that opens the order for editing.\n\nWhen you click \"+ Add New Order\" or the Edit pencil, a form opens with these fields:\n- Customer - a searchable dropdown listing your existing customers. Start typing a name to find them quickly.\n- Add Product - click this button to add a line for a product. Each product line has three parts: a Product dropdown (choose which item), a Price dropdown (this only shows the prices available for the product you picked, so always choose the product first), and a Quantity box (a number, at least 1). Click the \"X\" next to a line to remove that product from the order. You can add as many product lines as the order needs.\n- Status - a dropdown to mark the order as Pending, Delivered, or Cancelled.\n- If you set Status to Delivered, two extra fields appear: Payment Method (a dropdown of how the customer paid) and Receipt (upload a photo or PDF proof of payment; if one was already uploaded, you will see it here).\n- The button at the bottom says \"Add Order\" when creating a new order, or \"Save Changes\" when editing an existing one. While it saves you will briefly see \"Adding Order...\", followed by a confirmation message."
+        },
+        {
+          "heading": "Good to know",
+          "body": "If you try to mark an order as Delivered without choosing a Payment Method first, the save will fail and you will see an error asking you to pick one - just select a payment method and try saving again.\n\nWhen you mark an order Delivered, the system automatically sends a confirmation email to both the customer and the church office. You do not need to do anything extra - this happens in the background as soon as you save.\n\nWhen you edit an order's list of products, your changes replace the old list entirely - it does not add new products on top of the old ones. If you want to keep an existing product on the order, make sure it is still listed before you save.\n\nIf an order is already Delivered and you upload a new receipt, it replaces the old receipt - the previous file will no longer be available."
+        }
+      ]
+    },
+    "am": {
+      "title": "በመጠባበቅ ላይ ያሉ ትዕዛዞች",
+      "summary": "ይህ ዋናው የትዕዛዞች ገጽ ነው። እስካሁን ያልደረሱ ወይም ያልተሰረዙ ማለትም ገና በመጠባበቅ ላይ ያሉ ትዕዛዞችን ሁሉ ያሳያል።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምንድን ነው",
+          "body": "የዳሽቦርዱን የትዕዛዞች ክፍል ሲከፍቱ መጀመሪያ የሚያዩት ይህንን የ«በመጠባበቅ ላይ ያሉ ትዕዛዞች» ገጽ ነው። ገና ያልደረሱ ትዕዛዞችን ብቻ ያሳያል - ማለትም ሁኔታቸው «ደርሷል» ወይም «ተሰርዟል» ያልሆኑትን። ትኩረት የሚያስፈልጋቸውን ትዕዛዞች ለመከታተል ይህንን ገጽ እንደ ዋና የስራ ዝርዝርዎ ይጠቀሙበት።"
+        },
+        {
+          "heading": "እዚህ ገጽ ላይ ምን ማድረግ ይችላሉ",
+          "body": "በገጹ አናት ላይ አራት ትሮች ያያሉ፦ ሁሉም ትዕዛዞች፣ በመጠባበቅ ላይ ያሉ ትዕዛዞች፣ የደረሱ ትዕዛዞች፣ እና የተሰረዙ ትዕዛዞች። ወደ ሌላ ገጽ ለመሄድ የፈለጉትን ትር ይጫኑ - አሁን ባሉበት «በመጠባበቅ ላይ ያሉ ትዕዛዞች» ላይ ነው።\n\nከሠንጠረዡ በላይ «+ አዲስ ትዕዛዝ ጨምር» የሚል አዝራር ይገኛል። ይህንን ሲጫኑ አዲስ ትዕዛዝ ለመፍጠር የሚያስችል ቅጽ ይከፈታል።\n\nደግሞም ከሠንጠረዡ በላይ የፍለጋ ሳጥን አለ። የደንበኛውን ስም፣ ስልክ ቁጥር ወይም ሌላ መረጃ በመተየብ ዝርዝሩን በፍጥነት ማጥበብ ይችላሉ።"
+        },
+        {
+          "heading": "መስኮቹ በዝርዝር",
+          "body": "ሠንጠረዡ የሚከተሉት አምዶች አሉት፦\n- # - የረድፉ ቁጥር ብቻ ነው፣ ለመቁጠር ወይም ለማመልከት ይረዳል።\n- ስም - የደንበኛው ስም። ከታች እንደተገለጸው ካለው የእርሳስ አዝራር ጋር ተመሳሳይ የማስተካከያ ቅጽ ለመክፈት ይህንን ይጫኑ።\n- ስልክ - የደንበኛው ስልክ ቁጥር። ቁጥሩን ወደ ቅንጥብ ሰሌዳዎ ለመቅዳት ይህንን ይጫኑ።\n- እቃዎች - በዚህ ትዕዛዝ ውስጥ ያሉ ምርቶች፣ ብዛታቸውና ድምራቸው በኢትዮጵያ ብር ይታያል።\n- ሁኔታ - የትዕዛዙን አሁናዊ ሁኔታ የሚያሳይ ቀለም ያለው ምልክት። ቢጫ ከሚሽከረከር ምልክት ጋር «በመጠባበቅ ላይ» ማለት ነው፣ አረንጓዴ «ደርሷል» ማለት ነው፣ ቀይ ደግሞ «ተሰርዟል» ማለት ነው።\n- አርትዕ - ትዕዛዙን ለማርትዕ የሚከፍት የእርሳስ አዝራር።\n\n«+ አዲስ ትዕዛዝ ጨምር» ወይም የእርሳስ አዝራሩን ሲጫኑ የሚከተሉት መስኮች ያለው ቅጽ ይከፈታል፦\n- ደንበኛ - ነባር ደንበኞችዎን የሚዘረዝር በፍለጋ የሚሠራ ተቆልቋይ ዝርዝር። ስም በመተየብ በፍጥነት ማግኘት ይችላሉ።\n- ምርት ጨምር - ለአንድ ምርት አዲስ መስመር ለመጨመር ይህንን አዝራር ይጫኑ። እያንዳንዱ የምርት መስመር ሦስት ክፍሎች አሉት፦ የምርት ተቆልቋይ (ምርቱን ይምረጡ)፣ የዋጋ ተቆልቋይ (ይህ የመረጡት ምርት ያለውን ዋጋዎች ብቻ ያሳያል፣ ስለዚህ መጀመሪያ ምርቱን ይምረጡ)፣ እና የብዛት ሳጥን (ቁጥር፣ ቢያንስ 1)። ከመስመሩ ውጭ ለማድረግ ከጎኑ ያለውን «X» ይጫኑ። ትዕዛዙ የሚፈልገውን ያህል የምርት መስመሮች መጨመር ይችላሉ።\n- ሁኔታ - ትዕዛዙን «በመጠባበቅ ላይ»፣ «ደርሷል»፣ ወይም «ተሰርዟል» ብሎ ለማመልከት የሚያስችል ተቆልቋይ።\n- ሁኔታን «ደርሷል» ብለው ካስቀመጡ ሁለት ተጨማሪ መስኮች ይታያሉ፦ የክፍያ ዘዴ (ደንበኛው እንዴት እንደከፈለ የሚያሳይ ተቆልቋይ) እና ደረሰኝ (የክፍያ ማረጋገጫ ፎቶ ወይም ፒዲኤፍ ይስቀሉ፤ ቀደም ብሎ የተሰቀለ ካለ እዚህ ይታያል)።\n- ከታች ያለው አዝራር አዲስ ትዕዛዝ ሲፈጥሩ «ትዕዛዝ ጨምር» ይላል፣ ነባር ትዕዛዝን ሲያርትዑ ደግሞ «ለውጦችን አስቀምጥ» ይላል። በሚቀመጥበት ጊዜ ለአጭር ጊዜ «ትዕዛዝ በመጨመር ላይ...» የሚል ጽሑፍ ያያሉ፣ ከዚያም የማረጋገጫ መልእክት ይታያል።"
+        },
+        {
+          "heading": "ማወቅ ጥሩ የሆኑ ነገሮች",
+          "body": "የክፍያ ዘዴ ሳይመርጡ ትዕዛዝን «ደርሷል» ብለው ለማመልከት ከሞከሩ፣ ማስቀመጡ አይሳካም እና የክፍያ ዘዴ እንዲመርጡ የሚጠይቅ የስህተት መልእክት ያያሉ - የክፍያ ዘዴ ይምረጡ እና እንደገና ለማስቀመጥ ይሞክሩ።\n\nትዕዛዝን «ደርሷል» ብለው ሲያመለክቱ፣ ስርዓቱ በራስ-ሰር ለደንበኛውና ለቤተክርስቲያኑ ቢሮ የማረጋገጫ ኢሜይል ይልካል። ተጨማሪ ምንም ማድረግ አያስፈልግም - ሲያስቀምጡ ወዲያውኑ ከበስተጀርባ ይከናወናል።\n\nየትዕዛዝን የምርት ዝርዝር ሲያርትዑ፣ ለውጦችዎ ነባሩን ዝርዝር ሙሉ በሙሉ ይተካሉ - በነባሩ ላይ አዳዲስ ምርቶች አይጨምርም። ነባር ምርት በትዕዛዙ ላይ እንዲቆይ ከፈለጉ፣ ከማስቀመጥዎ በፊት አሁንም ተዘርዝሮ መኖሩን ያረጋግጡ።\n\nትዕዛዙ አስቀድሞ «ደርሷል» ከሆነ እና አዲስ ደረሰኝ ከሰቀሉ፣ ነባሩን ደረሰኝ ይተካዋል - የቀድሞው ፋይል ከዚያ በኋላ አይገኝም።"
+        }
+      ]
+    }
+  }
+}

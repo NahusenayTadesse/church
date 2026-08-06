@@ -1,0 +1,69 @@
+{
+  "path": "/dashboard/customers",
+  "title": "Customer List",
+  "summary": "This page lists every customer who has placed an order, with quick stats about each one.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "The Customer List is your directory of everyone who has ever placed an order. From here you can look someone up, see basic contact information at a glance, and jump into a customer's full profile or order history."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "At the top of the page you will see a count that says \"No of customers\" followed by a number, showing how many customers are currently in the system. If there are no customers yet, you will see a friendly message instead of a table.\n\nClick a customer's Name to open their profile page. Click their Phone or Email to copy it to your clipboard. Click any column heading marked as sortable (Booked At, Days Since Added, Order Counts) to sort the whole list by that column - click again to reverse the order.\n\nEach row also has an Actions menu, shown as three dots (⋮). Opening it gives you three choices: \"Copy Phone Number\", \"View {name}'s Details\" (opens that customer's profile in a new browser tab), and \"View {creator}'s Details\" (opens the profile of the staff member who originally added this customer to the system)."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "The table has these columns:\n- # - the row number.\n- Name - the customer's name. Click to open their profile.\n- Phone - the customer's phone number. Click to copy it.\n- Email - the customer's email address. Click to copy it.\n- Booked At - the date this customer was first added to the system. Click the column header to sort by this date.\n- Days Since Added - how many days ago the customer was added, shown as something like \"5 days\". Sortable.\n- Order Counts - how many pending orders this customer currently has. Sortable.\n- Actions - the three-dot (⋮) menu described above."
+    },
+    {
+      "heading": "Good to know",
+      "body": "Order Counts on this page reflects pending orders only - it will not include orders that have already been delivered or that were cancelled. To see a customer's complete order history across every status, open their profile and use the Order History button.\n\nThe \"View {creator}'s Details\" option is useful for tracking which staff member registered a particular customer, in case you need to follow up with them about how the customer's information was entered."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Customer List",
+      "summary": "This page lists every customer who has placed an order, with quick stats about each one.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "The Customer List is your directory of everyone who has ever placed an order. From here you can look someone up, see basic contact information at a glance, and jump into a customer's full profile or order history."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "At the top of the page you will see a count that says \"No of customers\" followed by a number, showing how many customers are currently in the system. If there are no customers yet, you will see a friendly message instead of a table.\n\nClick a customer's Name to open their profile page. Click their Phone or Email to copy it to your clipboard. Click any column heading marked as sortable (Booked At, Days Since Added, Order Counts) to sort the whole list by that column - click again to reverse the order.\n\nEach row also has an Actions menu, shown as three dots (⋮). Opening it gives you three choices: \"Copy Phone Number\", \"View {name}'s Details\" (opens that customer's profile in a new browser tab), and \"View {creator}'s Details\" (opens the profile of the staff member who originally added this customer to the system)."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "The table has these columns:\n- # - the row number.\n- Name - the customer's name. Click to open their profile.\n- Phone - the customer's phone number. Click to copy it.\n- Email - the customer's email address. Click to copy it.\n- Booked At - the date this customer was first added to the system. Click the column header to sort by this date.\n- Days Since Added - how many days ago the customer was added, shown as something like \"5 days\". Sortable.\n- Order Counts - how many pending orders this customer currently has. Sortable.\n- Actions - the three-dot (⋮) menu described above."
+        },
+        {
+          "heading": "Good to know",
+          "body": "Order Counts on this page reflects pending orders only - it will not include orders that have already been delivered or that were cancelled. To see a customer's complete order history across every status, open their profile and use the Order History button.\n\nThe \"View {creator}'s Details\" option is useful for tracking which staff member registered a particular customer, in case you need to follow up with them about how the customer's information was entered."
+        }
+      ]
+    },
+    "am": {
+      "title": "የደንበኞች ዝርዝር",
+      "summary": "ይህ ገጽ ትዕዛዝ ያስገቡ ደንበኞችን ሁሉ ከእያንዳንዳቸው ፈጣን አኃዞች ጋር ይዘረዝራል።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምንድን ነው",
+          "body": "የደንበኞች ዝርዝር ትዕዛዝ ካስገቡ ሰዎች ሁሉ የሚይዝ የእርስዎ ማውጫ ነው። ከዚህ አንድን ሰው መፈለግ፣ መሠረታዊ የመገናኛ መረጃን በአንድ እይታ ማየት፣ እና ወደ ደንበኛው ሙሉ መገለጫ ወይም የትዕዛዝ ታሪክ መዝለል ይችላሉ።"
+        },
+        {
+          "heading": "እዚህ ገጽ ላይ ምን ማድረግ ይችላሉ",
+          "body": "በገጹ አናት ላይ «የደንበኞች ብዛት» የሚል ተከትሎም ቁጥር ያያሉ፣ ይህም በስርዓቱ ውስጥ አሁን ያሉትን ደንበኞች ብዛት ያሳያል። እስካሁን ደንበኞች ከሌሉ ከሠንጠረዥ ይልቅ ወዳጃዊ መልእክት ያያሉ።\n\nየደንበኛውን መገለጫ ለመክፈት ስሙን ይጫኑ። ወደ ቅንጥብ ሰሌዳዎ ለመቅዳት ስልኩን ወይም ኢሜይሉን ይጫኑ። በዚያ አምድ መሰረት ዝርዝሩን ለመደርደር ለመደርደር የሚያስችል (Booked At፣ Days Since Added፣ Order Counts) ማንኛውንም የአምድ ራስጌ ይጫኑ - ቅደም ተከተሉን ለመቀልበስ እንደገና ይጫኑ።\n\nእያንዳንዱ ረድፍ በሶስት ነጥቦች (⋮) የሚታይ የተግባራት ምናሌ አለው። ይህንን ሲከፍቱ ሶስት ምርጫዎች ያገኛሉ፦ «ስልክ ቁጥር ቅዳ»፣ «የ{ስም} ዝርዝሮችን ተመልከት» (የዚያን ደንበኛ መገለጫ በአዲስ ትር ውስጥ ይከፍታል)፣ እና «የ{ፈጣሪ} ዝርዝሮችን ተመልከት» (ይህንን ደንበኛ ወደ ስርዓቱ በመጀመሪያ ያከለውን የሰራተኛ መገለጫ ይከፍታል)።"
+        },
+        {
+          "heading": "መስኮቹ በዝርዝር",
+          "body": "ሠንጠረዡ የሚከተሉት አምዶች አሉት፦\n- # - የረድፉ ቁጥር።\n- ስም - የደንበኛው ስም። መገለጫቸውን ለመክፈት ይጫኑ።\n- ስልክ - የደንበኛው ስልክ ቁጥር። ለመቅዳት ይጫኑ።\n- ኢሜይል - የደንበኛው ኢሜይል አድራሻ። ለመቅዳት ይጫኑ።\n- Booked At - ይህ ደንበኛ ለመጀመሪያ ጊዜ ወደ ስርዓቱ የተጨመረበት ቀን። በዚህ ቀን ለመደርደር የአምዱን ራስጌ ይጫኑ።\n- Days Since Added - ደንበኛው ከተጨመረ ስንት ቀናት እንዳለፉ፣ ለምሳሌ «5 days» ተብሎ ይታያል። ሊደረደር ይችላል።\n- Order Counts - ይህ ደንበኛ አሁን ስንት በመጠባበቅ ላይ ያሉ ትዕዛዞች እንዳሉት። ሊደረደር ይችላል።\n- Actions - ከላይ የተገለጸው የሶስት ነጥብ (⋮) ምናሌ።"
+        },
+        {
+          "heading": "ማወቅ ጥሩ የሆኑ ነገሮች",
+          "body": "በዚህ ገጽ ላይ ያለው Order Counts በመጠባበቅ ላይ ያሉ ትዕዛዞችን ብቻ ያንጸባርቃል - አስቀድሞ የደረሱ ወይም የተሰረዙ ትዕዛዞችን አያካትትም። የደንበኛውን ሙሉ የትዕዛዝ ታሪክ በሁሉም ሁኔታዎች ለማየት፣ መገለጫቸውን ይክፈቱና የOrder History አዝራርን ይጠቀሙ።\n\n«የ{ፈጣሪ} ዝርዝሮችን ተመልከት» የሚለው ምርጫ የትኛው ሰራተኛ የተወሰነ ደንበኛን እንደመዘገበ ለመከታተል ጠቃሚ ነው፣ ስለ ደንበኛው መረጃ አገባብ ተጨማሪ ማብራሪያ ማግኘት ካስፈለገ።"
+        }
+      ]
+    }
+  }
+}

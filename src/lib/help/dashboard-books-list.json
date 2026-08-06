@@ -1,0 +1,69 @@
+{
+  "path": "/dashboard/books",
+  "title": "Books List",
+  "summary": "Every book the church offers, with quick stats on publishing status, ratings, and pending reviews.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This page lists every book that has been added to the site, in one table. It's the place to get a quick overview of what's published versus still in draft, see which books need attention (like reviews awaiting approval), or open a specific book to edit its details."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "If no books have been added yet, you'll see a simple message with an \"Add New Book\" button to create your first one.\n\nOnce there are books, a heading reads \"No of Books: {count}\" along with a summary such as \"5 published · 2 draft\". If there are reader reviews waiting for your approval before they go live, you'll also see a clickable count you can use to jump straight to them.\n\nUse the \"Add New Book\" button to open the form for adding a new title. Use the Filter menu to narrow the table by status, language, ministry area, author, or where the book is sold — useful once the catalog grows."
+    },
+    {
+      "heading": "The columns, explained",
+      "body": "#, Cover (the book's cover image), Title (click to open the full book page), Subtitle, Author, Language, Ministry Area, Formats (which versions exist, such as Print, PDF, Ebook, or Audiobook), Price (or \"Free\"), Sold (where people can buy or download it), Rating (the average star rating along with how many reviews make up that average), Downloads (how many times a digital copy has been downloaded), Pages, ISBN, Published date, Status, Featured (whether it's highlighted on the homepage), and Description."
+    },
+    {
+      "heading": "Good to know",
+      "body": "The Rating column reflects real reader feedback, so it will read as \"no reviews yet\" for brand-new titles until someone leaves one. Clicking a book's title is the fastest way to get to its full detail page, where you manage its formats, pricing, and reviews."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Books List",
+      "summary": "Every book the church offers, with quick stats on publishing status, ratings, and pending reviews.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This page lists every book that has been added to the site, in one table. It's the place to get a quick overview of what's published versus still in draft, see which books need attention (like reviews awaiting approval), or open a specific book to edit its details."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "If no books have been added yet, you'll see a simple message with an \"Add New Book\" button to create your first one.\n\nOnce there are books, a heading reads \"No of Books: {count}\" along with a summary such as \"5 published · 2 draft\". If there are reader reviews waiting for your approval before they go live, you'll also see a clickable count you can use to jump straight to them.\n\nUse the \"Add New Book\" button to open the form for adding a new title. Use the Filter menu to narrow the table by status, language, ministry area, author, or where the book is sold — useful once the catalog grows."
+        },
+        {
+          "heading": "The columns, explained",
+          "body": "#, Cover (the book's cover image), Title (click to open the full book page), Subtitle, Author, Language, Ministry Area, Formats (which versions exist, such as Print, PDF, Ebook, or Audiobook), Price (or \"Free\"), Sold (where people can buy or download it), Rating (the average star rating along with how many reviews make up that average), Downloads (how many times a digital copy has been downloaded), Pages, ISBN, Published date, Status, Featured (whether it's highlighted on the homepage), and Description."
+        },
+        {
+          "heading": "Good to know",
+          "body": "The Rating column reflects real reader feedback, so it will read as \"no reviews yet\" for brand-new titles until someone leaves one. Clicking a book's title is the fastest way to get to its full detail page, where you manage its formats, pricing, and reviews."
+        }
+      ]
+    },
+    "am": {
+      "title": "የመጽሐፍት ዝርዝር",
+      "summary": "ቤተክርስቲያኑ የሚያቀርባቸው ሁሉም መጽሐፍት፣ ከህትመት ሁኔታ፣ ደረጃዎች እና በመጠባበቅ ላይ ካሉ ግምገማዎች ፈጣን ስታትስቲክስ ጋር።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "ይህ ገጽ ወደ ድረ-ገጹ የተጨመሩትን ሁሉንም መጽሐፍት በአንድ ሠንጠረዥ ውስጥ ይዘረዝራል። የታተመው በአንፃር አሁንም ረቂቅ የሆነውን በፍጥነት ለማየት፣ ትኩረት የሚያስፈልጋቸውን መጽሐፍት (እንደ ማጽደቅ የሚጠባበቁ ግምገማዎች) ለማየት፣ ወይም ወደ አንድ የተወሰነ መጽሐፍ ገብተው ዝርዝሮቹን ለማርትዕ የሚመጡበት ቦታ ነው።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "እስካሁን ምንም መጽሐፍ ካልታከለ፣ የመጀመሪያውን ለመፍጠር \"አዲስ መጽሐፍ ያክሉ\" የሚል አዝራር ያለው ቀላል መልዕክት ያያሉ።\n\nመጽሐፍት ካሉ በኋላ፣ \"No of Books: {count}\" የሚል ርዕስ ከ\"5 published · 2 draft\" ያለ ማጠቃለያ ጋር ይታያል። ከመታተማቸው በፊት እርስዎ እንዲያጸድቋቸው የሚጠባበቁ የአንባቢ ግምገማዎች ካሉ፣ ቀጥታ ወደነሱ ለመዝለል መጠቀም የሚችሉት መጫን የሚቻል ቁጥርም ያያሉ።\n\nአዲስ ርዕስ ለማከል ቅጹን ለመክፈት \"አዲስ መጽሐፍ ያክሉ\" የሚለውን ይጠቀሙ። ካታሎጉ ሲያድግ ጠቃሚ የሆነውን ሠንጠረዡን በስቴተስ፣ በቋንቋ፣ በአገልግሎት ዘርፍ፣ በደራሲ፣ ወይም መጽሐፉ በሚሸጥበት ቦታ ለማጥበብ የማጣሪያ ምናሌውን ይጠቀሙ።"
+        },
+        {
+          "heading": "ዓምዶቹ በዝርዝር",
+          "body": "#, ሽፋን (የመጽሐፉ ሽፋን ምስል)፣ ርዕስ (ሙሉ የመጽሐፍ ገጹን ለመክፈት ይጫኑት)፣ ንዑስ ርዕስ፣ ደራሲ፣ ቋንቋ፣ የአገልግሎት ዘርፍ፣ ቅርጸቶች (የትኞቹ ስሪቶች እንዳሉ፣ እንደ Print፣ PDF፣ Ebook፣ ወይም Audiobook)፣ ዋጋ (ወይም \"ነጻ\")፣ የተሸጠበት (ሰዎች የት መግዛት ወይም ማውረድ እንደሚችሉ)፣ ደረጃ (አማካይ የኮከብ ደረጃ ከምን ያህል ግምገማዎች ያንን አማካይ እንደሚያደርጉት ጋር)፣ ውርዶች (የዲጂታል ቅጂ ስንት ጊዜ እንደወረደ)፣ ገጾች፣ ISBN፣ የታተመበት ቀን፣ ስቴተስ፣ ተለይቶ የቀረበ (በመነሻ ገጹ ላይ ጎላ ብሎ የቀረበ መሆኑ)፣ እና መግለጫ።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆነው",
+          "body": "የደረጃ ዓምድ እውነተኛ የአንባቢ አስተያየትን ያንፀባርቃል፣ ስለዚህ ለአዲስ ርዕሶች ማንም ግምገማ እስኪተው ድረስ \"ገና ግምገማ የለም\" ተብሎ ይነበባል። በመጽሐፍ ርዕስ ላይ መጫን ወደ ሙሉ የዝርዝር ገጹ ለመድረስ ፈጣኑ መንገድ ነው፣ እዚያም ቅርጸቶቹን፣ ዋጋውን፣ እና ግምገማዎችን ያስተዳድራሉ።"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "path": "/dashboard/admin-panel/roles/add-roles",
+  "title": "Add New Role",
+  "summary": "Create a brand-new role (permission group) that staff can later be assigned to.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This page lets you create a new role - a named group that will later hold a set of permissions. Once created, you'll assign staff members to this role and grant it whatever abilities it should have."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "Fill in a Name for the role (required) and, optionally, a Description explaining what the role is meant to be used for. Then click \"Add Role\" to save it."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "Name - the label staff and administrators will see for this role, for example \"Front Desk\" or \"Finance Team.\" This is required.\n\nDescription - an optional note explaining the purpose of the role, useful for reminding yourself or other admins later what it's for."
+    },
+    {
+      "heading": "Good to know",
+      "body": "A brand-new role starts out with no permissions checked at all - by itself it grants nothing. Creating the role is only step one. After saving, go to that role's detail page and tick which permissions it should have. Until you do that, anyone assigned to this new role won't be able to do anything in the dashboard."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Add New Role",
+      "summary": "Create a brand-new role (permission group) that staff can later be assigned to.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This page lets you create a new role - a named group that will later hold a set of permissions. Once created, you'll assign staff members to this role and grant it whatever abilities it should have."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "Fill in a Name for the role (required) and, optionally, a Description explaining what the role is meant to be used for. Then click \"Add Role\" to save it."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "Name - the label staff and administrators will see for this role, for example \"Front Desk\" or \"Finance Team.\" This is required.\n\nDescription - an optional note explaining the purpose of the role, useful for reminding yourself or other admins later what it's for."
+        },
+        {
+          "heading": "Good to know",
+          "body": "A brand-new role starts out with no permissions checked at all - by itself it grants nothing. Creating the role is only step one. After saving, go to that role's detail page and tick which permissions it should have. Until you do that, anyone assigned to this new role won't be able to do anything in the dashboard."
+        }
+      ]
+    },
+    "am": {
+      "title": "አዲስ ሚና ጨምር",
+      "summary": "በኋላ ሰራተኞች ሊመደቡበት የሚችል ሙሉ በሙሉ አዲስ ሚና (የፈቃድ ቡድን) ይፍጠሩ።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "ይህ ገጽ አዲስ ሚና እንዲፈጥሩ ያስችልዎታል - በኋላ የፈቃዶች ስብስብ የሚይዝ ስም ያለው ቡድን። ከተፈጠረ በኋላ፣ ሰራተኞችን ወደዚህ ሚና ይመድባሉ እና ሊኖረው የሚገባውን ችሎታ ይሰጡታል።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "የሚናውን ስም (Name) ይሙሉ (አስፈላጊ ነው) እና በምርጫ፣ ሚናው ለምን ጥቅም ላይ እንደሚውል የሚያብራራ መግለጫ (Description) ይጨምሩ። ከዚያም ለማስቀመጥ \"Add Role\" ን ጠቅ ያድርጉ።"
+        },
+        {
+          "heading": "የመስኮች ማብራሪያ",
+          "body": "ስም (Name) - ሰራተኞችና አስተዳዳሪዎች ለዚህ ሚና የሚያዩት ስያሜ፣ ለምሳሌ \"የመቀበያ ዴስክ\" ወይም \"የፋይናንስ ቡድን\"። ይህ አስፈላጊ ነው።\n\nመግለጫ (Description) - የሚናውን ዓላማ የሚያብራራ በምርጫ የሚሞላ ማስታወሻ፣ ለራስዎ ወይም ለሌሎች አስተዳዳሪዎች በኋላ ላይ ምን እንደሆነ ለማስታወስ ጠቃሚ ነው።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆኑ ነገሮች",
+          "body": "አዲስ የተፈጠረ ሚና በመጀመሪያ ላይ ምንም ምልክት የተደረገበት ፈቃድ የለውም - ብቻውን ምንም አይሰጥም። ሚናውን መፍጠር ከሁለት ደረጃዎች የመጀመሪያው ብቻ ነው። ካስቀመጡ በኋላ፣ ወደ ያ ሚና ዝርዝር ገጽ ሂደው ሊኖረው የሚገባውን ፈቃድ ምልክት ያድርጉ። ይህን እስካላደረጉ ድረስ፣ ወደዚህ አዲስ ሚና የተመደበ ማንኛውም ሰው በዳሽቦርዱ ውስጥ ምንም ማድረግ አይችልም።"
+        }
+      ]
+    }
+  }
+}

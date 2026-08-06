@@ -1,0 +1,69 @@
+{
+  "match": "/dashboard/events/single",
+  "title": "Event Detail",
+  "summary": "View every detail of one event, edit it, and manage its speakers, registrations, files, and photo gallery.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This page is the full record for one single event. It's where you go to see everything about that event at a glance, make changes to it, and manage the people and materials connected to it — speakers, who's registered, downloadable files, and photos."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "Click \"Edit\" to switch the page into edit mode (the button then changes to say \"Back\" so you can return to the read-only view without saving). Click \"Delete\" to remove the event entirely — you'll be asked to confirm first, and once confirmed you'll be taken back to the events list.\n\nIf the event's saved Status doesn't match what its dates suggest — for example, its start date has already passed but it's still marked as \"draft\" — you'll see an amber notice suggesting you update the Status so what's shown on the public website matches reality.\n\nFurther down the page you'll find four extra sections: Speakers (add or remove who is speaking), Registrations (the list of everyone signed up, along with how many seats are taken and how many remain), Downloads (any files attached to the event, such as a brochure), and Gallery (extra photos, with its own Edit/Back toggle so you can manage them separately from the main event details)."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "In the read-only view you'll see: Name, Slug, Type, Ministry Area, Starts/Ends, Timezone, Where (the online link or the venue), Organizer, Short Description, Registration details, Capacity (shown as \"X of Y seats taken\"), Cost, Status, Featured On Home, and who added and who last updated the event. Below that is the full \"About this event\" write-up.\n\nWhen you switch to edit mode, you get the same set of fields as the Add Event form, plus a \"Save Changes\" button and a preview of the current Featured Image, so you can see what you're replacing before you upload something new."
+    },
+    {
+      "heading": "Good to know",
+      "body": "The amber status notice is just a helpful reminder — it won't stop you from doing anything, but it's worth acting on so visitors to the website see accurate information about whether an event is upcoming, happening now, or finished."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Event Detail",
+      "summary": "View every detail of one event, edit it, and manage its speakers, registrations, files, and photo gallery.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This page is the full record for one single event. It's where you go to see everything about that event at a glance, make changes to it, and manage the people and materials connected to it — speakers, who's registered, downloadable files, and photos."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "Click \"Edit\" to switch the page into edit mode (the button then changes to say \"Back\" so you can return to the read-only view without saving). Click \"Delete\" to remove the event entirely — you'll be asked to confirm first, and once confirmed you'll be taken back to the events list.\n\nIf the event's saved Status doesn't match what its dates suggest — for example, its start date has already passed but it's still marked as \"draft\" — you'll see an amber notice suggesting you update the Status so what's shown on the public website matches reality.\n\nFurther down the page you'll find four extra sections: Speakers (add or remove who is speaking), Registrations (the list of everyone signed up, along with how many seats are taken and how many remain), Downloads (any files attached to the event, such as a brochure), and Gallery (extra photos, with its own Edit/Back toggle so you can manage them separately from the main event details)."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "In the read-only view you'll see: Name, Slug, Type, Ministry Area, Starts/Ends, Timezone, Where (the online link or the venue), Organizer, Short Description, Registration details, Capacity (shown as \"X of Y seats taken\"), Cost, Status, Featured On Home, and who added and who last updated the event. Below that is the full \"About this event\" write-up.\n\nWhen you switch to edit mode, you get the same set of fields as the Add Event form, plus a \"Save Changes\" button and a preview of the current Featured Image, so you can see what you're replacing before you upload something new."
+        },
+        {
+          "heading": "Good to know",
+          "body": "The amber status notice is just a helpful reminder — it won't stop you from doing anything, but it's worth acting on so visitors to the website see accurate information about whether an event is upcoming, happening now, or finished."
+        }
+      ]
+    },
+    "am": {
+      "title": "የዝግጅት ዝርዝር",
+      "summary": "የአንድ ዝግጅት ሁሉንም ዝርዝሮች ይመልከቱ፣ ያርትዑ፣ እና ተናጋሪዎችን፣ ምዝገባዎችን፣ ፋይሎችን እና የፎቶ ጋለሪውን ያስተዳድሩ።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "ይህ ገጽ ለአንድ ነጠላ ዝግጅት ሙሉ መዝገብ ነው። ስለዚያ ዝግጅት ያለውን ሁሉ በአንድ እይታ ለማየት፣ ለውጦችን ለማድረግ፣ እና ከእሱ ጋር የተያያዙ ሰዎችን እና ቁሳቁሶችን ለማስተዳደር የሚሄዱበት ቦታ ነው — ተናጋሪዎች፣ የተመዘገቡ ሰዎች፣ ማውረድ የሚቻሉ ፋይሎች፣ እና ፎቶዎች።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "ገጹን ወደ ማርትዕ ሁነታ ለመቀየር \"Edit\" የሚለውን ይጫኑ (አዝራሩም ያለ ማስቀመጥ ወደ ንባብ-ብቻ እይታ እንዲመለሱ \"Back\" ተብሎ ይቀየራል)። ዝግጅቱን ሙሉ በሙሉ ለማስወገድ \"Delete\" የሚለውን ይጫኑ — መጀመሪያ እንዲያረጋግጡ ይጠየቃሉ፣ ከተረጋገጠ በኋላ ወደ ዝግጅቶች ዝርዝር ይመለሳሉ።\n\nየዝግጅቱ የተቀመጠ ስቴተስ ከቀኖቹ ጋር ካልተስማማ — ለምሳሌ፣ የመጀመሪያ ቀኑ ቀድሞውኑ ካለፈ ግን አሁንም \"ረቂቅ\" ተብሎ ከተመዘገበ — በህዝባዊ ድረ-ገጹ ላይ የሚታየው ከእውነታው ጋር እንዲስማማ ስቴተሱን እንዲያዘምኑ የሚጠቁም ብርቱካናማ ማስታወቂያ ያያሉ።\n\nበገጹ ግርጌ ላይ አራት ተጨማሪ ክፍሎችን ያገኛሉ፡ ተናጋሪዎች (ማን እንደሚናገር ያክሉ ወይም ያስወግዱ)፣ ምዝገባዎች (የተመዘገቡ ሁሉንም ዝርዝር፣ ምን ያህል መቀመጫዎች እንደተያዙ እና ምን ያህል እንደቀሩ ጋር)፣ ማውረዶች (እንደ ብሮሹር ያሉ ከዝግጅቱ ጋር የተያያዙ ማንኛውም ፋይሎች)፣ እና ጋለሪ (ተጨማሪ ፎቶዎች፣ ከዋናዎቹ የዝግጅት ዝርዝሮች ተለይተው እንዲያስተዳድሯቸው የራሱ የ Edit/Back መቀያየሪያ ያለው)።"
+        },
+        {
+          "heading": "መስኮቹ በዝርዝር",
+          "body": "በንባብ-ብቻ እይታ ውስጥ የሚያዩት፡ ስም፣ ስሉግ፣ ዓይነት፣ የአገልግሎት ዘርፍ፣ ይጀምራል/ያበቃል፣ የሰዓት ክልል፣ የት (የመስመር ላይ ማገናኛ ወይም ቦታው)፣ አዘጋጅ፣ አጭር መግለጫ፣ የምዝገባ ዝርዝሮች፣ አቅም (እንደ \"X of Y seats taken\" ተብሎ የሚታይ)፣ ዋጋ፣ ስቴተስ፣ ተለይቶ በመነሻ ገጽ ላይ የቀረበ፣ እና ማን እንደጨመረው እና ማን ለመጨረሻ ጊዜ እንዳዘመነው ናቸው። ከዚያ በታች ሙሉው \"ስለዚህ ዝግጅት\" ጽሁፍ አለ።\n\nወደ ማርትዕ ሁነታ ሲቀይሩ፣ ከ Add Event ቅጽ ጋር ተመሳሳይ የመስኮች ስብስብ ያገኛሉ፣ ከ\"Save Changes\" አዝራር እና ከአሁኑ ተለይቶ የቀረበ ምስል ቅድመ-እይታ ጋር፣ ስለዚህ አዲስ ነገር ከመጫንዎ በፊት የሚቀይሩትን ማየት ይችላሉ።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆነው",
+          "body": "ብርቱካናማው የስቴተስ ማስታወቂያ ጠቃሚ ማስታወሻ ብቻ ነው — ማንኛውንም ነገር እንዳያደርጉ አያግድዎትም፣ ነገር ግን ጎብኚዎች ስለ ዝግጅቱ ትክክለኛ መረጃ እንዲያዩ — ወደፊት፣ አሁን እየተከናወነ፣ ወይም ያለቀ መሆኑን — በእሱ ላይ እርምጃ መውሰድ ተገቢ ነው።"
+        }
+      ]
+    }
+  }
+}

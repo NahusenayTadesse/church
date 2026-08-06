@@ -1,0 +1,69 @@
+{
+  "path": "/dashboard/orders/delivered",
+  "title": "Delivered Orders",
+  "summary": "This page shows only the orders that have been marked Delivered, along with their payment and receipt details.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "Delivered Orders lists only the orders that have already been completed and delivered to the customer. It also shows how each order was paid for and whether a receipt was uploaded, which makes this the page to check when you need to confirm a payment was recorded."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "At the top of the page you will see four tabs: All Orders, Pending Orders, Delivered Orders, and Cancelled Orders. Click any tab to switch to that view - you are currently on Delivered Orders.\n\nAbove the table there is a \"+ Add New Order\" button to create a new order, and a search box to quickly find a particular delivered order. You can also view or open the uploaded receipt for any order right from this page."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "The table includes the usual columns plus two extra ones only found here:\n- # - the row number.\n- Name - the customer's name. Click it to open the editing form.\n- Phone - the customer's phone number. Click it to copy it.\n- Items - the products in this order, with quantities and totals, in Ethiopian Birr.\n- Status - a colored badge (here it will always show green with a checkmark, meaning Delivered).\n- Payment Method Name - how the customer paid. If none was recorded, it shows \"No Payment Method Added\".\n- Receipts - a \"View Receipt\" link that opens the uploaded proof-of-payment file in a new tab, or \"No Receipt Uploaded\" if nothing was ever added.\n- Edit - a pencil icon that opens the order for editing, where you can change the Customer, product lines, Status, Payment Method, and Receipt, the same as on the other order pages."
+    },
+    {
+      "heading": "Good to know",
+      "body": "If Payment Method Name shows \"No Payment Method Added\" or Receipts shows \"No Receipt Uploaded\", you can fix that by opening the order with the Edit pencil and filling those fields in, then saving.\n\nUploading a new receipt on an order that is already Delivered replaces the old one, so double-check you are uploading the correct file before saving.\n\nIf you change an order's Status away from Delivered (for example back to Pending), it will move off this page and appear on the corresponding tab instead."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Delivered Orders",
+      "summary": "This page shows only the orders that have been marked Delivered, along with their payment and receipt details.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "Delivered Orders lists only the orders that have already been completed and delivered to the customer. It also shows how each order was paid for and whether a receipt was uploaded, which makes this the page to check when you need to confirm a payment was recorded."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "At the top of the page you will see four tabs: All Orders, Pending Orders, Delivered Orders, and Cancelled Orders. Click any tab to switch to that view - you are currently on Delivered Orders.\n\nAbove the table there is a \"+ Add New Order\" button to create a new order, and a search box to quickly find a particular delivered order. You can also view or open the uploaded receipt for any order right from this page."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "The table includes the usual columns plus two extra ones only found here:\n- # - the row number.\n- Name - the customer's name. Click it to open the editing form.\n- Phone - the customer's phone number. Click it to copy it.\n- Items - the products in this order, with quantities and totals, in Ethiopian Birr.\n- Status - a colored badge (here it will always show green with a checkmark, meaning Delivered).\n- Payment Method Name - how the customer paid. If none was recorded, it shows \"No Payment Method Added\".\n- Receipts - a \"View Receipt\" link that opens the uploaded proof-of-payment file in a new tab, or \"No Receipt Uploaded\" if nothing was ever added.\n- Edit - a pencil icon that opens the order for editing, where you can change the Customer, product lines, Status, Payment Method, and Receipt, the same as on the other order pages."
+        },
+        {
+          "heading": "Good to know",
+          "body": "If Payment Method Name shows \"No Payment Method Added\" or Receipts shows \"No Receipt Uploaded\", you can fix that by opening the order with the Edit pencil and filling those fields in, then saving.\n\nUploading a new receipt on an order that is already Delivered replaces the old one, so double-check you are uploading the correct file before saving.\n\nIf you change an order's Status away from Delivered (for example back to Pending), it will move off this page and appear on the corresponding tab instead."
+        }
+      ]
+    },
+    "am": {
+      "title": "የደረሱ ትዕዛዞች",
+      "summary": "ይህ ገጽ «ደርሷል» ተብለው የተመለከቱ ትዕዛዞችን ብቻ ከክፍያና ከደረሰኝ ዝርዝራቸው ጋር ያሳያል።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምንድን ነው",
+          "body": "«የደረሱ ትዕዛዞች» ቀድሞውኑ ተጠናቅቀው ለደንበኛው የደረሱ ትዕዛዞችን ብቻ ይዘረዝራል። እያንዳንዱ ትዕዛዝ እንዴት እንደተከፈለና ደረሰኝ መሰቀሉን ወይም አለመሰቀሉንም ያሳያል፣ ይህም ክፍያ መመዝገቡን ለማረጋገጥ ማየት ያለብዎት ገጽ ያደርገዋል።"
+        },
+        {
+          "heading": "እዚህ ገጽ ላይ ምን ማድረግ ይችላሉ",
+          "body": "በገጹ አናት ላይ አራት ትሮች ያያሉ፦ ሁሉም ትዕዛዞች፣ በመጠባበቅ ላይ ያሉ ትዕዛዞች፣ የደረሱ ትዕዛዞች፣ እና የተሰረዙ ትዕዛዞች። አሁን ባሉበት «የደረሱ ትዕዛዞች» ላይ ነው።\n\nከሠንጠረዡ በላይ አዲስ ትዕዛዝ ለመፍጠር «+ አዲስ ትዕዛዝ ጨምር» የሚል አዝራር፣ እና የተወሰነ የደረሰ ትዕዛዝ በፍጥነት ለማግኘት የፍለጋ ሳጥን ያያሉ። እንዲሁም ለማንኛውም ትዕዛዝ የተሰቀለውን ደረሰኝ ከዚህ ገጽ ላይ በቀጥታ ማየት ወይም መክፈት ይችላሉ።"
+        },
+        {
+          "heading": "መስኮቹ በዝርዝር",
+          "body": "ሠንጠረዡ የተለመዱትን አምዶች ከሁለት ተጨማሪ አምዶች ጋር ያካትታል፣ እነዚህም እዚህ ብቻ ይገኛሉ፦\n- # - የረድፉ ቁጥር።\n- ስም - የደንበኛው ስም። የማርትዕ ቅጹን ለመክፈት ይህንን ይጫኑ።\n- ስልክ - የደንበኛው ስልክ ቁጥር። ለመቅዳት ይህንን ይጫኑ።\n- እቃዎች - በዚህ ትዕዛዝ ውስጥ ያሉ ምርቶች፣ ብዛታቸውና ድምራቸው በኢትዮጵያ ብር።\n- ሁኔታ - ቀለም ያለው ምልክት (እዚህ ሁልጊዜ አረንጓዴ ከቼክ ምልክት ጋር ሆኖ «ደርሷል» ማለት ይሆናል)።\n- የክፍያ ዘዴ ስም - ደንበኛው እንዴት እንደከፈለ። ምንም ካልተመዘገበ «የክፍያ ዘዴ አልተጨመረም» ይላል።\n- ደረሰኞች - የተሰቀለውን የክፍያ ማረጋገጫ ፋይል በአዲስ ትር ውስጥ የሚከፍት «ደረሰኝ ይመልከቱ» የሚል አገናኝ፣ ወይም ምንም ካልተጨመረ «ደረሰኝ አልተሰቀለም» ይላል።\n- አርትዕ - ደንበኛውን፣ የምርት መስመሮችን፣ ሁኔታውን፣ የክፍያ ዘዴንና ደረሰኝን ልክ እንደ ሌሎቹ የትዕዛዝ ገጾች መቀየር የሚያስችል የማርትዕ ቅጽ የሚከፍት የእርሳስ አዝራር።"
+        },
+        {
+          "heading": "ማወቅ ጥሩ የሆኑ ነገሮች",
+          "body": "የክፍያ ዘዴ ስም «የክፍያ ዘዴ አልተጨመረም» ወይም ደረሰኞች «ደረሰኝ አልተሰቀለም» የሚል ካሳየ፣ በእርሳስ አዝራሩ ትዕዛዙን በመክፈት እነዚያን መስኮች በመሙላት ከዚያም በማስቀመጥ ማስተካከል ይችላሉ።\n\nቀድሞውኑ «ደርሷል» በሆነ ትዕዛዝ ላይ አዲስ ደረሰኝ መስቀል ነባሩን ይተካል፣ ስለዚህ ከማስቀመጥዎ በፊት ትክክለኛውን ፋይል እየሰቀሉ መሆኑን ያረጋግጡ።\n\nየትዕዛዝን ሁኔታ ከ«ደርሷል» ውጭ ካደረጉት (ለምሳሌ ወደ «በመጠባበቅ ላይ»)፣ ከዚህ ገጽ ይነሳና በተስማሚው ትር ውስጥ ይታያል።"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "path": "/dashboard/orders/cancelled",
+  "title": "Cancelled Orders",
+  "summary": "This page shows only the orders that have been marked Cancelled.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "Cancelled Orders lists only the orders whose status is Cancelled - orders that were called off and are not going to be delivered. Use this page to review what has been cancelled, and to correct any mistakes if an order was cancelled by accident."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "At the top of the page you will see four tabs: All Orders, Pending Orders, Delivered Orders, and Cancelled Orders. Click any tab to switch to that view - you are currently on Cancelled Orders.\n\nAbove the table there is a \"+ Add New Order\" button to create a new order, and a search box to quickly find a particular cancelled order. There is no Filter Menu on this page since it already only shows cancelled orders."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "The table has the same columns as the other order pages:\n- # - the row number.\n- Name - the customer's name. Click it to open the editing form.\n- Phone - the customer's phone number. Click it to copy it.\n- Items - the products in this order, with quantities and totals, in Ethiopian Birr.\n- Status - a colored badge (here it will always show red, meaning Cancelled).\n- Edit - a pencil icon that opens the order for editing.\n\nOpening the Edit form works exactly as it does elsewhere: you can change the Customer, adjust the product lines (Product, Price, Quantity, with \"X\" to remove a line), and change the Status. If you switch the Status away from Cancelled - for example back to Pending or forward to Delivered - the order will move to the matching tab the next time you view it. Choosing Delivered will also reveal the Payment Method and Receipt fields."
+    },
+    {
+      "heading": "Good to know",
+      "body": "Cancelling an order does not delete it - it simply changes its status, and it stays fully visible and editable here. If an order was cancelled by mistake, open it with the Edit pencil and change the Status back to Pending (or straight to Delivered if it was actually completed).\n\nThe same saving rules apply as elsewhere: if you set the Status to Delivered you must also choose a Payment Method or the save will fail, and marking it Delivered will automatically email a confirmation to the customer and the office."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Cancelled Orders",
+      "summary": "This page shows only the orders that have been marked Cancelled.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "Cancelled Orders lists only the orders whose status is Cancelled - orders that were called off and are not going to be delivered. Use this page to review what has been cancelled, and to correct any mistakes if an order was cancelled by accident."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "At the top of the page you will see four tabs: All Orders, Pending Orders, Delivered Orders, and Cancelled Orders. Click any tab to switch to that view - you are currently on Cancelled Orders.\n\nAbove the table there is a \"+ Add New Order\" button to create a new order, and a search box to quickly find a particular cancelled order. There is no Filter Menu on this page since it already only shows cancelled orders."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "The table has the same columns as the other order pages:\n- # - the row number.\n- Name - the customer's name. Click it to open the editing form.\n- Phone - the customer's phone number. Click it to copy it.\n- Items - the products in this order, with quantities and totals, in Ethiopian Birr.\n- Status - a colored badge (here it will always show red, meaning Cancelled).\n- Edit - a pencil icon that opens the order for editing.\n\nOpening the Edit form works exactly as it does elsewhere: you can change the Customer, adjust the product lines (Product, Price, Quantity, with \"X\" to remove a line), and change the Status. If you switch the Status away from Cancelled - for example back to Pending or forward to Delivered - the order will move to the matching tab the next time you view it. Choosing Delivered will also reveal the Payment Method and Receipt fields."
+        },
+        {
+          "heading": "Good to know",
+          "body": "Cancelling an order does not delete it - it simply changes its status, and it stays fully visible and editable here. If an order was cancelled by mistake, open it with the Edit pencil and change the Status back to Pending (or straight to Delivered if it was actually completed).\n\nThe same saving rules apply as elsewhere: if you set the Status to Delivered you must also choose a Payment Method or the save will fail, and marking it Delivered will automatically email a confirmation to the customer and the office."
+        }
+      ]
+    },
+    "am": {
+      "title": "የተሰረዙ ትዕዛዞች",
+      "summary": "ይህ ገጽ «ተሰርዟል» ተብለው የተመለከቱ ትዕዛዞችን ብቻ ያሳያል።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምንድን ነው",
+          "body": "«የተሰረዙ ትዕዛዞች» ሁኔታቸው «ተሰርዟል» የሆኑ ትዕዛዞችን ብቻ ይዘረዝራል - ማለትም የተቋረጡና የማይደርሱ ትዕዛዞችን። የተሰረዙትን ለመገምገም እና በስህተት የተሰረዘ ትዕዛዝ ካለ ለማስተካከል ይህንን ገጽ ይጠቀሙ።"
+        },
+        {
+          "heading": "እዚህ ገጽ ላይ ምን ማድረግ ይችላሉ",
+          "body": "በገጹ አናት ላይ አራት ትሮች ያያሉ፦ ሁሉም ትዕዛዞች፣ በመጠባበቅ ላይ ያሉ ትዕዛዞች፣ የደረሱ ትዕዛዞች፣ እና የተሰረዙ ትዕዛዞች። አሁን ባሉበት «የተሰረዙ ትዕዛዞች» ላይ ነው።\n\nከሠንጠረዡ በላይ አዲስ ትዕዛዝ ለመፍጠር «+ አዲስ ትዕዛዝ ጨምር» የሚል አዝራር፣ እና የተወሰነ የተሰረዘ ትዕዛዝ በፍጥነት ለማግኘት የፍለጋ ሳጥን ያያሉ። ይህ ገጽ አስቀድሞ የተሰረዙትን ብቻ ስለሚያሳይ የማጣሪያ ምናሌ የለውም።"
+        },
+        {
+          "heading": "መስኮቹ በዝርዝር",
+          "body": "ሠንጠረዡ ልክ እንደ ሌሎቹ የትዕዛዝ ገጾች ተመሳሳይ አምዶች አሉት፦\n- # - የረድፉ ቁጥር።\n- ስም - የደንበኛው ስም። የማርትዕ ቅጹን ለመክፈት ይህንን ይጫኑ።\n- ስልክ - የደንበኛው ስልክ ቁጥር። ለመቅዳት ይህንን ይጫኑ።\n- እቃዎች - በዚህ ትዕዛዝ ውስጥ ያሉ ምርቶች፣ ብዛታቸውና ድምራቸው በኢትዮጵያ ብር።\n- ሁኔታ - ቀለም ያለው ምልክት (እዚህ ሁልጊዜ ቀይ ሆኖ «ተሰርዟል» ማለት ይሆናል)።\n- አርትዕ - ትዕዛዙን ለማርትዕ የሚከፍት የእርሳስ አዝራር።\n\nየማርትዕ ቅጹን መክፈት እንደ ሌላው ቦታ ተመሳሳይ ይሠራል፦ ደንበኛውን መቀየር፣ የምርት መስመሮችን ማስተካከል (ምርት፣ ዋጋ፣ ብዛት፣ መስመርን ለማስወገድ «X» ያለው)፣ እና ሁኔታውን መቀየር ይችላሉ። ሁኔታውን ከ«ተሰርዟል» ውጭ ካደረጉት - ለምሳሌ ወደ «በመጠባበቅ ላይ» ወይም ወደ «ደርሷል» - ትዕዛዙ በሚቀጥለው ጊዜ ወደ ተስማሚው ትር ይንቀሳቀሳል። «ደርሷል» መምረጥ የክፍያ ዘዴና ደረሰኝ መስኮችንም ያሳያል።"
+        },
+        {
+          "heading": "ማወቅ ጥሩ የሆኑ ነገሮች",
+          "body": "ትዕዛዝን መሰረዝ አይሰርዘውም - ሁኔታውን ብቻ ይለውጣል፣ እና እዚህ ሙሉ በሙሉ የሚታይና የሚስተካከል ሆኖ ይቆያል። ትዕዛዝ በስህተት ከተሰረዘ፣ በእርሳስ አዝራሩ ይክፈቱት እና ሁኔታውን ወደ «በመጠባበቅ ላይ» ይመልሱት (ወይም በእውነት ከተጠናቀቀ ቀጥታ ወደ «ደርሷል»)።\n\nእንደ ሌላው ቦታ ተመሳሳይ የማስቀመጥ ደንቦች ይሠራሉ፦ ሁኔታውን «ደርሷል» ካደረጉ የክፍያ ዘዴም መምረጥ አለብዎት አለበለዚያ ማስቀመጡ አይሳካም፣ እና «ደርሷል» ብሎ ማመልከት ለደንበኛውና ለቢሮው በራስ-ሰር የማረጋገጫ ኢሜይል ይልካል።"
+        }
+      ]
+    }
+  }
+}

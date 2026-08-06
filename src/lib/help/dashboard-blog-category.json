@@ -1,0 +1,69 @@
+{
+  "path": "/dashboard/blog/category",
+  "title": "Manage Resource Categories",
+  "summary": "Add, edit, and delete the categories used to organize your resources, such as \"Sermons\" or \"Articles.\"",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "Categories are the labels you use to sort resources into groups — for example, \"Sermons,\" \"Articles,\" or \"Newsletters.\" This page is where you set up and manage that list of labels. Whatever categories you create here will show up as choices in the Category dropdown when someone adds or edits a resource."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "You can create a new category, search through existing categories, edit a category's name or description, or delete a category you no longer need."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "Add New Category (button) — opens a small form with two fields: Name (required, the category's short label, such as \"Sermons\") and Description (required, a sentence explaining what belongs in this category). Press \"Add Category\" to save it.\n\nThe table below lists every category that exists, with columns for: # (a running number), Name (click on it to edit that category), Description, an Edit button (a pencil icon) to open the category for changes, and a Delete button (a trash can icon) to remove it.\n\nThere is also a search box above the table so you can quickly find a specific category by typing part of its name."
+    },
+    {
+      "heading": "Good to know",
+      "body": "Deleting a category asks you to confirm first, with a message saying \"Are you sure you want to Delete? This action is irreversible.\" Once you confirm, the category is permanently removed and cannot be brought back — so only delete a category if you're certain you no longer need it. If resources are currently using that category, think carefully before deleting it, since the category label those resources point to will no longer exist."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Manage Resource Categories",
+      "summary": "Add, edit, and delete the categories used to organize your resources, such as \"Sermons\" or \"Articles.\"",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "Categories are the labels you use to sort resources into groups — for example, \"Sermons,\" \"Articles,\" or \"Newsletters.\" This page is where you set up and manage that list of labels. Whatever categories you create here will show up as choices in the Category dropdown when someone adds or edits a resource."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "You can create a new category, search through existing categories, edit a category's name or description, or delete a category you no longer need."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "Add New Category (button) — opens a small form with two fields: Name (required, the category's short label, such as \"Sermons\") and Description (required, a sentence explaining what belongs in this category). Press \"Add Category\" to save it.\n\nThe table below lists every category that exists, with columns for: # (a running number), Name (click on it to edit that category), Description, an Edit button (a pencil icon) to open the category for changes, and a Delete button (a trash can icon) to remove it.\n\nThere is also a search box above the table so you can quickly find a specific category by typing part of its name."
+        },
+        {
+          "heading": "Good to know",
+          "body": "Deleting a category asks you to confirm first, with a message saying \"Are you sure you want to Delete? This action is irreversible.\" Once you confirm, the category is permanently removed and cannot be brought back — so only delete a category if you're certain you no longer need it. If resources are currently using that category, think carefully before deleting it, since the category label those resources point to will no longer exist."
+        }
+      ]
+    },
+    "am": {
+      "title": "የግብዓት ምድቦችን ያስተዳድሩ",
+      "summary": "እንደ \"ስብከቶች\" ወይም \"ጽሁፎች\" ያሉ ግብዓቶችን ለማደራጀት የሚያገለግሉ ምድቦችን ያክሉ፣ ያርትዑ፣ እና ይሰርዙ።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "ምድቦች ግብዓቶችን በቡድን ለመመደብ የሚጠቀሙባቸው መለያዎች ናቸው — ለምሳሌ፣ \"ስብከቶች፣\" \"ጽሁፎች፣\" ወይም \"ጋዜጣዎች።\" ይህ ገጽ ያንን የመለያዎች ዝርዝር የሚያዘጋጁበት እና የሚያስተዳድሩበት ነው። እዚህ የሚፈጥሩት ማንኛውም ምድብ አንድ ሰው ግብዓት ሲጨምር ወይም ሲያርትዕ በምድብ ተቆልቋይ ዝርዝር ውስጥ እንደ አማራጭ ይታያል።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "አዲስ ምድብ መፍጠር፣ ነባር ምድቦችን መፈለግ፣ የምድብ ስም ወይም መግለጫ ማርትዕ፣ ወይም ከአሁን በኋላ የማይፈልጉትን ምድብ መሰረዝ ይችላሉ።"
+        },
+        {
+          "heading": "መስኮቹ በዝርዝር",
+          "body": "አዲስ ምድብ ጨምር (ቁልፍ) — ሁለት መስኮች ያሉት ትንሽ ቅጽ ይከፍታል፦ ስም (አስፈላጊ፣ የምድቡ አጭር መለያ፣ ለምሳሌ \"ስብከቶች\") እና መግለጫ (አስፈላጊ፣ በዚህ ምድብ ውስጥ ምን እንደሚካተት የሚያብራራ ዓረፍተ ነገር)። ለማስቀመጥ \"ምድብ ጨምር\" ይጫኑ።\n\nከስር ያለው ሠንጠረዥ ያሉትን ሁሉንም ምድቦች ይዘረዝራል፣ የሚከተሉት አምዶች ያሉት፡ # (ተከታታይ ቁጥር)፣ ስም (ያንን ምድብ ለማርትዕ ጠቅ ያድርጉት)፣ መግለጫ፣ ለውጦችን ለማድረግ ምድቡን የሚከፍት የአርትዕ ቁልፍ (እርሳስ አዶ)፣ እና ለማስወገድ የመሰረዣ ቁልፍ (የቆሻሻ ቅርጫት አዶ)።\n\nበሠንጠረዡ ላይ ደግሞ የፍለጋ ሳጥን አለ፣ ስለዚህ የምድቡን ስም በከፊል በመተየብ በፍጥነት ማግኘት ይችላሉ።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆነው",
+          "body": "ምድብ መሰረዝ መጀመሪያ ማረጋገጫ ይጠይቃል፣ \"እርግጠኛ ነዎት መሰረዝ ይፈልጋሉ? ይህ ተግባር የማይቀለበስ ነው\" የሚል መልዕክት ይታያል። ካረጋገጡ በኋላ ምድቡ በቋሚነት ይወገዳል እና መመለስ አይቻልም — ስለዚህ ከአሁን በኋላ እንደማያስፈልግዎት እርግጠኛ ሲሆኑ ብቻ ምድብ ይሰርዙ። ግብዓቶች አሁን ያንን ምድብ እየተጠቀሙ ከሆነ፣ ከመሰረዝዎ በፊት በደንብ ያስቡበት፣ ምክንያቱም እነዚያ ግብዓቶች የሚያመለክቱት የምድብ መለያ ከአሁን በኋላ ስለማይኖር ነው።"
+        }
+      ]
+    }
+  }
+}

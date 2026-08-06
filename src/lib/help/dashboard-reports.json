@@ -1,0 +1,69 @@
+{
+  "match": "/dashboard/reports",
+  "title": "Sales & Order Reports",
+  "summary": "A report of every product sold in a date range you pick, with totals and payment receipts.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This page lets you look back at what was sold — books, event registrations, or any other paid item — over a period of time you choose, such as this month, last month, or any custom range. It's the place to go when you need to answer questions like \"how much did we take in last week?\" or \"can I see the receipt for this purchase?\""
+    },
+    {
+      "heading": "What you can do here",
+      "body": "At the top of the page is a date range picker. Pick a start and end date (or choose a preset like this month or last month) and the page will refresh to show only the sales that happened in that window.\n\nIf nothing was sold during the range you picked, you'll see a friendly message letting you know there's no data for that period, along with the date picker so you can try a different range right away.\n\nIf there were sales, you'll see a heading such as \"No of Reports 12\" telling you how many line items matched your date range. Use the Filter menu to narrow the list further by Status, Quantity Purchased, or Line Total, if you're looking for something specific.\n\nYou can also export or download the table as a file. The downloaded file is automatically named after the date range you chose, so it's easy to find later."
+    },
+    {
+      "heading": "The columns, explained",
+      "body": "Each row in the table is one line: #, Status (a colored badge showing where that sale stands), Product Name (click it to open that product's own page), Quantity Purchased, Unit Price, Line Total (quantity times unit price), Total Paid (the amount actually received, in Birr), and Receipt. In the Receipt column, click \"View Receipt\" to see the payment proof that was uploaded for that sale, or you'll see \"No Receipt Found\" if none was attached."
+    },
+    {
+      "heading": "Good to know",
+      "body": "Each row represents one product within an order, not one whole order. So if a single customer bought three different books in one purchase, that shows up as three separate rows here, one per product.\n\nThe \"Total Paid\" column can sometimes be blank — this simply means no payment record has been linked to that line yet, not that something is wrong."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Sales & Order Reports",
+      "summary": "A report of every product sold in a date range you pick, with totals and payment receipts.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This page lets you look back at what was sold — books, event registrations, or any other paid item — over a period of time you choose, such as this month, last month, or any custom range. It's the place to go when you need to answer questions like \"how much did we take in last week?\" or \"can I see the receipt for this purchase?\""
+        },
+        {
+          "heading": "What you can do here",
+          "body": "At the top of the page is a date range picker. Pick a start and end date (or choose a preset like this month or last month) and the page will refresh to show only the sales that happened in that window.\n\nIf nothing was sold during the range you picked, you'll see a friendly message letting you know there's no data for that period, along with the date picker so you can try a different range right away.\n\nIf there were sales, you'll see a heading such as \"No of Reports 12\" telling you how many line items matched your date range. Use the Filter menu to narrow the list further by Status, Quantity Purchased, or Line Total, if you're looking for something specific.\n\nYou can also export or download the table as a file. The downloaded file is automatically named after the date range you chose, so it's easy to find later."
+        },
+        {
+          "heading": "The columns, explained",
+          "body": "Each row in the table is one line: #, Status (a colored badge showing where that sale stands), Product Name (click it to open that product's own page), Quantity Purchased, Unit Price, Line Total (quantity times unit price), Total Paid (the amount actually received, in Birr), and Receipt. In the Receipt column, click \"View Receipt\" to see the payment proof that was uploaded for that sale, or you'll see \"No Receipt Found\" if none was attached."
+        },
+        {
+          "heading": "Good to know",
+          "body": "Each row represents one product within an order, not one whole order. So if a single customer bought three different books in one purchase, that shows up as three separate rows here, one per product.\n\nThe \"Total Paid\" column can sometimes be blank — this simply means no payment record has been linked to that line yet, not that something is wrong."
+        }
+      ]
+    },
+    "am": {
+      "title": "የሽያጭ እና የትዕዛዝ ሪፖርቶች",
+      "summary": "እርስዎ በመረጡት የቀን ክልል ውስጥ የተሸጠውን እያንዳንዱን ምርት፣ ከድምር እና ከክፍያ ደረሰኝ ጋር የሚያሳይ ሪፖርት።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "ይህ ገጽ እርስዎ በመረጡት ጊዜ ውስጥ — ለምሳሌ በዚህ ወር፣ ባለፈው ወር፣ ወይም በማንኛውም ልዩ ክልል — ምን እንደተሸጠ (መጽሐፍት፣ የዝግጅት ምዝገባዎች፣ ወይም ማንኛውም የተከፈለበት ንጥል) ወደኋላ ተመልሰው እንዲመለከቱ ያስችልዎታል። እንደ \"ባለፈው ሳምንት ምን ያህል ገንዘብ ተቀብለናል?\" ወይም \"የዚህን ግዢ ደረሰኝ ማየት እችላለሁ?\" ያሉ ጥያቄዎችን ለመመለስ የሚሄዱበት ቦታ ነው።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "በገጹ ላይኛው ክፍል የቀን ክልል መምረጫ አለ። መጀመሪያ እና መጨረሻ ቀን ይምረጡ (ወይም እንደ \"በዚህ ወር\" ወይም \"ባለፈው ወር\" ያለ ቅድመ-ተዘጋጅ ምርጫ ይምረጡ)፣ ገጹም በዚያ ጊዜ ውስጥ የተከናወኑ ሽያጮችን ብቻ እንዲያሳይ ይታደሳል።\n\nበመረጡት ክልል ውስጥ ምንም ካልተሸጠ፣ ለዚያ ጊዜ ምንም መረጃ እንደሌለ የሚገልጽ ወዳጃዊ መልዕክት ከቀን መምረጫው ጋር ይታይዎታል፣ ስለዚህ ወዲያውኑ ሌላ ክልል መሞከር ይችላሉ።\n\nሽያጮች ካሉ፣ የመረጡት ክልል ምን ያህል ንጥሎች እንደሚያገናኝ የሚገልጽ እንደ \"No of Reports 12\" ያለ ርዕስ ያያሉ። የተለየ ነገር እየፈለጉ ከሆነ ዝርዝሩን በስቴተስ፣ በተገዛ ብዛት፣ ወይም በመስመር ድምር የበለጠ ለማጥበብ የማጣሪያ ምናሌውን ይጠቀሙ።\n\nሠንጠረዡን እንደ ፋይል ወደ ውጭ መላክ ወይም ማውረድ ይችላሉ። የወረደው ፋይል በራስ-ሰር በመረጡት የቀን ክልል ስም ይሰየማል፣ ስለዚህ በኋላ ላይ ለማግኘት ቀላል ነው።"
+        },
+        {
+          "heading": "ዓምዶቹ በዝርዝር",
+          "body": "በሠንጠረዡ ውስጥ ያለው እያንዳንዱ ረድፍ አንድ መስመር ነው፡ #, ስቴተስ (የዚያ ሽያጭ ደረጃ የሚያሳይ ቀለም ያለው ባጅ)፣ የምርት ስም (የዚያን ምርት የራሱን ገጽ ለመክፈት ይጫኑት)፣ የተገዛ ብዛት፣ የአንድ ዋጋ፣ የመስመር ድምር (ብዛት ተባዝቶ በአንድ ዋጋ)፣ የተከፈለ ጠቅላላ (በብር የተቀበለው ትክክለኛ መጠን)፣ እና ደረሰኝ። በደረሰኝ ዓምድ ውስጥ፣ ለዚያ ሽያጭ የተጫነውን የክፍያ ማረጋገጫ ለማየት \"ደረሰኝ ይመልከቱ\" የሚለውን ይጫኑ፣ ምንም ካልተያያዘ ደግሞ \"ምንም ደረሰኝ አልተገኘም\" ይታያል።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆነው",
+          "body": "እያንዳንዱ ረድፍ በአንድ ትዕዛዝ ውስጥ ያለን አንድ ምርት ብቻ ይወክላል፣ ሙሉ ትዕዛዙን አይደለም። ስለዚህ አንድ ደንበኛ በአንድ ግዢ ውስጥ ሶስት የተለያዩ መጽሐፍት ከገዛ፣ እዚህ ላይ ለእያንዳንዱ ምርት አንድ ሆኖ ሶስት የተለያዩ ረድፎች ይታያሉ።\n\n\"የተከፈለ ጠቅላላ\" ዓምድ አንዳንድ ጊዜ ባዶ ሊሆን ይችላል — ይህ ማለት ለዚያ መስመር እስካሁን ምንም የክፍያ መዝገብ አልተያያዘም ማለት ብቻ ነው፣ የሆነ ችግር አለ ማለት አይደለም።"
+        }
+      ]
+    }
+  }
+}

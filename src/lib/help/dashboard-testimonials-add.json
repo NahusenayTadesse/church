@@ -1,0 +1,69 @@
+{
+  "match": "/dashboard/testimonials/add-testimonial",
+  "title": "Add a Testimonial",
+  "summary": "Record a new personal story or quote to share on the public website.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "Use this form to record a testimonial — a personal story or quote from a member, in their own words. You can save it privately first and only make it public once you've confirmed the person is happy to have it shared."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "Name — who is telling the story. This is required.\n\nPosition — how to describe them, such as \"Youth Program Graduate\".\n\nHeadline — a short title for the story, used to catch attention.\n\nTestimonial text — the story itself, in the person's own words. This is required.\n\nPhoto — a picture to go along with the story, if available.\n\nContext — you can optionally link the story to a Ministry Area, a Project, or an Event, and record the Story Date (when it happened or was collected)."
+    },
+    {
+      "heading": "Permission, publishing, and featuring — step by step",
+      "body": "This form is designed to walk you through the steps in order, so you can't accidentally publish someone's story without their okay.\n\nFirst, check the \"Permission\" box only after the person has actually agreed to have their story and photo shared publicly. Without this checked, the story will be saved only as a private draft, and the publishing options stay hidden.\n\nOnce Permission is checked, a \"Published\" checkbox appears — check this to make the story visible on the public website.\n\nOnce Published is also checked, a \"Feature on the homepage\" checkbox appears — check this if you'd like this story highlighted on the homepage."
+    },
+    {
+      "heading": "Saving",
+      "body": "Click \"Add Testimonial\" to save the story. Remember: permission must be recorded before you can publish, and the story must be published before you can feature it on the homepage — each option unlocks the next one in order."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Add a Testimonial",
+      "summary": "Record a new personal story or quote to share on the public website.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "Use this form to record a testimonial — a personal story or quote from a member, in their own words. You can save it privately first and only make it public once you've confirmed the person is happy to have it shared."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "Name — who is telling the story. This is required.\n\nPosition — how to describe them, such as \"Youth Program Graduate\".\n\nHeadline — a short title for the story, used to catch attention.\n\nTestimonial text — the story itself, in the person's own words. This is required.\n\nPhoto — a picture to go along with the story, if available.\n\nContext — you can optionally link the story to a Ministry Area, a Project, or an Event, and record the Story Date (when it happened or was collected)."
+        },
+        {
+          "heading": "Permission, publishing, and featuring — step by step",
+          "body": "This form is designed to walk you through the steps in order, so you can't accidentally publish someone's story without their okay.\n\nFirst, check the \"Permission\" box only after the person has actually agreed to have their story and photo shared publicly. Without this checked, the story will be saved only as a private draft, and the publishing options stay hidden.\n\nOnce Permission is checked, a \"Published\" checkbox appears — check this to make the story visible on the public website.\n\nOnce Published is also checked, a \"Feature on the homepage\" checkbox appears — check this if you'd like this story highlighted on the homepage."
+        },
+        {
+          "heading": "Saving",
+          "body": "Click \"Add Testimonial\" to save the story. Remember: permission must be recorded before you can publish, and the story must be published before you can feature it on the homepage — each option unlocks the next one in order."
+        }
+      ]
+    },
+    "am": {
+      "title": "ምስክርነት ጨምር",
+      "summary": "በህዝባዊ ድህረ ገጹ ላይ ለማጋራት አዲስ የግል ታሪክ ወይም ጥቅስ ይመዝግቡ።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምንድን ነው",
+          "body": "ምስክርነት ለመመዝገብ ይህን ቅጽ ይጠቀሙ — የአንድ አባል የግል ታሪክ ወይም ጥቅስ በራሳቸው ቃላት። መጀመሪያ በግል ብቻ ማስቀመጥ እና ሰውየው ታሪካቸው እንዲጋራ ደስተኛ መሆኑን ካረጋገጡ በኋላ ብቻ ይፋ ማድረግ ይችላሉ።"
+        },
+        {
+          "heading": "የመስኮች ማብራሪያ",
+          "body": "ስም — ታሪኩን የሚናገረው ማን እንደሆነ። ይህ አስፈላጊ ነው።\n\nየስራ መደብ — እንደ \"የወጣቶች ፕሮግራም ተመራቂ\" ያለ መግለጫ።\n\nርዕስ — ትኩረት ለመሳብ የሚያገለግል የታሪኩ አጭር ርዕስ።\n\nየምስክርነት ጽሑፍ — ታሪኩ ራሱ በሰውየው ቃላት። ይህ አስፈላጊ ነው።\n\nፎቶ — ካለ ከታሪኩ ጋር የሚሄድ ምስል።\n\nአውድ — ታሪኩን በፈቃደኝነት ከአንድ የአገልግሎት ዘርፍ፣ ፕሮጀክት ወይም ዝግጅት ጋር ማገናኘት እና የታሪኩን ቀን (መቼ እንደተከሰተ ወይም እንደተሰበሰበ) መመዝገብ ይችላሉ።"
+        },
+        {
+          "heading": "ፍቃድ፣ ማተምና ማድመቅ — ደረጃ በደረጃ",
+          "body": "ይህ ቅጽ የተነደፈው ደረጃዎቹን በቅደም ተከተል እንዲከተሉ ነው፣ ስለዚህ የአንድን ሰው ታሪክ ያለፈቃዳቸው በስህተት እንዳያትሙ።\n\nመጀመሪያ፣ \"Permission\" (ፍቃድ) የሚለውን ሳጥን ሰውየው ታሪካቸውና ፎቶአቸው በይፋ እንዲጋራ በእውነት ከተስማሙ በኋላ ብቻ ምልክት ያድርጉ። ይህ ምልክት ካልተደረገ፣ ታሪኩ በግል ረቂቅነት ብቻ ይቀመጣል፣ የማተሚያ አማራጮችም ተደብቀው ይቆያሉ።\n\nPermission ምልክት ከተደረገ በኋላ፣ \"Published\" (የታተመ) የሚል ሳጥን ይታያል — ታሪኩን በህዝባዊ ድህረ ገጹ ላይ ለማሳየት ይህን ምልክት ያድርጉ።\n\nPublished ደግሞ ምልክት ከተደረገ በኋላ፣ \"Feature on the homepage\" (በዋናው ገጽ ላይ አድምቅ) የሚል ሳጥን ይታያል — ይህን ታሪክ በዋናው ገጽ ላይ ጎላ አድርገው ማሳየት ከፈለጉ ይህን ምልክት ያድርጉ።"
+        },
+        {
+          "heading": "ማስቀመጥ",
+          "body": "ታሪኩን ለማስቀመጥ \"Add Testimonial\" ይጫኑ። ያስታውሱ፦ ከማተምዎ በፊት ፍቃድ መመዝገብ አለበት፣ እና በዋናው ገጽ ላይ ከማድመቅዎ በፊት ታሪኩ መታተም አለበት — እያንዳንዱ አማራጭ በቅደም ተከተል ቀጣዩን ይከፍታል።"
+        }
+      ]
+    }
+  }
+}

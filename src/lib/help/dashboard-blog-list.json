@@ -1,0 +1,69 @@
+{
+  "path": "/dashboard/blog",
+  "title": "Resources List",
+  "summary": "The full list of blog posts, sermons, articles and other resources, with tools to filter, chart, and manage them.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This page shows every \"resource\" that has been created — articles, sermons, teachings, and studies. It's the central place to see what has been published so far, check how many are drafts versus live on the website, and jump into adding, viewing, or filtering them."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "If nothing has been added yet, you'll simply see a message saying the list is empty, along with an \"Add New Resource\" button to create your first one. Once there are resources, you'll see a heading like \"No of Resources: 12\" with a small note underneath telling you how many are published and how many are still drafts (for example, \"8 published · 4 draft\").\n\nFrom here you can: add a brand-new resource, filter the table down to only what you want to see, view a chart summarizing the resources, click into any resource's title to open its full page, or download the table as a file to keep or share."
+    },
+    {
+      "heading": "The buttons and table, explained",
+      "body": "Add New Resource — opens a blank form so you can create a new article, sermon, or other resource.\n\nTable Filters — opens a panel where you can narrow down the list. You can filter by Category, Resource Type, Status, Ministry Area, and Author. Each of these is a dropdown where you can pick one or more options (a \"multi-select\"), and next to each option it shows how many resources match it, so you know what to expect before you pick it. There's a \"Reset\" button to clear all filters and start over, and a live counter that says something like \"Showing 5 of 12 records\" so you always know how filtered the list currently is.\n\nChart — shows a visual chart (bar, line, pie, doughnut, polar-area, or radar — you can switch between these styles) summarizing the resources by Category, Type, Status, and so on, using tabs to switch between them. A handy shortcut: if you click directly on a bar in the chart, or a slice of the pie, the table below will automatically filter itself to show only the resources matching what you clicked.\n\nThe table itself lists, for each resource: a row number, its Featured Image (a small thumbnail picture), Title (click this to open the full resource page), Category, Type, Ministry Area, Author, Speaker, a colored Status badge (so you can tell drafts from published posts at a glance), the Published date, how many Views it has received, whether it's Featured (Yes/No), a short Excerpt, and the Content — the last two are shown cut short with an option to expand and read the full text. Each row also has an Actions menu with a \"View Details\" option."
+    },
+    {
+      "heading": "Good to know",
+      "body": "The table can be exported and downloaded as a file, which is useful if you want to share the list outside the dashboard or keep a backup record.\n\nFiltering and the chart both work on the same underlying data, so a filter you set in one will be reflected when you look at the other. Clicking a chart segment is just a fast way to apply a filter — it doesn't change or delete anything."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Resources List",
+      "summary": "The full list of blog posts, sermons, articles and other resources, with tools to filter, chart, and manage them.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This page shows every \"resource\" that has been created — articles, sermons, teachings, and studies. It's the central place to see what has been published so far, check how many are drafts versus live on the website, and jump into adding, viewing, or filtering them."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "If nothing has been added yet, you'll simply see a message saying the list is empty, along with an \"Add New Resource\" button to create your first one. Once there are resources, you'll see a heading like \"No of Resources: 12\" with a small note underneath telling you how many are published and how many are still drafts (for example, \"8 published · 4 draft\").\n\nFrom here you can: add a brand-new resource, filter the table down to only what you want to see, view a chart summarizing the resources, click into any resource's title to open its full page, or download the table as a file to keep or share."
+        },
+        {
+          "heading": "The buttons and table, explained",
+          "body": "Add New Resource — opens a blank form so you can create a new article, sermon, or other resource.\n\nTable Filters — opens a panel where you can narrow down the list. You can filter by Category, Resource Type, Status, Ministry Area, and Author. Each of these is a dropdown where you can pick one or more options (a \"multi-select\"), and next to each option it shows how many resources match it, so you know what to expect before you pick it. There's a \"Reset\" button to clear all filters and start over, and a live counter that says something like \"Showing 5 of 12 records\" so you always know how filtered the list currently is.\n\nChart — shows a visual chart (bar, line, pie, doughnut, polar-area, or radar — you can switch between these styles) summarizing the resources by Category, Type, Status, and so on, using tabs to switch between them. A handy shortcut: if you click directly on a bar in the chart, or a slice of the pie, the table below will automatically filter itself to show only the resources matching what you clicked.\n\nThe table itself lists, for each resource: a row number, its Featured Image (a small thumbnail picture), Title (click this to open the full resource page), Category, Type, Ministry Area, Author, Speaker, a colored Status badge (so you can tell drafts from published posts at a glance), the Published date, how many Views it has received, whether it's Featured (Yes/No), a short Excerpt, and the Content — the last two are shown cut short with an option to expand and read the full text. Each row also has an Actions menu with a \"View Details\" option."
+        },
+        {
+          "heading": "Good to know",
+          "body": "The table can be exported and downloaded as a file, which is useful if you want to share the list outside the dashboard or keep a backup record.\n\nFiltering and the chart both work on the same underlying data, so a filter you set in one will be reflected when you look at the other. Clicking a chart segment is just a fast way to apply a filter — it doesn't change or delete anything."
+        }
+      ]
+    },
+    "am": {
+      "title": "የግብዓቶች ዝርዝር",
+      "summary": "የብሎግ ጽሁፎች፣ ስብከቶች፣ ጽሁፎች እና ሌሎች ግብዓቶች ሙሉ ዝርዝር ሲሆን ለማጣራት፣ ለመመልከት (ቻርት) እና ለማስተዳደር የሚረዱ መሳሪያዎችን ይዟል።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "ይህ ገጽ የተፈጠሩ ሁሉንም \"ግብዓቶች\" ያሳያል — ጽሁፎች፣ ስብከቶች፣ ትምህርቶች እና ጥናቶች። እስካሁን ምን እንደታተመ ለማየት፣ ስንት ረቂቆች እንደሆኑ እና ስንት በድረ-ገጽ ላይ በቀጥታ እንደሚታዩ ለማወቅ፣ እና አዲስ ለመጨመር፣ ለማየት ወይም ለማጣራት የሚያስችል ማዕከላዊ ቦታ ነው።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "እስካሁን ምንም ካልተጨመረ፣ ዝርዝሩ ባዶ መሆኑን የሚገልጽ መልዕክት ብቻ ያያሉ፣ ከዚያም የመጀመሪያዎን ለመፍጠር \"አዲስ ግብዓት ጨምር\" የሚል ቁልፍ ያገኛሉ። ግብዓቶች ካሉ ግን፣ እንደ \"የግብዓቶች ብዛት፡ 12\" ያለ ርዕስ ከስሩ ስንት እንደታተሙ እና ስንት ገና ረቂቅ እንደሆኑ የሚገልጽ ትንሽ ማስታወሻ (ለምሳሌ፣ \"8 የታተሙ · 4 ረቂቆች\") ያያሉ።\n\nከዚህ ገጽ፦ ሙሉ በሙሉ አዲስ ግብዓት መጨመር፣ ዝርዝሩን የሚፈልጉትን ብቻ እንዲያሳይ ማጣራት፣ ግብዓቶቹን የሚያጠቃልል ቻርት መመልከት፣ የማንኛውንም ግብዓት ርዕስ ጠቅ በማድረግ ሙሉ ገጹን መክፈት፣ ወይም ዝርዝሩን እንደ ፋይል አውርደው ማስቀመጥ ወይም ማጋራት ይችላሉ።"
+        },
+        {
+          "heading": "ቁልፎቹ እና ሠንጠረዡ በዝርዝር",
+          "body": "አዲስ ግብዓት ጨምር — አዲስ ጽሁፍ፣ ስብከት ወይም ሌላ ግብዓት ለመፍጠር ባዶ ቅጽ ይከፍታል።\n\nየሠንጠረዥ ማጣሪያዎች — ዝርዝሩን ለማጥበብ የሚያስችል ፓነል ይከፍታል። በምድብ (Category)፣ በግብዓት ዓይነት (Resource Type)፣ በሁኔታ (Status)፣ በአገልግሎት ዘርፍ (Ministry Area)፣ እና በደራሲ (Author) ማጣራት ይችላሉ። እያንዳንዳቸው አንድ ወይም ከዚያ በላይ አማራጮችን መምረጥ የሚችሉበት ተቆልቋይ ዝርዝር (\"ብዙ-ምርጫ\") ሲሆኑ፣ ከእያንዳንዱ አማራጭ አጠገብ ስንት ግብዓቶች እንደሚዛመዱ ያሳያል፣ ስለዚህ ከመምረጥዎ በፊት ምን እንደሚጠብቅዎት ያውቃሉ። ሁሉንም ማጣሪያዎች አጽድተው ከመጀመሪያ ለመጀመር \"Reset\" የሚል ቁልፍ አለ፣ እንዲሁም ዝርዝሩ አሁን ምን ያህል እንደተጣራ ሁልጊዜ የሚያሳይ ቀጥታ ቆጣሪ (ለምሳሌ \"ከ12 ውስጥ 5 እየታዩ ነው\") አለ።\n\nቻርት — ግብዓቶቹን በምድብ፣ በዓይነት፣ በሁኔታ እና በመሳሰሉት የሚያጠቃልል ምስላዊ ቻርት (አምድ፣ መስመር፣ ፓይ፣ ዶናት፣ ፖላር-አካባቢ፣ ወይም ራዳር — በእነዚህ ስልቶች መካከል መቀያየር ይችላሉ) ያሳያል፣ በትር (ታብ) በመጠቀም ከአንዱ ወደ ሌላው ይቀያየራል። ጠቃሚ አቋራጭ፦ በቻርቱ ላይ ባለ አምድ ወይም በፓይ ላይ ባለ ቁራጭ ላይ በቀጥታ ጠቅ ካደረጉ፣ ከስር ያለው ሠንጠረዥ በራስ-ሰር የጠቀሱትን ብቻ የሚያሳይ ይሆናል።\n\nራሱ ሠንጠረዡ ለእያንዳንዱ ግብዓት የሚከተሉትን ይዘረዝራል፦ የረድፍ ቁጥር፣ ተለይቶ የቀረበ ምስል (Featured Image) (ትንሽ ናሙና ምስል)፣ ርዕስ (ይህን ጠቅ በማድረግ ሙሉውን የግብዓት ገጽ ይክፈቱ)፣ ምድብ፣ ዓይነት፣ የአገልግሎት ዘርፍ፣ ደራሲ፣ ተናጋሪ፣ ቀለም ያለው የሁኔታ ምልክት (ረቂቆችን ከታተሙ ልጥፎች በአይን ለመለየት)፣ የታተመበት ቀን፣ ስንት ጊዜ እንደታየ (Views)፣ ተለይቶ የቀረበ (Featured) መሆን አለመሆኑ (አዎ/አይ)፣ አጭር ማጠቃለያ (Excerpt)፣ እና ይዘት (Content) — የመጨረሻዎቹ ሁለቱ አሳጥረው የሚታዩ ሲሆን ሙሉውን ጽሁፍ ለማንበብ የሚያሰፉበት አማራጭ አላቸው። እያንዳንዱ ረድፍ እንዲሁም \"ዝርዝር ይመልከቱ\" የሚል አማራጭ ያለው የተግባራት ምናሌ አለው።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆነው",
+          "body": "ሠንጠረዡ ወደ ፋይል ተልኮ ሊወርድ ይችላል፣ ይህም ዝርዝሩን ከዳሽቦርድ ውጭ ለማጋራት ወይም መጠባበቂያ መዝገብ ለማስቀመጥ ጠቃሚ ነው።\n\nማጣራት እና ቻርቱ በተመሳሳይ ውሂብ ላይ ስለሚሰሩ፣ በአንዱ ላይ ያዘጋጁት ማጣሪያ በሌላው ላይ ሲመለከቱ ይንጸባረቃል። የቻርት ክፍልን ጠቅ ማድረግ ማጣሪያ ለመተግበር ፈጣን መንገድ ብቻ ነው — ምንም ነገር አይቀይርም ወይም አይሰርዝም።"
+        }
+      ]
+    }
+  }
+}

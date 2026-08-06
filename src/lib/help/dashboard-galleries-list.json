@@ -1,0 +1,69 @@
+{
+  "path": "/dashboard/galleries",
+  "title": "Galleries List",
+  "summary": "The main list of every photo and video gallery, with quick stats and a table you can filter, sort, and click into.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This page shows every photo and video gallery on the site — from event photo albums to project documentation — all in one place. It's the starting point for browsing existing galleries or creating a new one."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "At the top you'll see quick stats: the total number of galleries, how many are published (visible to the public), the total number of media items (photos and videos) across all galleries combined, and how many galleries have no media in them yet.\n\nClick \"Add New Gallery\" to create a new one. Use the filter menu to narrow the list by visibility, media mix (photos, videos, or both), what the gallery is linked to, or ministry area. The table can be sorted by column, and clicking any row opens that gallery's own page."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "Each row in the table summarizes one gallery — its title, item counts, and other key details at a glance. This list page itself has no fields to fill in, only filters to help you find the gallery you're after; open a gallery to see or change its full details."
+    },
+    {
+      "heading": "Good to know",
+      "body": "If there are no galleries yet, you'll see a message in place of the table along with an \"Add New Gallery\" button, so it's always clear what to do next."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Galleries List",
+      "summary": "The main list of every photo and video gallery, with quick stats and a table you can filter, sort, and click into.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This page shows every photo and video gallery on the site — from event photo albums to project documentation — all in one place. It's the starting point for browsing existing galleries or creating a new one."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "At the top you'll see quick stats: the total number of galleries, how many are published (visible to the public), the total number of media items (photos and videos) across all galleries combined, and how many galleries have no media in them yet.\n\nClick \"Add New Gallery\" to create a new one. Use the filter menu to narrow the list by visibility, media mix (photos, videos, or both), what the gallery is linked to, or ministry area. The table can be sorted by column, and clicking any row opens that gallery's own page."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "Each row in the table summarizes one gallery — its title, item counts, and other key details at a glance. This list page itself has no fields to fill in, only filters to help you find the gallery you're after; open a gallery to see or change its full details."
+        },
+        {
+          "heading": "Good to know",
+          "body": "If there are no galleries yet, you'll see a message in place of the table along with an \"Add New Gallery\" button, so it's always clear what to do next."
+        }
+      ]
+    },
+    "am": {
+      "title": "የጋለሪዎች ዝርዝር",
+      "summary": "ሁሉንም የፎቶ እና የቪዲዮ ጋለሪዎች የያዘ ዋና ዝርዝር ገጽ ሲሆን ፈጣን ስታትስቲክስ እና ማጣራት፣ መደርደር እና መክፈት የሚችሉት ሰንጠረዥ አለው።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "ይህ ገጽ በድረ-ገጹ ላይ ያሉትን ሁሉንም የፎቶ እና የቪዲዮ ጋለሪዎች — ከዝግጅት የፎቶ አልበሞች እስከ የፕሮጀክት ማስረጃ — በአንድ ቦታ ያሳያል። ነባር ጋለሪዎችን ለማየት ወይም አዲስ ለመፍጠር መነሻ ነው።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "ከላይ ፈጣን ስታትስቲክስ ያያሉ፡ አጠቃላይ የጋለሪዎች ብዛት፣ ታትመው (ለህዝብ የሚታዩ) ስንት እንደሆኑ፣ በሁሉም ጋለሪዎች የተካተቱ የሚዲያ ንጥሎች (ፎቶዎች እና ቪዲዮዎች) ጠቅላላ ብዛት፣ እና እስካሁን ምንም ሚዲያ የሌላቸው ጋለሪዎች ስንት እንደሆኑ።\n\nአዲስ ለመፍጠር \"አዲስ ጋለሪ ጨምር\" ን ይጫኑ። የማጣሪያ ምናሌውን በመጠቀም ዝርዝሩን በታይነት፣ በሚዲያ ድብልቅ (ፎቶዎች፣ ቪዲዮዎች ወይም ሁለቱም)፣ ጋለሪው ከምን ጋር እንደተያያዘ ወይም በአገልግሎት ዘርፍ ማጥበብ ይችላሉ። ሰንጠረዡ በአምድ መደርደር ይችላል፣ እና ማንኛውንም ረድፍ በመጫን ወደዚያ ጋለሪ ገጽ ይሂዱ።"
+        },
+        {
+          "heading": "መስኮቹ በዝርዝር",
+          "body": "በሰንጠረዡ ውስጥ ያለው እያንዳንዱ ረድፍ የአንድ ጋለሪ ማጠቃለያ ነው — ርዕሱ፣ የንጥል ብዛቶች እና ሌሎች ቁልፍ ዝርዝሮች በአንድ እይታ። ይህ የዝርዝር ገጽ ራሱ የሚሞላ መስክ የለውም፣ የሚፈልጉትን ጋለሪ ለማግኘት የሚረዱ ማጣሪያዎች ብቻ ነው ያለው፤ ሙሉ ዝርዝሮቹን ለማየት ወይም ለመቀየር ጋለሪውን ይክፈቱ።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆነው",
+          "body": "እስካሁን ምንም ጋለሪዎች ከሌሉ፣ በሰንጠረዡ ምትክ መልእክት እና \"አዲስ ጋለሪ ጨምር\" የሚል ቁልፍ ያያሉ፣ ስለዚህ ቀጥሎ ምን ማድረግ እንዳለብዎት ሁልጊዜ ግልጽ ይሆናል።"
+        }
+      ]
+    }
+  }
+}

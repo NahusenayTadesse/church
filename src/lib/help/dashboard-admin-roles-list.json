@@ -1,0 +1,69 @@
+{
+  "path": "/dashboard/admin-panel/roles",
+  "title": "Roles",
+  "summary": "See every role that has been defined, how many staff belong to each one, and whether it's active.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "A role is a named bundle of permissions - for example \"Admin,\" \"Editor,\" or \"Viewer.\" Instead of deciding what each staff member can do one by one, you decide it once for a role, and then every staff member assigned to that role automatically gets the same access. This page lists all the roles that currently exist."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "You can see how many roles exist in total (shown as \"No of Roles\"), and browse the table to review each one. Click a role's Name to open its detail page, where you can view or change what it's allowed to do and see who has it.\n\nThis list page does not have an add button. To create a brand-new role, go to the separate \"Add Role\" page."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "# - the row number.\n\nName - the role's name, click it to open the full details for that role.\n\nStatus - shows whether the role is Active or Inactive.\n\nUser Count - how many staff members currently have this role assigned to them."
+    },
+    {
+      "heading": "Good to know",
+      "body": "This page only shows you the roles - to actually change what a role can do, or to see and edit its full permission list, open the role by clicking its Name. To add a new role in the first place, use the Add Role page rather than looking for a button here."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Roles",
+      "summary": "See every role that has been defined, how many staff belong to each one, and whether it's active.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "A role is a named bundle of permissions - for example \"Admin,\" \"Editor,\" or \"Viewer.\" Instead of deciding what each staff member can do one by one, you decide it once for a role, and then every staff member assigned to that role automatically gets the same access. This page lists all the roles that currently exist."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "You can see how many roles exist in total (shown as \"No of Roles\"), and browse the table to review each one. Click a role's Name to open its detail page, where you can view or change what it's allowed to do and see who has it.\n\nThis list page does not have an add button. To create a brand-new role, go to the separate \"Add Role\" page."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "# - the row number.\n\nName - the role's name, click it to open the full details for that role.\n\nStatus - shows whether the role is Active or Inactive.\n\nUser Count - how many staff members currently have this role assigned to them."
+        },
+        {
+          "heading": "Good to know",
+          "body": "This page only shows you the roles - to actually change what a role can do, or to see and edit its full permission list, open the role by clicking its Name. To add a new role in the first place, use the Add Role page rather than looking for a button here."
+        }
+      ]
+    },
+    "am": {
+      "title": "ሚናዎች",
+      "summary": "የተቀመጡትን ሚናዎች ሁሉ፣ በእያንዳንዱ ላይ ስንት ሰራተኛ እንዳለ እና ንቁ መሆኑን ይመልከቱ።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "ሚና (role) ማለት እንደ \"Admin\"፣ \"Editor\" ወይም \"Viewer\" ባለ ስም ስር የተሰበሰቡ የፈቃዶች ስብስብ ማለት ነው። እያንዳንዱ ሰራተኛ ምን ማድረግ እንደሚችል አንድ በአንድ ከመወሰን ይልቅ፣ ለአንድ ሚና ልክ አንድ ጊዜ ይወስናሉ፣ ከዚያም ወደዚያ ሚና የተመደበ እያንዳንዱ ሰራተኛ በራስ-ሰር ተመሳሳይ መዳረሻ ያገኛል። ይህ ገጽ አሁን ያሉትን ሚናዎች ሁሉ ዘርዝሮ ያሳያል።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "በጠቅላላ ስንት ሚናዎች እንዳሉ ማየት ይችላሉ (እንደ \"No of Roles\" ሆኖ ይታያል)፣ እና ሰንጠረዡን በማሰስ እያንዳንዱን መገምገም ይችላሉ። የአንድን ሚና ስም ጠቅ በማድረግ ዝርዝር ገጹን ይክፈቱ፣ እዚያ ምን ማድረግ እንደሚችል ማየት ወይም መቀየር እና ማን እንዳለው ማየት ይችላሉ።\n\nይህ የዝርዝር ገጽ የመጨመሪያ አዝራር የለውም። ሙሉ በሙሉ አዲስ ሚና ለመፍጠር፣ ወደ ተለየው \"Add Role\" ገጽ ይሂዱ።"
+        },
+        {
+          "heading": "የመስኮች ማብራሪያ",
+          "body": "# - የረድፍ ቁጥር።\n\nስም (Name) - የሚናው ስም፣ ጠቅ በማድረግ ለዚያ ሚና ሙሉ ዝርዝሮችን ይክፈቱ።\n\nሁኔታ (Status) - ሚናው ንቁ (Active) ወይም ንቁ ያልሆነ (Inactive) መሆኑን ያሳያል።\n\nየተጠቃሚ ብዛት (User Count) - አሁን ይህ ሚና የተመደበላቸው ሰራተኞች ስንት እንደሆኑ።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆኑ ነገሮች",
+          "body": "ይህ ገጽ ሚናዎቹን ብቻ ያሳይዎታል - ሚና በትክክል ምን ማድረግ እንደሚችል ለመቀየር፣ ወይም ሙሉ የፈቃድ ዝርዝሩን ለማየትና ለማርም፣ ስሙን ጠቅ በማድረግ ሚናውን ይክፈቱ። አዲስ ሚና ከመነሻው ለመጨመር፣ እዚህ ገጽ ላይ አዝራር ከመፈለግ ይልቅ የAdd Role ገጹን ይጠቀሙ።"
+        }
+      ]
+    }
+  }
+}

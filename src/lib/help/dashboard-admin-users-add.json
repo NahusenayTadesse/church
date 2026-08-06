@@ -1,0 +1,69 @@
+{
+  "path": "/dashboard/admin-panel/users/add-users",
+  "title": "Add User",
+  "summary": "Create a brand-new dashboard staff account and assign them a role.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This page is where you set up a login for a new staff member so they can access this dashboard. You give them a name, login email, initial password, and a role that determines what they'll be able to do."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "Fill in the required fields and click \"Add User\" to create the account. If you try to navigate away while you have unsaved changes in the form, you'll be asked to confirm before leaving, so you don't lose what you've typed by accident."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "Name - the staff member's full name. Required.\n\nEmail - the address they will use to log in. Required, and should be an address they actually check, since it's their username.\n\nPassword - their initial password to log in with. Required. They can change it themselves later once they're logged in.\n\nRole - a required dropdown where you choose which role (permission group) this person belongs to. This determines everything they're allowed to do in the dashboard."
+    },
+    {
+      "heading": "Good to know",
+      "body": "Whatever Role you pick, the new account immediately gets every permission that role grants, the moment you save - there is no separate way to give this one person extra access on top of their role. If the role you choose doesn't have the permissions this person needs yet, go add those permissions to the role itself (from the role's detail page) rather than looking for an option here, since none exists."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Add User",
+      "summary": "Create a brand-new dashboard staff account and assign them a role.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This page is where you set up a login for a new staff member so they can access this dashboard. You give them a name, login email, initial password, and a role that determines what they'll be able to do."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "Fill in the required fields and click \"Add User\" to create the account. If you try to navigate away while you have unsaved changes in the form, you'll be asked to confirm before leaving, so you don't lose what you've typed by accident."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "Name - the staff member's full name. Required.\n\nEmail - the address they will use to log in. Required, and should be an address they actually check, since it's their username.\n\nPassword - their initial password to log in with. Required. They can change it themselves later once they're logged in.\n\nRole - a required dropdown where you choose which role (permission group) this person belongs to. This determines everything they're allowed to do in the dashboard."
+        },
+        {
+          "heading": "Good to know",
+          "body": "Whatever Role you pick, the new account immediately gets every permission that role grants, the moment you save - there is no separate way to give this one person extra access on top of their role. If the role you choose doesn't have the permissions this person needs yet, go add those permissions to the role itself (from the role's detail page) rather than looking for an option here, since none exists."
+        }
+      ]
+    },
+    "am": {
+      "title": "ተጠቃሚ ጨምር",
+      "summary": "ሙሉ በሙሉ አዲስ የዳሽቦርድ ሰራተኛ አካውንት ይፍጠሩና ሚና ይመድቡለት/ላት።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "ይህ ገጽ አዲስ ሰራተኛ ወደዚህ ዳሽቦርድ መግባት እንዲችል/እንድትችል መግቢያ (login) የሚያዘጋጁበት ነው። ስም፣ የመግቢያ ኢሜይል፣ የመጀመሪያ የይለፍ ቃል፣ እና ምን ማድረግ እንደሚችሉ/እንደምትችሉ የሚወስን ሚና ይሰጣሉ።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "አስፈላጊ የሆኑትን መስኮች ይሙሉ እና አካውንቱን ለመፍጠር \"Add User\" ን ጠቅ ያድርጉ። ባልተቀመጡ ለውጦች ገጹን ለቀው ለመሄድ ከሞከሩ፣ ከመውጣትዎ በፊት እንዲያረጋግጡ ይጠየቃሉ፣ ስለዚህ በስህተት የተየቡትን እንዳያጡ ይረዳዎታል።"
+        },
+        {
+          "heading": "የመስኮች ማብራሪያ",
+          "body": "ስም (Name) - የሰራተኛው ሙሉ ስም። አስፈላጊ ነው።\n\nኢሜይል (Email) - ለመግባት የሚጠቀሙበት አድራሻ። አስፈላጊ ነው፣ የተጠቃሚ ስማቸው ስለሆነ በእርግጥ የሚያዩት አድራሻ መሆን አለበት።\n\nየይለፍ ቃል (Password) - ለመግባት የሚጠቀሙበት የመጀመሪያ የይለፍ ቃል። አስፈላጊ ነው። ከገቡ በኋላ በራሳቸው ጊዜ ሊቀይሩት ይችላሉ።\n\nሚና (Role) - ይህ ሰው የትኛው ሚና (የፈቃድ ቡድን) እንዳለው/ላት የሚመርጡበት አስፈላጊ የመምረጫ ዝርዝር። ይህ በዳሽቦርዱ ውስጥ ምን ማድረግ እንደሚችሉ/እንደምትችሉ ሁሉ ይወስናል።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆኑ ነገሮች",
+          "body": "የመረጡት ማንኛውም ሚና ይሁን፣ አዲሱ አካውንት ካስቀመጡ በኋላ ወዲያውኑ ያ ሚና የሚሰጠውን ፈቃድ ሁሉ ያገኛል - ከሚናቸው በላይ ለዚህ አንድ ሰው ተጨማሪ መዳረሻ የመስጠት የተለየ መንገድ የለም። የመረጡት ሚና ይህ ሰው የሚያስፈልገውን ፈቃድ ገና ከሌለው፣ እዚህ አማራጭ ከመፈለግ ይልቅ (ምክንያቱም የለምና) ወደ ሚናው ራሱ (ከሚናው ዝርዝር ገጽ) ሂደው እነዚያን ፈቃዶች ይጨምሩ።"
+        }
+      ]
+    }
+  }
+}

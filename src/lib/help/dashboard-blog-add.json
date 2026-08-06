@@ -1,0 +1,69 @@
+{
+  "match": "/dashboard/blog/add-blog",
+  "title": "Add / Edit a Resource",
+  "summary": "The form used to create a new resource (article, sermon, teaching, etc.) or edit an existing one — it's the same form for both.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This is where you write and publish a new resource — an article, sermon, teaching, or study — or make changes to one that already exists. If you arrived here from the \"Add New Resource\" button, you're starting fresh with a blank form. If you arrived here by editing an existing resource, the same form appears already filled in with its current information."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "You fill in the details of the resource — its title, what type it is, who wrote or spoke it, the main text, any pictures, files, or links that go with it — and then decide whether to save it as a draft (hidden from the public) or publish it (visible on the website). When you're ready, you press the \"Add Resource\" button at the bottom to save your work."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "Title (required) — the headline of the resource. As you type this, the Slug field below fills in automatically, unless you've already typed something into Slug yourself — once you do that, the automatic filling stops.\n\nSlug (required) — a short, web-address-friendly version of the title (for example, \"sunday-sermon-on-hope\"). It's what appears in the resource's web link. You can edit it by hand if you want something different from the automatic suggestion.\n\nResource Type (required dropdown) — choose what kind of resource this is (for example, sermon, teaching, article, audio, video, or bible study). Picking certain types — sermon, teaching, audio, video, or bible study — will reveal extra fields further down the form that only apply to those types. This is expected, not a mistake.\n\nCategory (required dropdown) — pick from the list of categories that have been set up on the Categories page.\n\nMinistry Area (optional dropdown) — pick which ministry or department this belongs to, from the list set up on the Ministry Areas page.\n\nAuthor (optional dropdown) — pick who wrote or is credited with this resource, from your list of people.\n\nSpeaker — only appears for sermon, teaching, audio, or video types. It becomes required specifically when the Resource Type is \"sermon.\"\n\nExcerpt / Short Description (required) — a short teaser paragraph, a sentence or two, that sums up the resource. This often appears in previews and search results.\n\nContent (required) — the full body of the resource, written using a rich text editor (similar to a simple word processor). You can make text bold, add links, and create bullet lists.\n\nBible References — only appears for sermon, teaching, or bible study types. A free-text field for scripture references, for example \"Ephesians 5:22–33.\"\n\nVideo Link — only appears for video, sermon, or teaching types, and is required when the type is \"video.\" This is the web address of a YouTube or Vimeo video.\n\nAudio File — only appears for audio, sermon, or teaching types. Lets you upload a sound recording file.\n\nDownload File (optional) — lets you attach a file, such as a PDF handout, that visitors can download.\n\nFeatured Image (required) — the main picture representing this resource, shown in lists and at the top of the resource's page.\n\nGallery Images (optional) — extra pictures you can attach alongside the resource.\n\nStatus (required dropdown) — choose \"draft\" to keep the resource hidden while you're still working on it, or \"published\" to make it visible on the website.\n\nPublish Date — only appears when Status is set to \"published.\" Leave it blank to publish the resource right away, or pick a future date and time to have it appear automatically later.\n\n\"Allow comments on this resource\" (checkbox) — turns visitor comments on or off for this resource.\n\n\"Feature on the homepage\" (checkbox) — if checked, this resource may be highlighted on the website's homepage.\n\nAdd Resource (button) — saves everything you've entered."
+    },
+    {
+      "heading": "Good to know",
+      "body": "If you try to navigate away from this page while you have unsaved changes, a confirmation popup will ask if you're sure you want to leave — this protects you from accidentally losing your work.\n\nThe fields you see on the form change depending on which Resource Type you select. For example, choosing \"video\" will show a Video Link field, while choosing \"article\" will not. This is normal behavior, designed to only ask for information that's relevant to the type of resource you're creating."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Add / Edit a Resource",
+      "summary": "The form used to create a new resource (article, sermon, teaching, etc.) or edit an existing one — it's the same form for both.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This is where you write and publish a new resource — an article, sermon, teaching, or study — or make changes to one that already exists. If you arrived here from the \"Add New Resource\" button, you're starting fresh with a blank form. If you arrived here by editing an existing resource, the same form appears already filled in with its current information."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "You fill in the details of the resource — its title, what type it is, who wrote or spoke it, the main text, any pictures, files, or links that go with it — and then decide whether to save it as a draft (hidden from the public) or publish it (visible on the website). When you're ready, you press the \"Add Resource\" button at the bottom to save your work."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "Title (required) — the headline of the resource. As you type this, the Slug field below fills in automatically, unless you've already typed something into Slug yourself — once you do that, the automatic filling stops.\n\nSlug (required) — a short, web-address-friendly version of the title (for example, \"sunday-sermon-on-hope\"). It's what appears in the resource's web link. You can edit it by hand if you want something different from the automatic suggestion.\n\nResource Type (required dropdown) — choose what kind of resource this is (for example, sermon, teaching, article, audio, video, or bible study). Picking certain types — sermon, teaching, audio, video, or bible study — will reveal extra fields further down the form that only apply to those types. This is expected, not a mistake.\n\nCategory (required dropdown) — pick from the list of categories that have been set up on the Categories page.\n\nMinistry Area (optional dropdown) — pick which ministry or department this belongs to, from the list set up on the Ministry Areas page.\n\nAuthor (optional dropdown) — pick who wrote or is credited with this resource, from your list of people.\n\nSpeaker — only appears for sermon, teaching, audio, or video types. It becomes required specifically when the Resource Type is \"sermon.\"\n\nExcerpt / Short Description (required) — a short teaser paragraph, a sentence or two, that sums up the resource. This often appears in previews and search results.\n\nContent (required) — the full body of the resource, written using a rich text editor (similar to a simple word processor). You can make text bold, add links, and create bullet lists.\n\nBible References — only appears for sermon, teaching, or bible study types. A free-text field for scripture references, for example \"Ephesians 5:22–33.\"\n\nVideo Link — only appears for video, sermon, or teaching types, and is required when the type is \"video.\" This is the web address of a YouTube or Vimeo video.\n\nAudio File — only appears for audio, sermon, or teaching types. Lets you upload a sound recording file.\n\nDownload File (optional) — lets you attach a file, such as a PDF handout, that visitors can download.\n\nFeatured Image (required) — the main picture representing this resource, shown in lists and at the top of the resource's page.\n\nGallery Images (optional) — extra pictures you can attach alongside the resource.\n\nStatus (required dropdown) — choose \"draft\" to keep the resource hidden while you're still working on it, or \"published\" to make it visible on the website.\n\nPublish Date — only appears when Status is set to \"published.\" Leave it blank to publish the resource right away, or pick a future date and time to have it appear automatically later.\n\n\"Allow comments on this resource\" (checkbox) — turns visitor comments on or off for this resource.\n\n\"Feature on the homepage\" (checkbox) — if checked, this resource may be highlighted on the website's homepage.\n\nAdd Resource (button) — saves everything you've entered."
+        },
+        {
+          "heading": "Good to know",
+          "body": "If you try to navigate away from this page while you have unsaved changes, a confirmation popup will ask if you're sure you want to leave — this protects you from accidentally losing your work.\n\nThe fields you see on the form change depending on which Resource Type you select. For example, choosing \"video\" will show a Video Link field, while choosing \"article\" will not. This is normal behavior, designed to only ask for information that's relevant to the type of resource you're creating."
+        }
+      ]
+    },
+    "am": {
+      "title": "ግብዓት ጨምር / አርትዕ አድርግ",
+      "summary": "አዲስ ግብዓት (ጽሁፍ፣ ስብከት፣ ትምህርት፣ ወዘተ) ለመፍጠር ወይም ነባር ግብዓትን ለማርትዕ የሚያገለግል ቅጽ ነው — ለሁለቱም ተመሳሳይ ቅጽ ነው።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "አዲስ ግብዓት — ጽሁፍ፣ ስብከት፣ ትምህርት ወይም ጥናት — የሚጽፉበት እና የሚያትሙበት፣ ወይም ቀድሞ ያለውን ግብዓት ለውጦችን የሚያደርጉበት ቦታ ነው። ወደዚህ ገጽ የመጡት \"አዲስ ግብዓት ጨምር\" ከሚለው ቁልፍ ከሆነ፣ ባዶ ቅጽ ይጀምራሉ። ወደዚህ ገጽ የመጡት ነባር ግብዓት በማርትዕ ከሆነ ግን፣ ተመሳሳዩ ቅጽ አሁን ባለው መረጃ ተሞልቶ ይታያል።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "የግብዓቱን ዝርዝሮች ይሞላሉ — ርዕሱን፣ ምን ዓይነት እንደሆነ፣ ማን እንደጻፈው ወይም እንደተናገረው፣ ዋናውን ጽሁፍ፣ ማንኛውንም ከእሱ ጋር የሚሄዱ ምስሎችን፣ ፋይሎችን ወይም አገናኞችን — ከዚያም እንደ ረቂቅ (ከህዝብ የተደበቀ) ማስቀመጥ ወይም ማተም (በድረ-ገጽ ላይ የሚታይ) እንደሆነ ይወስናሉ። ዝግጁ ሲሆኑ፣ ስራዎን ለማስቀመጥ ከስር ያለውን \"ግብዓት ጨምር\" ቁልፍ ይጫኑ።"
+        },
+        {
+          "heading": "መስኮቹ በዝርዝር",
+          "body": "ርዕስ (አስፈላጊ) — የግብዓቱ ራስጌ። ይህን ሲተይቡ ከስር ያለው Slug መስክ በራስ-ሰር ይሞላል፣ እርስዎ ራስዎ በ Slug ውስጥ ነገር ካልተየቡ በስተቀር — አንዴ ይህን ካደረጉ በኋላ ራስ-ሰር መሙላት ይቆማል።\n\nSlug (አስፈላጊ) — የርዕሱ አጭር፣ ለድረ-ገጽ አድራሻ ተስማሚ የሆነ ስሪት (ለምሳሌ፣ \"sunday-sermon-on-hope\")። በግብዓቱ ድረ-ገጽ አገናኝ ውስጥ የሚታየው ይህ ነው። ከራስ-ሰር ጥቆማው የተለየ ነገር ከፈለጉ በእጅ ማርትዕ ይችላሉ።\n\nየግብዓት ዓይነት (አስፈላጊ ተቆልቋይ ዝርዝር) — ይህ ምን ዓይነት ግብዓት እንደሆነ ይምረጡ (ለምሳሌ፣ ስብከት፣ ትምህርት፣ ጽሁፍ፣ ኦዲዮ፣ ቪዲዮ፣ ወይም የመጽሐፍ ቅዱስ ጥናት)። የተወሰኑ ዓይነቶችን — ስብከት፣ ትምህርት፣ ኦዲዮ፣ ቪዲዮ፣ ወይም የመጽሐፍ ቅዱስ ጥናት — መምረጥ በቅጹ ውስጥ ከስር ተጨማሪ መስኮችን ያሳያል፣ እነዚህም ለእነዚያ ዓይነቶች ብቻ የሚሆኑ ናቸው። ይህ የሚጠበቅ እንጂ ስህተት አይደለም።\n\nምድብ (አስፈላጊ ተቆልቋይ ዝርዝር) — በምድቦች ገጽ ላይ ከተዘጋጁት ምድቦች ዝርዝር ውስጥ ይምረጡ።\n\nየአገልግሎት ዘርፍ (አማራጭ ተቆልቋይ ዝርዝር) — ይህ የትኛው ሚኒስትሪ ወይም ክፍል እንደሆነ፣ በአገልግሎት ዘርፎች ገጽ ላይ ከተዘጋጀው ዝርዝር ውስጥ ይምረጡ።\n\nደራሲ (አማራጭ ተቆልቋይ ዝርዝር) — ከሰዎች ዝርዝርዎ ውስጥ ማን እንደጻፈው ወይም ለዚህ ግብዓት ክሬዲት እንደተሰጠው ይምረጡ።\n\nተናጋሪ — ለስብከት፣ ትምህርት፣ ኦዲዮ ወይም ቪዲዮ ዓይነቶች ብቻ ይታያል። የግብዓት ዓይነቱ \"ስብከት\" ሲሆን በተለይ አስፈላጊ ይሆናል።\n\nአጭር ማጠቃለያ / አጭር መግለጫ (አስፈላጊ) — ግብዓቱን የሚያጠቃልል አጭር አንቀጽ፣ አንድ ወይም ሁለት ዓረፍተ ነገር። ይህ ብዙ ጊዜ በቅድመ-እይታዎች እና በፍለጋ ውጤቶች ውስጥ ይታያል።\n\nይዘት (አስፈላጊ) — የግብዓቱ ሙሉ ጽሁፍ፣ ቀላል የቃላት ማቀናበሪያ በሚመስል ሪች-ቴክስት አርታኢ የተጻፈ። ጽሁፍን ደማቅ ማድረግ፣ አገናኞችን መጨመር፣ እና ዝርዝር ነጥቦችን መፍጠር ይችላሉ።\n\nየመጽሐፍ ቅዱስ ማጣቀሻዎች — ለስብከት፣ ትምህርት፣ ወይም የመጽሐፍ ቅዱስ ጥናት ዓይነቶች ብቻ ይታያል። ለቅዱስ ጽሁፍ ማጣቀሻዎች ነጻ ጽሁፍ መስክ ነው፣ ለምሳሌ \"ኤፌሶን 5፡22–33\"።\n\nየቪዲዮ አገናኝ — ለቪዲዮ፣ ስብከት፣ ወይም ትምህርት ዓይነቶች ብቻ ይታያል፣ ዓይነቱ \"ቪዲዮ\" ሲሆን አስፈላጊ ይሆናል። ይህ የ YouTube ወይም Vimeo ቪዲዮ ድረ-ገጽ አድራሻ ነው።\n\nየኦዲዮ ፋይል — ለኦዲዮ፣ ስብከት፣ ወይም ትምህርት ዓይነቶች ብቻ ይታያል። የድምጽ ቅጂ ፋይል መስቀል ያስችልዎታል።\n\nየማውረጃ ፋይል (አማራጭ) — እንደ PDF ማብራሪያ ወረቀት ያለ፣ ጎብኚዎች ሊያወርዱት የሚችሉት ፋይል ማያያዝ ያስችልዎታል።\n\nተለይቶ የቀረበ ምስል (አስፈላጊ) — ይህን ግብዓት የሚወክል ዋና ምስል፣ በዝርዝሮች ውስጥ እና በግብዓቱ ገጽ አናት ላይ ይታያል።\n\nየጋለሪ ምስሎች (አማራጭ) — ከግብዓቱ ጎን ማያያዝ የሚችሏቸው ተጨማሪ ምስሎች።\n\nሁኔታ (አስፈላጊ ተቆልቋይ ዝርዝር) — እርስዎ አሁንም እየሰሩበት ካሉ ግብዓቱን ለመደበቅ \"ረቂቅ\" ይምረጡ፣ ወይም በድረ-ገጽ ላይ እንዲታይ ለማድረግ \"የታተመ\" ይምረጡ።\n\nየታተመበት ቀን — ሁኔታው \"የታተመ\" ተብሎ ሲዘጋጅ ብቻ ይታያል። ግብዓቱ ወዲያውኑ እንዲታተም ባዶ ይተዉት፣ ወይም በኋላ ራስ-ሰር እንዲታይ የወደፊት ቀን እና ሰዓት ይምረጡ።\n\n\"በዚህ ግብዓት ላይ አስተያየቶችን ፍቀድ\" (ማረጋገጫ ሳጥን) — ለዚህ ግብዓት የጎብኚ አስተያየቶችን ያበራል ወይም ያጠፋል።\n\n\"በመነሻ ገጽ ላይ አድምቅ\" (ማረጋገጫ ሳጥን) — ከተመረጠ፣ ይህ ግብዓት በድረ-ገጹ መነሻ ገጽ ላይ ጎላ ተደርጎ ሊታይ ይችላል።\n\nግብዓት ጨምር (ቁልፍ) — ያስገቡትን ሁሉ ያስቀምጣል።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆነው",
+          "body": "ያልተቀመጡ ለውጦች እያሉ ከዚህ ገጽ ለመውጣት ከሞከሩ፣ በርግጥ መውጣት እንደሚፈልጉ የሚጠይቅ ማረጋገጫ ብቅ-ባይ ይታያል — ይህ ስራዎን በስህተት እንዳያጡ ይጠብቅዎታል።\n\nየሚመርጡት የግብዓት ዓይነት ላይ ተመስርተው በቅጹ ላይ የሚያዩዋቸው መስኮች ይለወጣሉ። ለምሳሌ፣ \"ቪዲዮ\" መምረጥ የቪዲዮ አገናኝ መስክ ያሳያል፣ \"ጽሁፍ\" መምረጥ ግን አያሳይም። ይህ የተለመደ ባህሪ ነው፣ ለሚፈጥሩት የግብዓት ዓይነት አግባብነት ያለውን መረጃ ብቻ ለመጠየቅ ተብሎ የተነደፈ።"
+        }
+      ]
+    }
+  }
+}

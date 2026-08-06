@@ -1,0 +1,69 @@
+{
+  "path": "/dashboard/projects",
+  "title": "Projects List",
+  "summary": "The main list of every project, program, or field initiative, with quick stats and a table you can filter, sort, and click into.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This page shows every project or program the church runs — building projects, mission trips, feeding programs, and other initiatives — all in one place. It's the starting point for anything to do with projects: seeing what's happening, checking how funding is going, or opening a specific project to update it."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "At the top you'll see quick stats: the total number of projects, how many are currently active, how many have been completed, and the total funds raised across all of them combined. There may also be a note about how many active projects haven't posted an update lately, or have a funding total that doesn't line up with recorded donations — these are just gentle reminders, not errors.\n\nClick \"Add New Project\" to start a brand new project. Use the filter menu to narrow the list down by status, timing, funding, ministry area, project leader, or type of support offered. The table itself can be sorted by clicking column headers, and exported if you need a copy outside the dashboard. Click anywhere on a row to open that project's own page."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "Each row in the table is a summary of one project — its name, status, and other key details at a glance. To see or change the full details of a project, click into it; this list page itself doesn't have fields to fill in, only filters to narrow what you see."
+    },
+    {
+      "heading": "Good to know",
+      "body": "If there are no projects yet, you'll see a friendly message in place of the table along with an \"Add New Project\" button, so you're never stuck looking at an empty screen without knowing what to do next."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Projects List",
+      "summary": "The main list of every project, program, or field initiative, with quick stats and a table you can filter, sort, and click into.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This page shows every project or program the church runs — building projects, mission trips, feeding programs, and other initiatives — all in one place. It's the starting point for anything to do with projects: seeing what's happening, checking how funding is going, or opening a specific project to update it."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "At the top you'll see quick stats: the total number of projects, how many are currently active, how many have been completed, and the total funds raised across all of them combined. There may also be a note about how many active projects haven't posted an update lately, or have a funding total that doesn't line up with recorded donations — these are just gentle reminders, not errors.\n\nClick \"Add New Project\" to start a brand new project. Use the filter menu to narrow the list down by status, timing, funding, ministry area, project leader, or type of support offered. The table itself can be sorted by clicking column headers, and exported if you need a copy outside the dashboard. Click anywhere on a row to open that project's own page."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "Each row in the table is a summary of one project — its name, status, and other key details at a glance. To see or change the full details of a project, click into it; this list page itself doesn't have fields to fill in, only filters to narrow what you see."
+        },
+        {
+          "heading": "Good to know",
+          "body": "If there are no projects yet, you'll see a friendly message in place of the table along with an \"Add New Project\" button, so you're never stuck looking at an empty screen without knowing what to do next."
+        }
+      ]
+    },
+    "am": {
+      "title": "የፕሮጀክቶች ዝርዝር",
+      "summary": "ሁሉንም ፕሮጀክቶች፣ ፕሮግራሞች ወይም የመስክ ስራዎች የያዘ ዋና ዝርዝር ገጽ ሲሆን ፈጣን ስታትስቲክስ እና ማጣራት፣ መደርደር እና መክፈት የሚችሉት ሰንጠረዥ አለው።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "ይህ ገጽ ቤተክርስቲያኗ የምታካሂዳቸውን ሁሉንም ፕሮጀክቶች ወይም ፕሮግራሞች — የግንባታ ስራዎች፣ የሚስዮን ጉዞዎች፣ የምግብ ፕሮግራሞች እና ሌሎች ስራዎችን — በአንድ ቦታ ያሳያል። ከፕሮጀክቶች ጋር የተያያዘ ማንኛውንም ነገር ለመስራት መነሻ ነው፡ ምን እየተከናወነ እንዳለ ማየት፣ የገንዘብ አሰባሰቡን መከታተል ወይም አንድን ፕሮጀክት ከፍቶ ማዘመን።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "ከላይ ፈጣን ስታትስቲክስ ያያሉ፡ አጠቃላይ የፕሮጀክቶች ብዛት፣ በአሁኑ ጊዜ ንቁ የሆኑት ስንት እንደሆኑ፣ የተጠናቀቁት ስንት እንደሆኑ፣ እና በሁሉም ፕሮጀክቶች የተሰበሰበው አጠቃላይ የገንዘብ መጠን። እንዲሁም ንቁ ፕሮጀክቶች ውስጥ በቅርቡ ዝማኔ ያልለጠፉት ወይም የተመዘገበው የገንዘብ መጠን ከልገሳ መዝገቦች ጋር የማይመሳሰሉት ስንት እንደሆኑ የሚጠቁም ማስታወሻ ሊኖር ይችላል — እነዚህ ለስላሳ ማስታወሻዎች እንጂ ስህተቶች አይደሉም።\n\n\"አዲስ ፕሮጀክት ጨምር\" ን በመጫን አዲስ ፕሮጀክት መጀመር ይችላሉ። የማጣሪያ ምናሌውን በመጠቀም ዝርዝሩን በሁኔታ፣ በጊዜ፣ በገንዘብ ድጋፍ፣ በአገልግሎት ዘርፍ፣ በፕሮጀክት መሪ ወይም በድጋፍ አይነት ማጥበብ ይችላሉ። ሰንጠረዡ የአምድ ራስጌዎችን በመጫን መደርደር ይቻላል፣ ከዳሽቦርድ ውጭ ቅጂ ካስፈለገዎት ወደ ውጭ መላክም ይችላሉ። ማንኛውንም ረድፍ ላይ በመጫን ወደዚያ ፕሮጀክት ገጽ ይሂዱ።"
+        },
+        {
+          "heading": "መስኮቹ በዝርዝር",
+          "body": "በሰንጠረዡ ውስጥ ያለው እያንዳንዱ ረድፍ የአንድ ፕሮጀክት አጭር ማጠቃለያ ነው — ስሙ፣ ሁኔታው እና ሌሎች ቁልፍ ዝርዝሮች በአንድ እይታ። የአንድን ፕሮጀክት ሙሉ ዝርዝሮች ለማየት ወይም ለመቀየር ወደ እሱ ይግቡ፤ ይህ የዝርዝር ገጽ ራሱ የሚሞላ መስክ የለውም፣ የሚያዩትን ለማጥበብ የሚያገለግሉ ማጣሪያዎች ብቻ ነው ያለው።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆነው",
+          "body": "እስካሁን ምንም ፕሮጀክቶች ከሌሉ፣ በሰንጠረዡ ምትክ ወዳጃዊ መልእክት እና \"አዲስ ፕሮጀክት ጨምር\" የሚል ቁልፍ ያያሉ፣ ስለዚህ ቀጥሎ ምን ማድረግ እንዳለብዎት ሳያውቁ ባዶ ገጽ ላይ ተጣብቀው አይቀሩም።"
+        }
+      ]
+    }
+  }
+}

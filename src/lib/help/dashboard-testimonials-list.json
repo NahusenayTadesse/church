@@ -1,0 +1,69 @@
+{
+  "path": "/dashboard/testimonials",
+  "title": "Testimonials",
+  "summary": "See all the personal stories and quotes submitted for the public website, and manage which ones are shared.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This page lists every testimonial or story that has been recorded — things like a member sharing how a ministry program changed their life. From here you can see which stories are ready to publish, which are still awaiting permission, and open any story to review or edit it."
+    },
+    {
+      "heading": "What you'll see at the top",
+      "body": "Near the top you'll see a heading like \"No of Stories: 8\" along with a summary such as \"5 published · 6 ready · 2 awaiting permission\". This tells you how many stories are live on the website, how many are complete and ready to go, and how many still need the storyteller's permission recorded before they can be shared.\n\nIf any published stories are missing recorded permission from the storyteller, a warning banner will appear reminding you to go back and review them — publishing someone's story without their permission on file should be avoided."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "Click \"Add New Story\" to record a new testimonial.\n\nUse the Filter menu to narrow the list — for example, by whether it's published, whether permission has been recorded, what the story is linked to (an event, project, or ministry area), or whether it has a photo attached.\n\nThe list is a table — click any row to open that story's full details.\n\nIf there are no stories yet, you'll see a short message with an \"Add New Story\" button to get started."
+    },
+    {
+      "heading": "Good to know",
+      "body": "A story can be saved and kept private for a while — it doesn't need to be published right away. The system is designed to make sure permission is recorded before anything is published, so you can safely gather stories first and decide about publishing later."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Testimonials",
+      "summary": "See all the personal stories and quotes submitted for the public website, and manage which ones are shared.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This page lists every testimonial or story that has been recorded — things like a member sharing how a ministry program changed their life. From here you can see which stories are ready to publish, which are still awaiting permission, and open any story to review or edit it."
+        },
+        {
+          "heading": "What you'll see at the top",
+          "body": "Near the top you'll see a heading like \"No of Stories: 8\" along with a summary such as \"5 published · 6 ready · 2 awaiting permission\". This tells you how many stories are live on the website, how many are complete and ready to go, and how many still need the storyteller's permission recorded before they can be shared.\n\nIf any published stories are missing recorded permission from the storyteller, a warning banner will appear reminding you to go back and review them — publishing someone's story without their permission on file should be avoided."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "Click \"Add New Story\" to record a new testimonial.\n\nUse the Filter menu to narrow the list — for example, by whether it's published, whether permission has been recorded, what the story is linked to (an event, project, or ministry area), or whether it has a photo attached.\n\nThe list is a table — click any row to open that story's full details.\n\nIf there are no stories yet, you'll see a short message with an \"Add New Story\" button to get started."
+        },
+        {
+          "heading": "Good to know",
+          "body": "A story can be saved and kept private for a while — it doesn't need to be published right away. The system is designed to make sure permission is recorded before anything is published, so you can safely gather stories first and decide about publishing later."
+        }
+      ]
+    },
+    "am": {
+      "title": "ምስክርነቶች",
+      "summary": "ለህዝባዊ ድህረ ገጹ የቀረቡ ሁሉንም የግል ታሪኮችና ጥቅሶች ይመልከቱ፣ የትኞቹ እንደሚጋሩም ያስተዳድሩ።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምንድን ነው",
+          "body": "ይህ ገጽ የተመዘገበውን እያንዳንዱን ምስክርነት ወይም ታሪክ ይዘረዝራል — ለምሳሌ አንድ አባል የአገልግሎት ፕሮግራም ህይወታቸውን እንዴት እንደለወጠው ማካፈል። ከዚህ ገጽ የትኞቹ ታሪኮች ለማተም ዝግጁ እንደሆኑ፣ የትኞቹ ገና ፍቃድ እየጠበቁ እንደሆኑ ማየት እና ማንኛውንም ታሪክ ከፍቶ መከለስ ወይም ማርትዕ ይችላሉ።"
+        },
+        {
+          "heading": "ከላይ የሚታየው",
+          "body": "በአናቱ ላይ እንደ \"No of Stories: 8\" ያለ ርዕስ እና እንደ \"5 published · 6 ready · 2 awaiting permission\" ያለ ማጠቃለያ ያገኛሉ። ይህ ስንት ታሪኮች በድህረ ገጹ ላይ ቀርበው እንደሚታዩ፣ ስንቶቹ ተጠናቀው ለመጠቀም ዝግጁ እንደሆኑ፣ እና ስንቶቹ ከመጋራታቸው በፊት የተራኪውን ፍቃድ መመዝገብ እንደሚያስፈልጋቸው ያሳያል።\n\nየታተሙ ታሪኮች ከተራኪው የተመዘገበ ፍቃድ ከጎደላቸው፣ ተመልሰው እንዲከልሱ የሚያሳስብ የማስጠንቀቂያ ባነር ይታያል — የአንድን ሰው ታሪክ ያለ ፍቃዳቸው በመዝገብ ላይ ማተም መወገድ አለበት።"
+        },
+        {
+          "heading": "እዚህ ገጽ ላይ ምን ማድረግ ይችላሉ",
+          "body": "አዲስ ምስክርነት ለመመዝገብ \"Add New Story\" ይጫኑ።\n\nዝርዝሩን ለማጥበብ የFilter ምናሌውን ይጠቀሙ — ለምሳሌ በታተመ/ባልታተመ፣ ፍቃድ በተመዘገበ/ባልተመዘገበ፣ ታሪኩ ከምን ጋር እንደተያያዘ (ዝግጅት፣ ፕሮጀክት ወይም የአገልግሎት ዘርፍ)፣ ወይም ፎቶ ካለው/ከሌለው በመመስረት ማጣራት ይችላሉ።\n\nዝርዝሩ ሠንጠረዥ ነው — የዚያን ታሪክ ሙሉ ዝርዝር ለመክፈት ማንኛውንም ረድፍ ይጫኑ።\n\nገና ምንም ታሪክ ከሌለ፣ ለመጀመር አጭር መልእክት እና \"Add New Story\" የሚል ቁልፍ ያያሉ።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆኑ ነገሮች",
+          "body": "አንድ ታሪክ ተቀምጦ ለተወሰነ ጊዜ በግል ብቻ ሊቆይ ይችላል — ወዲያውኑ መታተም አያስፈልገውም። ስርዓቱ ማንኛውም ነገር ከመታተሙ በፊት ፍቃድ መመዝገቡን ለማረጋገጥ የተነደፈ ነው፣ ስለዚህ መጀመሪያ ታሪኮችን በደህና መሰብሰብ እና ስለ ማተም በኋላ መወሰን ይችላሉ።"
+        }
+      ]
+    }
+  }
+}

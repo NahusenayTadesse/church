@@ -1,0 +1,69 @@
+{
+  "path": "/dashboard/blog/areas",
+  "title": "Manage Ministry Areas",
+  "summary": "Add, edit, and delete \"Ministry Areas\" — the tags that show which ministry or department a piece of content belongs to.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "Ministry Areas are tags that describe which ministry or department a piece of content relates to — for example, \"Youth,\" \"Missions,\" or \"Women's Ministry.\" This page is where you create and manage that list. The Ministry Areas you set up here appear as choices in the \"Ministry Area\" dropdown found on many other forms throughout the dashboard — including resources, events, books, projects, galleries, testimonials, and team member forms."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "You can create a new Ministry Area, search through the existing ones, edit an area's name or description, or delete one you no longer need."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "Add New Ministry Area (button) — opens a small form with two fields: Name (required, a short label for the ministry, such as \"Youth\") and Description (required, a sentence explaining what this ministry area covers). Press the add button to save it.\n\nThe table below lists every Ministry Area that exists, with its Name (click to edit), an Edit button (pencil icon), and a Delete button (trash can icon). A search box above the table lets you quickly find a specific area by typing part of its name."
+    },
+    {
+      "heading": "Good to know",
+      "body": "Because Ministry Areas are used across so many different parts of the dashboard — resources, events, books, projects, galleries, testimonials, and team profiles — deleting one can affect content in several sections at once. Deleting always asks for confirmation first and, once confirmed, is permanent and cannot be undone, so double-check before removing an area that might still be in use elsewhere."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Manage Ministry Areas",
+      "summary": "Add, edit, and delete \"Ministry Areas\" — the tags that show which ministry or department a piece of content belongs to.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "Ministry Areas are tags that describe which ministry or department a piece of content relates to — for example, \"Youth,\" \"Missions,\" or \"Women's Ministry.\" This page is where you create and manage that list. The Ministry Areas you set up here appear as choices in the \"Ministry Area\" dropdown found on many other forms throughout the dashboard — including resources, events, books, projects, galleries, testimonials, and team member forms."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "You can create a new Ministry Area, search through the existing ones, edit an area's name or description, or delete one you no longer need."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "Add New Ministry Area (button) — opens a small form with two fields: Name (required, a short label for the ministry, such as \"Youth\") and Description (required, a sentence explaining what this ministry area covers). Press the add button to save it.\n\nThe table below lists every Ministry Area that exists, with its Name (click to edit), an Edit button (pencil icon), and a Delete button (trash can icon). A search box above the table lets you quickly find a specific area by typing part of its name."
+        },
+        {
+          "heading": "Good to know",
+          "body": "Because Ministry Areas are used across so many different parts of the dashboard — resources, events, books, projects, galleries, testimonials, and team profiles — deleting one can affect content in several sections at once. Deleting always asks for confirmation first and, once confirmed, is permanent and cannot be undone, so double-check before removing an area that might still be in use elsewhere."
+        }
+      ]
+    },
+    "am": {
+      "title": "የአገልግሎት ዘርፎችን ያስተዳድሩ",
+      "summary": "\"የአገልግሎት ዘርፎችን\" ያክሉ፣ ያርትዑ፣ እና ይሰርዙ — አንድ ይዘት የየትኛው ሚኒስትሪ ወይም ክፍል እንደሆነ የሚያሳዩ መለያዎች ናቸው።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "የአገልግሎት ዘርፎች አንድ ይዘት ከየትኛው ሚኒስትሪ ወይም ክፍል ጋር እንደሚዛመድ የሚገልጹ መለያዎች ናቸው — ለምሳሌ፣ \"ወጣቶች፣\" \"ሚሲዮን፣\" ወይም \"የሴቶች አገልግሎት።\" ይህ ገጽ ያንን ዝርዝር የሚፈጥሩበት እና የሚያስተዳድሩበት ነው። እዚህ የሚያዘጋጇቸው የአገልግሎት ዘርፎች በዳሽቦርድ ውስጥ በብዙ ሌሎች ቅጾች ላይ በሚገኘው \"የአገልግሎት ዘርፍ\" ተቆልቋይ ዝርዝር ውስጥ እንደ አማራጭ ይታያሉ — ይህም ግብዓቶችን፣ ዝግጅቶችን፣ መጽሐፍትን፣ ፕሮጀክቶችን፣ ጋለሪዎችን፣ ምስክርነቶችን፣ እና የቡድን አባላት ቅጾችን ያካትታል።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "አዲስ የአገልግሎት ዘርፍ መፍጠር፣ ነባሮቹን መፈለግ፣ የዘርፉን ስም ወይም መግለጫ ማርትዕ፣ ወይም ከአሁን በኋላ የማይፈልጉትን መሰረዝ ይችላሉ።"
+        },
+        {
+          "heading": "መስኮቹ በዝርዝር",
+          "body": "አዲስ የአገልግሎት ዘርፍ ጨምር (ቁልፍ) — ሁለት መስኮች ያሉት ትንሽ ቅጽ ይከፍታል፦ ስም (አስፈላጊ፣ ለሚኒስትሪው አጭር መለያ፣ ለምሳሌ \"ወጣቶች\") እና መግለጫ (አስፈላጊ፣ ይህ የአገልግሎት ዘርፍ ምን እንደሚሸፍን የሚያብራራ ዓረፍተ ነገር)። ለማስቀመጥ የመጨመሪያ ቁልፉን ይጫኑ።\n\nከስር ያለው ሠንጠረዥ ያሉትን ሁሉንም የአገልግሎት ዘርፎች ስማቸውን (ለማርትዕ ጠቅ ያድርጉ)፣ የአርትዕ ቁልፍ (እርሳስ አዶ)፣ እና የመሰረዣ ቁልፍ (የቆሻሻ ቅርጫት አዶ) ጋር ይዘረዝራል። ከሠንጠረዡ በላይ ያለ የፍለጋ ሳጥን የተወሰነ ዘርፍ የስሙን ክፍል በመተየብ በፍጥነት እንዲያገኙ ያስችልዎታል።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆነው",
+          "body": "የአገልግሎት ዘርፎች በዳሽቦርድ ውስጥ በብዙ የተለያዩ ክፍሎች ውስጥ ጥቅም ላይ ስለሚውሉ — ግብዓቶች፣ ዝግጅቶች፣ መጽሐፍት፣ ፕሮጀክቶች፣ ጋለሪዎች፣ ምስክርነቶች፣ እና የቡድን መገለጫዎች — አንዱን መሰረዝ በአንድ ጊዜ በበርካታ ክፍሎች ውስጥ ያለ ይዘት ላይ ተጽዕኖ ሊያሳድር ይችላል። መሰረዝ ሁልጊዜ መጀመሪያ ማረጋገጫ ይጠይቃል፣ አንዴ ከተረጋገጠ በኋላ ደግሞ ቋሚ ሲሆን ሊቀለበስ አይችልም፣ ስለዚህ አሁንም በሌላ ቦታ ጥቅም ላይ ሊውል የሚችል ዘርፍ ከማስወገድዎ በፊት እንደገና ያረጋግጡ።"
+        }
+      ]
+    }
+  }
+}

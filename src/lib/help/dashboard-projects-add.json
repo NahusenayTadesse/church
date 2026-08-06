@@ -1,0 +1,69 @@
+{
+  "match": "/dashboard/projects/add-project",
+  "title": "Add a Project",
+  "summary": "A form for creating a new project, covering its basic info, timeline, work description, people involved, reach, funding, and media.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This page is where you create a brand new project from scratch — filling in everything about it before it appears on the projects list and, if you choose, on the public website."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "Basics: Project Name (required) and Slug (required, the web-address-friendly version of the name — this fills in automatically from the name unless you type your own). Ministry Area (an optional category). Short Description (required — the summary shown on cards and listings). Full Description (a rich text editor for the complete write-up). Featured Image (required — the main photo for the project).\n\nTimeline: Status (required — for example planned, active, or completed). Start Date becomes required once you set Status to active. End Date becomes required once you set Status to completed — leave it blank for a project that's still ongoing. Location is a free-text field for where the project takes place.\n\nThe Work: Goal (a short description of the project's aim), Activities (rich text describing what's being done). Impact & Results (rich text) only appears once the project has actually started — that is, once Status is anything other than planned.\n\nPeople: Project Leader (choose from a dropdown of team members). Partners — tick which existing partner organizations are involved in this project; each partner's specific role gets set later from the project's own page. If no partner organizations exist yet, you'll see a note asking you to add one first.\n\nReach: Beneficiaries (a description of who the project serves), Target (a numeric goal for how many people you hope to reach), and Reached So Far (only shown once the project has started).\n\nFunding: Funding Goal (leave blank if this project isn't raising money). Already Raised is only for money raised before the project was added to the website — donations made through the site itself are counted automatically, so don't re-enter those here. Currency sets which currency the amounts are in.\n\nWays To Support: three checkboxes — Donations, Volunteers, and Prayer — turn on whichever kinds of support you want to invite for this project.\n\nMedia: Gallery Images (upload several photos), Proposal or Report (an optional single document upload), and a \"Feature on the homepage\" checkbox."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "Fill in the fields that apply to your project — required fields are marked, and some fields only appear once earlier choices make them relevant (like Start Date once Status is active). When you're ready, click \"Add Project\" to save it. The project will then appear on the projects list."
+    },
+    {
+      "heading": "Good to know",
+      "body": "If you try to leave this page while you have unsaved changes, you'll be asked to confirm first, so you don't lose your work by accident."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Add a Project",
+      "summary": "A form for creating a new project, covering its basic info, timeline, work description, people involved, reach, funding, and media.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This page is where you create a brand new project from scratch — filling in everything about it before it appears on the projects list and, if you choose, on the public website."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "Basics: Project Name (required) and Slug (required, the web-address-friendly version of the name — this fills in automatically from the name unless you type your own). Ministry Area (an optional category). Short Description (required — the summary shown on cards and listings). Full Description (a rich text editor for the complete write-up). Featured Image (required — the main photo for the project).\n\nTimeline: Status (required — for example planned, active, or completed). Start Date becomes required once you set Status to active. End Date becomes required once you set Status to completed — leave it blank for a project that's still ongoing. Location is a free-text field for where the project takes place.\n\nThe Work: Goal (a short description of the project's aim), Activities (rich text describing what's being done). Impact & Results (rich text) only appears once the project has actually started — that is, once Status is anything other than planned.\n\nPeople: Project Leader (choose from a dropdown of team members). Partners — tick which existing partner organizations are involved in this project; each partner's specific role gets set later from the project's own page. If no partner organizations exist yet, you'll see a note asking you to add one first.\n\nReach: Beneficiaries (a description of who the project serves), Target (a numeric goal for how many people you hope to reach), and Reached So Far (only shown once the project has started).\n\nFunding: Funding Goal (leave blank if this project isn't raising money). Already Raised is only for money raised before the project was added to the website — donations made through the site itself are counted automatically, so don't re-enter those here. Currency sets which currency the amounts are in.\n\nWays To Support: three checkboxes — Donations, Volunteers, and Prayer — turn on whichever kinds of support you want to invite for this project.\n\nMedia: Gallery Images (upload several photos), Proposal or Report (an optional single document upload), and a \"Feature on the homepage\" checkbox."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "Fill in the fields that apply to your project — required fields are marked, and some fields only appear once earlier choices make them relevant (like Start Date once Status is active). When you're ready, click \"Add Project\" to save it. The project will then appear on the projects list."
+        },
+        {
+          "heading": "Good to know",
+          "body": "If you try to leave this page while you have unsaved changes, you'll be asked to confirm first, so you don't lose your work by accident."
+        }
+      ]
+    },
+    "am": {
+      "title": "ፕሮጀክት ጨምር",
+      "summary": "አዲስ ፕሮጀክት ለመፍጠር የሚያገለግል ቅጽ ሲሆን መሰረታዊ መረጃውን፣ የጊዜ ሰሌዳውን፣ የስራ መግለጫውን፣ የተሳተፉ ሰዎችን፣ ተደራሽነትን፣ የገንዘብ ድጋፍን እና ሚዲያን ያካትታል።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "ይህ ገጽ ከባዶ ጀምሮ አዲስ ፕሮጀክት የሚፈጥሩበት ነው — በፕሮጀክቶች ዝርዝር ውስጥ እና እርስዎ ከመረጡ በህዝባዊ ድረ-ገጽ ላይ ከመታየቱ በፊት ስለ እሱ ያለውን ሁሉንም ነገር ይሞላሉ።"
+        },
+        {
+          "heading": "መስኮቹ በዝርዝር",
+          "body": "መሰረታዊ መረጃ፡ የፕሮጀክት ስም (የግድ ያስፈልጋል) እና ስላግ (የግድ ያስፈልጋል፣ ለድረ-ገጽ አድራሻ ተስማሚ የስሙ ቅጂ — ራስዎ ካልጻፉ በስተቀር ይህ ከስሙ በራስ-ሰር ይሞላል)። የአገልግሎት ዘርፍ (አማራጭ ምድብ)። አጭር መግለጫ (የግድ ያስፈልጋል — በካርዶች እና ዝርዝሮች ላይ የሚታየው ማጠቃለያ)። ሙሉ መግለጫ (ለሙሉ ጽሁፍ የሚያገለግል የሪች ቴክስት አርታዒ)። ተለይቶ የሚታይ ምስል (የግድ ያስፈልጋል — የፕሮጀክቱ ዋና ፎቶ)።\n\nየጊዜ ሰሌዳ፡ ሁኔታ (የግድ ያስፈልጋል — ለምሳሌ የታቀደ፣ ንቁ ወይም የተጠናቀቀ)። ሁኔታን ወደ ንቁ ካደረጉ የመጀመሪያ ቀን የግድ ያስፈልጋል። ሁኔታን ወደ ተጠናቀቀ ካደረጉ የመጨረሻ ቀን የግድ ያስፈልጋል — ገና እየተካሄደ ላለ ፕሮጀክት ባዶ ይተውት። ቦታ ፕሮጀክቱ የሚካሄድበትን ቦታ ለመግለጽ ነጻ ጽሁፍ መስክ ነው።\n\nስራው፡ ግብ (ስለ ፕሮጀክቱ አላማ አጭር መግለጫ)፣ ተግባራት (ምን እየተከናወነ እንዳለ የሚገልጽ ሪች ቴክስት)። ተጽዕኖ እና ውጤቶች (ሪች ቴክስት) የሚታየው ፕሮጀክቱ በትክክል ከጀመረ በኋላ ብቻ ነው — ማለትም ሁኔታው ከታቀደ ውጭ የሆነ ማንኛውም ነገር ሲሆን።\n\nሰዎች፡ የፕሮጀክት መሪ (ከቡድን አባላት ዝርዝር ውስጥ ይምረጡ)። አጋሮች — በዚህ ፕሮጀክት ውስጥ የተሳተፉትን ነባር አጋር ድርጅቶች ምልክት ያድርጉ፤ የእያንዳንዱ አጋር ልዩ ሚና በኋላ ላይ ከፕሮጀክቱ ገጽ ራሱ ይዘጋጃል። እስካሁን ምንም አጋር ድርጅቶች ከሌሉ፣ መጀመሪያ አንድ እንዲጨምሩ የሚጠይቅ ማስታወሻ ያያሉ።\n\nተደራሽነት፡ ተጠቃሚዎች (ፕሮጀክቱ የሚያገለግላቸውን ሰዎች መግለጫ)፣ ኢላማ (ለመድረስ የሚፈልጉት የሰዎች ቁጥር ግብ)፣ እና እስካሁን የተደረሰው (የሚታየው ፕሮጀክቱ ከጀመረ በኋላ ብቻ ነው።\n\nየገንዘብ ድጋፍ፡ የገንዘብ ግብ (ይህ ፕሮጀክት ገንዘብ የማያሰባስብ ከሆነ ባዶ ይተውት)። እስካሁን የተሰበሰበው ፕሮጀክቱ ወደ ድረ-ገጹ ከመጨመሩ በፊት ስለተሰበሰበ ገንዘብ ብቻ ነው — በድረ-ገጹ በኩል የተደረጉ ልገሳዎች በራስ-ሰር ይቆጠራሉ፣ ስለዚህ እነዚያን በድጋሚ እዚህ አያስገቡ። ገንዘብ ገንዘቡ በየትኛው ገንዘብ ዓይነት እንደሆነ ያዘጋጃል።\n\nየድጋፍ መንገዶች፡ ሶስት ሳጥኖች — ልገሳዎች፣ በጎ ፈቃደኞች እና ጸሎት — ለዚህ ፕሮጀክት መጋበዝ የሚፈልጓቸውን የድጋፍ አይነቶች ያብሩ።\n\nሚዲያ፡ የጋለሪ ምስሎች (ብዙ ፎቶዎችን ይስቀሉ)፣ ሀሳብ ወይም ሪፖርት (አማራጭ የነጠላ ሰነድ መስቀያ)፣ እና \"በመነሻ ገጽ ላይ አድምቅ\" ሳጥን።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "ለፕሮጀክትዎ የሚስማሙ መስኮችን ይሙሉ — የግድ የሚያስፈልጉ መስኮች ምልክት ተደርጎባቸዋል፣ አንዳንድ መስኮችም ቀደም ያሉ ምርጫዎች ተገቢ ካደረጓቸው በኋላ ብቻ ይታያሉ (እንደ ሁኔታ ንቁ ሲሆን የሚታየው የመጀመሪያ ቀን)። ዝግጁ ሲሆኑ ለማስቀመጥ \"ፕሮጀክት ጨምር\" የሚለውን ይጫኑ። ፕሮጀክቱ ከዚያ በፕሮጀክቶች ዝርዝር ውስጥ ይታያል።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆነው",
+          "body": "ያልተቀመጡ ለውጦች እያሉዎት ይህን ገጽ ለቅቀው ለመሄድ ከሞከሩ፣ ስራዎን በስህተት እንዳያጡ መጀመሪያ እንዲያረጋግጡ ይጠየቃሉ።"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "path": "/dashboard/messages",
+  "title": "Contact Messages",
+  "summary": "View and manage the messages people send through the \"Contact Us\" form on the public website.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "When someone fills out the \"Contact Us\" form on the public website, their message shows up here. This page is your inbox for those messages — you can read them, mark them as read, copy someone's phone number or email to reach out, and delete old ones."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "Use the Filter menu to narrow the list down by Subject, or to show only messages that haven't been read yet.\n\nThe list is a searchable table showing each message's number, the sender's Name, Phone (click it to copy the number), Email (click it to copy the address), Subject, Address, and Message. Long messages are shown truncated with an option to expand and read the full text.\n\nYou'll also see when the message was Submitted, its Read status, and a Delete button (which asks you to confirm before removing the message)."
+    },
+    {
+      "heading": "Marking messages as read",
+      "body": "Each message shows a \"Read\" badge once you've opened and reviewed it, or a button you can click to mark it as read yourself. This is meant to help your team keep track of which messages still need a reply."
+    },
+    {
+      "heading": "Good to know",
+      "body": "Marking a message as read is a one-time action — once a message has been marked read, the button to mark it read again disappears, since it's no longer needed. Clicking the phone number or email address copies it to your clipboard, which is handy when you want to call or email someone back without retyping their details."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Contact Messages",
+      "summary": "View and manage the messages people send through the \"Contact Us\" form on the public website.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "When someone fills out the \"Contact Us\" form on the public website, their message shows up here. This page is your inbox for those messages — you can read them, mark them as read, copy someone's phone number or email to reach out, and delete old ones."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "Use the Filter menu to narrow the list down by Subject, or to show only messages that haven't been read yet.\n\nThe list is a searchable table showing each message's number, the sender's Name, Phone (click it to copy the number), Email (click it to copy the address), Subject, Address, and Message. Long messages are shown truncated with an option to expand and read the full text.\n\nYou'll also see when the message was Submitted, its Read status, and a Delete button (which asks you to confirm before removing the message)."
+        },
+        {
+          "heading": "Marking messages as read",
+          "body": "Each message shows a \"Read\" badge once you've opened and reviewed it, or a button you can click to mark it as read yourself. This is meant to help your team keep track of which messages still need a reply."
+        },
+        {
+          "heading": "Good to know",
+          "body": "Marking a message as read is a one-time action — once a message has been marked read, the button to mark it read again disappears, since it's no longer needed. Clicking the phone number or email address copies it to your clipboard, which is handy when you want to call or email someone back without retyping their details."
+        }
+      ]
+    },
+    "am": {
+      "title": "የመልእክት ሳጥን",
+      "summary": "ሰዎች በህዝባዊ ድህረ ገጹ ላይ ባለው \"አግኙን\" ቅጽ የሚልኩትን መልእክቶች ይመልከቱ እና ያስተዳድሩ።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምንድን ነው",
+          "body": "አንድ ሰው በህዝባዊ ድህረ ገጹ ላይ ያለውን \"አግኙን\" ቅጽ ሲሞላ፣ መልእክታቸው እዚህ ይታያል። ይህ ገጽ ለእነዚህ መልእክቶች የመልእክት ሳጥንዎ ነው — ማንበብ፣ እንደተነበቡ ምልክት ማድረግ፣ ለመልስ የስልክ ቁጥር ወይም ኢሜይል ኮፒ ማድረግ፣ እና አሮጌዎችን መሰረዝ ይችላሉ።"
+        },
+        {
+          "heading": "እዚህ ገጽ ላይ ምን ማድረግ ይችላሉ",
+          "body": "ዝርዝሩን በርዕስ ለማጥበብ ወይም ገና ያልተነበቡ መልእክቶች ብቻ እንዲታዩ የFilter ምናሌውን ይጠቀሙ።\n\nዝርዝሩ እያንዳንዱን መልእክት ቁጥር፣ የላኪውን ስም፣ ስልክ (ቁጥሩን ለመቅዳት ይጫኑት)፣ ኢሜይል (አድራሻውን ለመቅዳት ይጫኑት)፣ ርዕስ፣ አድራሻ፣ እና መልእክት የሚያሳይ ሊፈለግ የሚችል ሠንጠረዥ ነው። ረጅም መልእክቶች ተቆርጠው ይታያሉ፣ ሙሉውን ጽሑፍ ለማንበብ የማስፋፊያ አማራጭ ያለው።\n\nመልእክቱ መቼ እንደተላከ፣ የንባብ ሁኔታውን፣ እና (መልእክቱን ከማስወገዱ በፊት እንዲያረጋግጡ የሚጠይቅ) የDelete ቁልፍ ያያሉ።"
+        },
+        {
+          "heading": "መልእክቶችን እንደተነበቡ ምልክት ማድረግ",
+          "body": "እያንዳንዱ መልእክት ከፍተው ከከለሱት በኋላ \"Read\" የሚል ምልክት ያሳያል፣ ወይም እራስዎ እንደተነበበ ምልክት ለማድረግ የሚጫኑት ቁልፍ ይኖራል። ይህ ቡድንዎ የትኞቹ መልእክቶች ገና ምላሽ እንደሚያስፈልጋቸው እንዲከታተል ለማገዝ የታሰበ ነው።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆኑ ነገሮች",
+          "body": "መልእክትን እንደተነበበ ምልክት ማድረግ አንድ ጊዜ ብቻ የሚደረግ ተግባር ነው — መልእክቱ እንደተነበበ ምልክት ከተደረገ በኋላ፣ እንደገና ምልክት ለማድረግ የሚያስችለው ቁልፍ ስለማያስፈልግ ይጠፋል። የስልክ ቁጥሩን ወይም ኢሜይል አድራሻውን መጫን ወደ ክሊፕቦርድዎ ይቀዳዋል፣ ይህም ዝርዝሮቻቸውን እንደገና ሳይተይቡ ደውለው ወይም ኢሜይል ልከው ምላሽ ለመስጠት ሲፈልጉ ጠቃሚ ነው።"
+        }
+      ]
+    }
+  }
+}

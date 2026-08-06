@@ -1,0 +1,69 @@
+{
+  "match": "/dashboard/galleries/single",
+  "title": "Gallery Detail",
+  "summary": "The full page for one gallery — view and edit its details, and manage the individual photos and videos inside it.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This is the home page for a single gallery. It shows the gallery's own information (title, description, what it's linked to) along with every individual photo and video that's part of it."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "Click \"Edit\" to switch into an editable form (the button becomes \"Back\" to return to the read-only view). Click \"Delete\" to remove the whole gallery — you'll be asked to confirm first, and you'll return to the galleries list afterward.\n\nIf the gallery is published but has no photos or videos in it yet, a warning will suggest either adding some media or unpublishing the gallery until it's ready, so visitors don't land on an empty page.\n\nBelow the gallery's own details, an Items section lets you add, remove, reorder, and caption the individual photos and videos that make up the gallery."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "In the read-only view you'll see the Title, Description, what it's attached to (an Event, Project, or Ministry Area, or \"not attached to anything\" if it stands alone), Captured On date, item counts, whether it's Published, whether it's Featured On Home, and who added or last updated it.\n\nSwitching to Edit mode shows Title, Description, Ministry Area, Event, Project, Captured On, a \"Show on the public site\" checkbox, a \"Feature on the homepage\" checkbox, and a Cover Image upload (which shows the current cover). A \"Save Changes\" button stores your edits."
+    },
+    {
+      "heading": "Good to know",
+      "body": "Changes to the gallery's own details (title, description, and so on) are saved separately from changes to the items inside it — use \"Save Changes\" for the details, and the Items section's own controls for adding, removing, or reordering photos and videos."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Gallery Detail",
+      "summary": "The full page for one gallery — view and edit its details, and manage the individual photos and videos inside it.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This is the home page for a single gallery. It shows the gallery's own information (title, description, what it's linked to) along with every individual photo and video that's part of it."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "Click \"Edit\" to switch into an editable form (the button becomes \"Back\" to return to the read-only view). Click \"Delete\" to remove the whole gallery — you'll be asked to confirm first, and you'll return to the galleries list afterward.\n\nIf the gallery is published but has no photos or videos in it yet, a warning will suggest either adding some media or unpublishing the gallery until it's ready, so visitors don't land on an empty page.\n\nBelow the gallery's own details, an Items section lets you add, remove, reorder, and caption the individual photos and videos that make up the gallery."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "In the read-only view you'll see the Title, Description, what it's attached to (an Event, Project, or Ministry Area, or \"not attached to anything\" if it stands alone), Captured On date, item counts, whether it's Published, whether it's Featured On Home, and who added or last updated it.\n\nSwitching to Edit mode shows Title, Description, Ministry Area, Event, Project, Captured On, a \"Show on the public site\" checkbox, a \"Feature on the homepage\" checkbox, and a Cover Image upload (which shows the current cover). A \"Save Changes\" button stores your edits."
+        },
+        {
+          "heading": "Good to know",
+          "body": "Changes to the gallery's own details (title, description, and so on) are saved separately from changes to the items inside it — use \"Save Changes\" for the details, and the Items section's own controls for adding, removing, or reordering photos and videos."
+        }
+      ]
+    },
+    "am": {
+      "title": "የጋለሪ ዝርዝር",
+      "summary": "ለአንድ ጋለሪ ሙሉ ገጽ — ዝርዝሮቹን ይመልከቱ እና ያርትዑ፣ እና በውስጡ ያሉትን የግል ፎቶዎችና ቪዲዮዎች ያስተዳድሩ።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "ይህ ለአንድ ጋለሪ የመነሻ ገጽ ነው። የጋለሪውን ራሱን መረጃ (ርዕስ፣ መግለጫ፣ ከምን ጋር እንደተያያዘ) ከክፍሉ ከሆኑት እያንዳንዱ የግል ፎቶ እና ቪዲዮ ጋር ያሳያል።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "ወደ ማርትዒያ ቅጽ ለመቀየር \"አርትዕ\" ን ይጫኑ (ቁልፉ ወደ ንባብ-ብቻ እይታ ለመመለስ \"ተመለስ\" ይሆናል)። ጠቅላላውን ጋለሪ ለማስወገድ \"ሰርዝ\" ን ይጫኑ — መጀመሪያ እንዲያረጋግጡ ይጠየቃሉ፣ ከዚያም ወደ ጋለሪዎች ዝርዝር ይመለሳሉ።\n\nጋለሪው ታትሞ ግን እስካሁን ምንም ፎቶዎች ወይም ቪዲዮዎች ከሌሉት፣ ማስጠንቀቂያ ሚዲያ እንዲጨምሩ ወይም ጋለሪው ዝግጁ እስኪሆን ድረስ እንዳያሳትሙት ይጠቁማል፣ ስለዚህ ጎብኚዎች ባዶ ገጽ ላይ አያርፉም።\n\nከጋለሪው ራሱ ዝርዝሮች በታች፣ የንጥሎች ክፍል የክፍሉ ክፍል የሆኑትን የግል ፎቶዎችና ቪዲዮዎች እንዲጨምሩ፣ እንዲያስወግዱ፣ ቅደም ተከተላቸውን እንዲቀይሩ እና መግለጫ እንዲጽፉ ያስችልዎታል።"
+        },
+        {
+          "heading": "መስኮቹ በዝርዝር",
+          "body": "በንባብ-ብቻ እይታ ውስጥ ርዕሱን፣ መግለጫውን፣ ከምን ጋር እንደተያያዘ (ዝግጅት፣ ፕሮጀክት ወይም የአገልግሎት ዘርፍ፣ ወይም ብቻውን ከሆነ \"ከምንም ጋር አልተያያዘም\")፣ የተነሱበት ቀን፣ የንጥል ብዛቶች፣ ታትሟል ወይ የሚለውን፣ በመነሻ ገጽ ላይ ያደምቃል ወይ የሚለውን፣ እና ማን እንደጨመረው ወይም መጨረሻ እንዳዘመነው ያያሉ።\n\nወደ አርትዕ ሁኔታ መቀየር ርዕስ፣ መግለጫ፣ የአገልግሎት ዘርፍ፣ ዝግጅት፣ ፕሮጀክት፣ የተነሱበት ቀን፣ \"በህዝባዊ ድረ-ገጽ ላይ አሳይ\" ሳጥን፣ \"በመነሻ ገጽ ላይ አድምቅ\" ሳጥን፣ እና የሽፋን ምስል መስቀያ (አሁን ያለውን ሽፋን ያሳያል) ያሳያል። \"ለውጦችን አስቀምጥ\" ቁልፍ ለውጦችዎን ያስቀምጣል።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆነው",
+          "body": "የጋለሪው ራሱ ዝርዝሮች (ርዕስ፣ መግለጫ፣ ወዘተ) ለውጦች ከውስጡ ካሉት ንጥሎች ለውጦች ተነጣጥለው ይቀመጣሉ — ለዝርዝሮቹ \"ለውጦችን አስቀምጥ\" ን ይጠቀሙ፣ ፎቶዎችን እና ቪዲዮዎችን ለመጨመር፣ ለማስወገድ ወይም ቅደም ተከተል ለመቀየር ደግሞ የንጥሎች ክፍል የራሱን መቆጣጠሪያዎች ይጠቀሙ።"
+        }
+      ]
+    }
+  }
+}

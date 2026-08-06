@@ -1,0 +1,69 @@
+{
+  "match": "/dashboard/customers/{id}/history",
+  "title": "Customer Order History",
+  "summary": "This page shows the complete order history - every status - for one specific customer.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "Unlike the customer's profile page, which only shows their pending orders, this Order History page shows everything that customer has ever ordered - pending, delivered, and cancelled orders all together. Use it when you need the full picture of someone's ordering activity, for example to answer a question about a past order or to check for a pattern of cancellations."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "A \"Back\" button at the top returns you to that customer's profile page. The heading tells you whose history you are viewing, so you can always confirm you are looking at the right person.\n\nA \"Filter Menu\" lets you narrow the list down to just one Status - for example, show only Cancelled orders for this customer.\n\nThere is also a search box to find a specific order, and an option to export or download the list as a file."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "The table has these columns:\n- # - the row number.\n- Items - the products in the order, with quantities and totals.\n- Status - a colored badge showing the order's state (Pending, Delivered, or Cancelled). Click the column header to sort by status.\n- Ordered On - the date the order was placed. Click the column header to sort by date.\n\nIf this customer has never placed any order at all, you will see a simple message saying so instead of a table."
+    },
+    {
+      "heading": "Good to know",
+      "body": "This page is read-only - you view the history here, but to actually edit an order's details (change its status, products, or payment information), go to the relevant Orders page (Pending, Delivered, Cancelled, or All Orders) and use the Edit pencil there.\n\nBecause this page includes every status at once, it is the best place to get a quick sense of a customer's overall order pattern - for example, whether they frequently cancel orders or reliably complete them."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Customer Order History",
+      "summary": "This page shows the complete order history - every status - for one specific customer.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "Unlike the customer's profile page, which only shows their pending orders, this Order History page shows everything that customer has ever ordered - pending, delivered, and cancelled orders all together. Use it when you need the full picture of someone's ordering activity, for example to answer a question about a past order or to check for a pattern of cancellations."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "A \"Back\" button at the top returns you to that customer's profile page. The heading tells you whose history you are viewing, so you can always confirm you are looking at the right person.\n\nA \"Filter Menu\" lets you narrow the list down to just one Status - for example, show only Cancelled orders for this customer.\n\nThere is also a search box to find a specific order, and an option to export or download the list as a file."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "The table has these columns:\n- # - the row number.\n- Items - the products in the order, with quantities and totals.\n- Status - a colored badge showing the order's state (Pending, Delivered, or Cancelled). Click the column header to sort by status.\n- Ordered On - the date the order was placed. Click the column header to sort by date.\n\nIf this customer has never placed any order at all, you will see a simple message saying so instead of a table."
+        },
+        {
+          "heading": "Good to know",
+          "body": "This page is read-only - you view the history here, but to actually edit an order's details (change its status, products, or payment information), go to the relevant Orders page (Pending, Delivered, Cancelled, or All Orders) and use the Edit pencil there.\n\nBecause this page includes every status at once, it is the best place to get a quick sense of a customer's overall order pattern - for example, whether they frequently cancel orders or reliably complete them."
+        }
+      ]
+    },
+    "am": {
+      "title": "የደንበኛ የትዕዛዝ ታሪክ",
+      "summary": "ይህ ገጽ ለአንድ የተወሰነ ደንበኛ ሙሉ የትዕዛዝ ታሪክ - በሁሉም ሁኔታ - ያሳያል።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምንድን ነው",
+          "body": "በመጠባበቅ ላይ ያሉ ትዕዛዞችን ብቻ ከሚያሳየው የደንበኛው መገለጫ ገጽ በተለየ፣ ይህ የትዕዛዝ ታሪክ ገጽ ያ ደንበኛ ካስገባቸው ትዕዛዞች ሁሉ ያሳያል - በመጠባበቅ ላይ ያሉ፣ የደረሱ፣ እና የተሰረዙ ትዕዛዞች በሙሉ አንድ ላይ። የሰውየውን ሙሉ የትዕዛዝ እንቅስቃሴ ገጽታ ሲፈልጉ ይህንን ይጠቀሙ፣ ለምሳሌ ስለ ያለፈ ትዕዛዝ ላለ ጥያቄ መልስ ለመስጠት ወይም የስረዛ ስርዓተ-ጥለት ለመፈተሽ።"
+        },
+        {
+          "heading": "እዚህ ገጽ ላይ ምን ማድረግ ይችላሉ",
+          "body": "በአናት ላይ ያለው «ተመለስ» አዝራር ወደ ደንበኛው መገለጫ ገጽ ይመልስዎታል። ራስጌው የማን ታሪክ እያዩ እንደሆነ ይነግርዎታል፣ ስለዚህ ትክክለኛውን ሰው እያዩ መሆኑን ሁልጊዜ ማረጋገጥ ይችላሉ።\n\n«የማጣሪያ ምናሌ» ዝርዝሩን ወደ አንድ ሁኔታ ብቻ ለማጥበብ ያስችልዎታል - ለምሳሌ ለዚህ ደንበኛ የተሰረዙ ትዕዛዞችን ብቻ ማሳየት።\n\nየተወሰነ ትዕዛዝ ለማግኘት የፍለጋ ሳጥንም አለ፣ እና ዝርዝሩን እንደ ፋይል ወደ ውጭ ለመላክ ወይም ለማውረድ የሚያስችል ምርጫ።"
+        },
+        {
+          "heading": "መስኮቹ በዝርዝር",
+          "body": "ሠንጠረዡ የሚከተሉት አምዶች አሉት፦\n- # - የረድፉ ቁጥር።\n- Items (እቃዎች) - በትዕዛዙ ውስጥ ያሉ ምርቶች፣ ብዛታቸውና ድምራቸው።\n- Status (ሁኔታ) - የትዕዛዙን ሁኔታ (በመጠባበቅ ላይ፣ ደርሷል፣ ወይም ተሰርዟል) የሚያሳይ ቀለም ያለው ምልክት። በሁኔታ ለመደርደር የአምዱን ራስጌ ይጫኑ።\n- Ordered On (የታዘዘበት ቀን) - ትዕዛዙ የተደረገበት ቀን። በቀን ለመደርደር የአምዱን ራስጌ ይጫኑ።\n\nይህ ደንበኛ ፈጽሞ ምንም ትዕዛዝ ካላደረገ፣ ከሠንጠረዥ ይልቅ ይህንኑ የሚገልጽ ቀላል መልእክት ያያሉ።"
+        },
+        {
+          "heading": "ማወቅ ጥሩ የሆኑ ነገሮች",
+          "body": "ይህ ገጽ ንባብ-ብቻ ነው - ታሪኩን እዚህ ያዩታል፣ ነገር ግን የትዕዛዝን ዝርዝሮች በትክክል ለማርትዕ (ሁኔታውን፣ ምርቶቹን፣ ወይም የክፍያ መረጃውን ለመቀየር)፣ ወደ ተዛማጅ የትዕዛዝ ገጽ (በመጠባበቅ ላይ፣ የደረሱ፣ የተሰረዙ፣ ወይም ሁሉም ትዕዛዞች) ይሂዱና እዚያ ያለውን የእርሳስ አዝራር ይጠቀሙ።\n\nይህ ገጽ ሁሉንም ሁኔታዎች በአንድ ጊዜ ስለሚያካትት፣ የደንበኛውን አጠቃላይ የትዕዛዝ ስርዓተ-ጥለት በፍጥነት ለመረዳት ምርጡ ቦታ ነው - ለምሳሌ በተደጋጋሚ ትዕዛዞችን ይሰርዛሉ ወይንስ በአስተማማኝ ሁኔታ ያጠናቅቃሉ የሚለውን ለማወቅ።"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "match": "/dashboard/blog/single",
+  "title": "Resource Details",
+  "summary": "The full detail page for a single resource — view all its information, edit it in place, manage its extra gallery photos, or delete it.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This page shows everything about one specific resource (article, sermon, teaching, or study) in full detail. You get here by clicking a resource's title or its \"View Details\" action from the Resources list. From here you can review every field that was filled in when the resource was created, make changes to it, manage extra gallery photos attached to it, or delete it entirely."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "At the top of the page you'll see the resource's Title and its featured photo. Below that is a details table showing all of its information, followed by the full article content underneath.\n\nYou can switch into an editable version of the form to make changes, add or remove extra gallery photos, or permanently delete the resource."
+    },
+    {
+      "heading": "The fields and buttons, explained",
+      "body": "Edit (button) — switches the page from the read-only view into an editable form, with the same fields you'd see when adding a new resource (Title, Slug, Category, Ministry Area, Type, Author, Speaker, Excerpt, Content, and so on, depending on the resource type). While editing, this button changes into a \"Back\" button, which simply switches the view back to read-only — it does not automatically discard anything you typed, so use it once you're done reviewing or after saving.\n\nSave Changes (button, shown while editing) — saves any updates you've made to the resource.\n\nDelete (red button) — permanently removes this resource. It asks for confirmation first (\"This action is irreversible\"). Once you confirm, the resource is gone for good and you'll be taken back to the Resources list.\n\nThe read-only details table shows: Title, Slug, Category, Ministry Area, Type, Author, Speaker, Bible References, Excerpt, Status, Published On, Featured On Home (yes/no), Comments (Open or Closed), Views, Video Link, Audio, Download link, Added On, Added By, and Last Updated By. Underneath the table, the full article Content is displayed.\n\nGallery Images section — a separate area below the main details, with its own Edit/Back button, where you can add, remove, or reorder extra photos attached to this resource, separate from the main Featured Image."
+    },
+    {
+      "heading": "Good to know",
+      "body": "Dates on this page (like Published On and Added On) are shown using the Ethiopian calendar rather than the Western calendar. If a date looks different from what you expected, that's normal and intentional — it's not an error.\n\nViews, Added On, Added By, and Last Updated By are all tracked automatically by the system. You cannot type or change these yourself; they update on their own as people view or edit the resource.\n\nDeleting a resource cannot be undone, so make sure you really want to remove it — and consider whether editing its Status to \"draft\" might achieve what you want instead of a permanent delete."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Resource Details",
+      "summary": "The full detail page for a single resource — view all its information, edit it in place, manage its extra gallery photos, or delete it.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This page shows everything about one specific resource (article, sermon, teaching, or study) in full detail. You get here by clicking a resource's title or its \"View Details\" action from the Resources list. From here you can review every field that was filled in when the resource was created, make changes to it, manage extra gallery photos attached to it, or delete it entirely."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "At the top of the page you'll see the resource's Title and its featured photo. Below that is a details table showing all of its information, followed by the full article content underneath.\n\nYou can switch into an editable version of the form to make changes, add or remove extra gallery photos, or permanently delete the resource."
+        },
+        {
+          "heading": "The fields and buttons, explained",
+          "body": "Edit (button) — switches the page from the read-only view into an editable form, with the same fields you'd see when adding a new resource (Title, Slug, Category, Ministry Area, Type, Author, Speaker, Excerpt, Content, and so on, depending on the resource type). While editing, this button changes into a \"Back\" button, which simply switches the view back to read-only — it does not automatically discard anything you typed, so use it once you're done reviewing or after saving.\n\nSave Changes (button, shown while editing) — saves any updates you've made to the resource.\n\nDelete (red button) — permanently removes this resource. It asks for confirmation first (\"This action is irreversible\"). Once you confirm, the resource is gone for good and you'll be taken back to the Resources list.\n\nThe read-only details table shows: Title, Slug, Category, Ministry Area, Type, Author, Speaker, Bible References, Excerpt, Status, Published On, Featured On Home (yes/no), Comments (Open or Closed), Views, Video Link, Audio, Download link, Added On, Added By, and Last Updated By. Underneath the table, the full article Content is displayed.\n\nGallery Images section — a separate area below the main details, with its own Edit/Back button, where you can add, remove, or reorder extra photos attached to this resource, separate from the main Featured Image."
+        },
+        {
+          "heading": "Good to know",
+          "body": "Dates on this page (like Published On and Added On) are shown using the Ethiopian calendar rather than the Western calendar. If a date looks different from what you expected, that's normal and intentional — it's not an error.\n\nViews, Added On, Added By, and Last Updated By are all tracked automatically by the system. You cannot type or change these yourself; they update on their own as people view or edit the resource.\n\nDeleting a resource cannot be undone, so make sure you really want to remove it — and consider whether editing its Status to \"draft\" might achieve what you want instead of a permanent delete."
+        }
+      ]
+    },
+    "am": {
+      "title": "የግብዓት ዝርዝሮች",
+      "summary": "የአንድ ግብዓት ሙሉ ዝርዝር ገጽ — ሁሉንም መረጃው ይመልከቱ፣ በቦታው ላይ ያርትዑ፣ ተጨማሪ የጋለሪ ፎቶዎቹን ያስተዳድሩ፣ ወይም ይሰርዙት።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "ይህ ገጽ ስለ አንድ የተወሰነ ግብዓት (ጽሁፍ፣ ስብከት፣ ትምህርት፣ ወይም ጥናት) ሙሉ ዝርዝር መረጃ ያሳያል። ወደዚህ የሚደርሱት ከግብዓቶች ዝርዝር ውስጥ የግብዓቱን ርዕስ ወይም \"ዝርዝር ይመልከቱ\" የሚለውን ተግባር ጠቅ በማድረግ ነው። ከዚህ ገጽ ግብዓቱ ሲፈጠር የተሞላውን እያንዳንዱን መስክ መገምገም፣ ለውጦችን ማድረግ፣ ከእሱ ጋር የተያያዙ ተጨማሪ የጋለሪ ፎቶዎችን ማስተዳደር፣ ወይም ሙሉ በሙሉ መሰረዝ ይችላሉ።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "በገጹ አናት ላይ የግብዓቱን ርዕስ እና ተለይቶ የቀረበውን ፎቶ ያያሉ። ከዚያ በታች ሁሉንም መረጃውን የሚያሳይ የዝርዝሮች ሠንጠረዥ አለ፣ ከዚያም ከስር ሙሉ የጽሁፍ ይዘቱ ይከተላል።\n\nለውጦችን ለማድረግ ወደ ቅጹ ሊታረም የሚችል ስሪት መቀየር፣ ተጨማሪ የጋለሪ ፎቶዎችን መጨመር ወይም ማስወገድ፣ ወይም ግብዓቱን በቋሚነት መሰረዝ ይችላሉ።"
+        },
+        {
+          "heading": "መስኮቹ እና ቁልፎቹ በዝርዝር",
+          "body": "አርትዕ (ቁልፍ) — ገጹን ከንባብ-ብቻ እይታ ወደ ሊታረም ወደሚችል ቅጽ ይቀይራል፣ አዲስ ግብዓት ሲጨምሩ ከሚያዩዋቸው ጋር ተመሳሳይ መስኮች ጋር (ርዕስ፣ Slug፣ ምድብ፣ የአገልግሎት ዘርፍ፣ ዓይነት፣ ደራሲ፣ ተናጋሪ፣ አጭር ማጠቃለያ፣ ይዘት፣ እና በግብዓቱ ዓይነት ላይ ተመስርተው ሌሎችም)። እያርትዑ ሳሉ፣ ይህ ቁልፍ ወደ \"ተመለስ\" ቁልፍ ይቀየራል፣ ይህም እይታውን ወደ ንባብ-ብቻ ብቻ ይመልሳል — የተየቡትን በራስ-ሰር አያስወግድም፣ ስለዚህ ግምገማዎን ካጠናቀቁ በኋላ ወይም ካስቀመጡ በኋላ ይህን ይጠቀሙ።\n\nለውጦችን አስቀምጥ (ቁልፍ፣ እያርትዑ ሲታይ) — ግብዓቱ ላይ ያደረጓቸውን ማንኛውንም ማዘመኛዎች ያስቀምጣል።\n\nሰርዝ (ቀይ ቁልፍ) — ይህን ግብዓት በቋሚነት ያስወግዳል። መጀመሪያ ማረጋገጫ ይጠይቃል (\"ይህ ተግባር የማይቀለበስ ነው\")። ካረጋገጡ በኋላ ግብዓቱ ለዘላለም ይጠፋል እና ወደ ግብዓቶች ዝርዝር ይመለሳሉ።\n\nየንባብ-ብቻ ዝርዝሮች ሠንጠረዥ የሚያሳየው፡ ርዕስ፣ Slug፣ ምድብ፣ የአገልግሎት ዘርፍ፣ ዓይነት፣ ደራሲ፣ ተናጋሪ፣ የመጽሐፍ ቅዱስ ማጣቀሻዎች፣ አጭር ማጠቃለያ፣ ሁኔታ፣ የታተመበት ቀን፣ በመነሻ ገጽ ላይ ጎላ ያለ (አዎ/አይ)፣ አስተያየቶች (ክፍት ወይም ዝግ)፣ ታይቷል (Views)፣ የቪዲዮ አገናኝ፣ ኦዲዮ፣ የማውረጃ አገናኝ፣ የተጨመረበት ቀን፣ በማን እንደተጨመረ፣ እና በማን መጨረሻ እንደተዘመነ ነው። ከሠንጠረዡ በታች ሙሉው የጽሁፍ ይዘት ይታያል።\n\nየጋለሪ ምስሎች ክፍል — ከዋናዎቹ ዝርዝሮች በታች ያለ የተለየ ቦታ፣ የራሱ የአርትዕ/ተመለስ ቁልፍ ያለው፣ ከዋናው ተለይቶ የቀረበ ምስል ተለይተው ከዚህ ግብዓት ጋር የተያያዙ ተጨማሪ ፎቶዎችን መጨመር፣ ማስወገድ፣ ወይም ቅደም ተከተላቸውን መቀየር የሚችሉበት።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆነው",
+          "body": "በዚህ ገጽ ላይ ያሉ ቀናት (እንደ የታተመበት ቀን እና የተጨመረበት ቀን ያሉ) ከምዕራባዊ ካላንደር ይልቅ በኢትዮጵያ ካላንደር ይታያሉ። አንድ ቀን እርስዎ ከጠበቁት የተለየ ቢመስል፣ ይህ የተለመደና ሆን ተብሎ የተደረገ ነው — ስህተት አይደለም።\n\nታይቷል (Views)፣ የተጨመረበት ቀን፣ በማን እንደተጨመረ፣ እና በማን መጨረሻ እንደተዘመነ ሁሉም በስርዓቱ ራስ-ሰር የሚከታተሉ ናቸው። እርስዎ በእጅ መተየብ ወይም መቀየር አይችሉም፤ ሰዎች ግብዓቱን ሲመለከቱ ወይም ሲያርትዑ በራሳቸው ይዘመናሉ።\n\nግብዓት መሰረዝ ሊቀለበስ አይችልም፣ ስለዚህ በእርግጥ ማስወገድ እንደሚፈልጉ እርግጠኛ ይሁኑ — እንዲሁም ከቋሚ መሰረዝ ይልቅ ሁኔታውን ወደ \"ረቂቅ\" ማርትዕ የሚፈልጉትን ውጤት ሊሰጥ እንደሚችል ያስቡበት።"
+        }
+      ]
+    }
+  }
+}

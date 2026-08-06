@@ -1,0 +1,81 @@
+{
+  "match": "/dashboard/team/single",
+  "title": "Team Member Profile",
+  "summary": "View and edit one person's profile, manage their ministry areas and social links, and see where they're involved.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This page shows everything on file for one team member — their contact details, biography, roles, and more. From here you can review their profile, make changes, hide them from the public site, or remove them entirely if appropriate."
+    },
+    {
+      "heading": "The buttons at the top",
+      "body": "Edit — switches the page into edit mode so you can change details. While editing, this button changes to \"Back\", which returns you to the read-only view.\n\nHide from site — only appears when the profile is currently published. Clicking it unpublishes the profile (removes it from the public website) without deleting anything, so you can bring it back later.\n\nDelete — permanently removes the profile. You'll be asked to confirm first.\n\nIf this person is linked to other records in the system (for example, they're listed as the author of some content), you'll see a notice explaining that they can't be deleted until those records are reassigned to someone else. In that case, hiding the profile instead of deleting it is usually the better option."
+    },
+    {
+      "heading": "What you'll see in the read-only view",
+      "body": "Name, Position, Email, Phone, Login Account (if linked), Areas of Expertise, Roles (Executive/Speaker/Team member), Published status (Yes/No), Sort Order, Added On, Added By, and Last Updated By — along with their full Biography.\n\nIf the profile is not currently published, a reminder note tells you it's hidden from the public website, but it will still show up as an option in dropdown menus elsewhere in the dashboard (for example, when assigning a speaker to an event)."
+    },
+    {
+      "heading": "Editing the profile",
+      "body": "In edit mode you can change the Full Name, Position, Biography, Public Email, Phone, Login Account, the Executive/Speaker/Published checkboxes, Sort Order, and upload a new Photo (the current photo is shown for reference). Click \"Save Changes\" when you're done.\n\nFurther down the page you'll also find separate sections for managing this person's Social Links and their Involvement — for example, which events or projects they're connected to."
+    },
+    {
+      "heading": "Good to know",
+      "body": "The \"Ministry areas\" section has its own checkboxes and its own \"Save areas\" button, separate from the main profile edit form. If you change both the main details and the ministry areas, remember to save each one separately — clicking \"Save Changes\" up top will not save changes made to the ministry areas section, and vice versa."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Team Member Profile",
+      "summary": "View and edit one person's profile, manage their ministry areas and social links, and see where they're involved.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This page shows everything on file for one team member — their contact details, biography, roles, and more. From here you can review their profile, make changes, hide them from the public site, or remove them entirely if appropriate."
+        },
+        {
+          "heading": "The buttons at the top",
+          "body": "Edit — switches the page into edit mode so you can change details. While editing, this button changes to \"Back\", which returns you to the read-only view.\n\nHide from site — only appears when the profile is currently published. Clicking it unpublishes the profile (removes it from the public website) without deleting anything, so you can bring it back later.\n\nDelete — permanently removes the profile. You'll be asked to confirm first.\n\nIf this person is linked to other records in the system (for example, they're listed as the author of some content), you'll see a notice explaining that they can't be deleted until those records are reassigned to someone else. In that case, hiding the profile instead of deleting it is usually the better option."
+        },
+        {
+          "heading": "What you'll see in the read-only view",
+          "body": "Name, Position, Email, Phone, Login Account (if linked), Areas of Expertise, Roles (Executive/Speaker/Team member), Published status (Yes/No), Sort Order, Added On, Added By, and Last Updated By — along with their full Biography.\n\nIf the profile is not currently published, a reminder note tells you it's hidden from the public website, but it will still show up as an option in dropdown menus elsewhere in the dashboard (for example, when assigning a speaker to an event)."
+        },
+        {
+          "heading": "Editing the profile",
+          "body": "In edit mode you can change the Full Name, Position, Biography, Public Email, Phone, Login Account, the Executive/Speaker/Published checkboxes, Sort Order, and upload a new Photo (the current photo is shown for reference). Click \"Save Changes\" when you're done.\n\nFurther down the page you'll also find separate sections for managing this person's Social Links and their Involvement — for example, which events or projects they're connected to."
+        },
+        {
+          "heading": "Good to know",
+          "body": "The \"Ministry areas\" section has its own checkboxes and its own \"Save areas\" button, separate from the main profile edit form. If you change both the main details and the ministry areas, remember to save each one separately — clicking \"Save Changes\" up top will not save changes made to the ministry areas section, and vice versa."
+        }
+      ]
+    },
+    "am": {
+      "title": "የቡድን አባል መገለጫ",
+      "summary": "የአንድ ሰው መገለጫ ይመልከቱ እና ያርትዑ፣ የአገልግሎት ዘርፎቻቸውንና ማህበራዊ ትስስሮቻቸውን ያስተዳድሩ፣ የት እንደሚሳተፉም ይመልከቱ።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምንድን ነው",
+          "body": "ይህ ገጽ ስለ አንድ የቡድን አባል በመዝገብ ውስጥ ያለውን ሁሉንም ነገር ያሳያል — የመገኛ መረጃቸው፣ የህይወት ታሪካቸው፣ ሚናዎቻቸው እና ሌሎችም። ከዚህ ገጽ መገለጫቸውን መከለስ፣ ለውጦችን ማድረግ፣ ከህዝባዊ ድህረ ገጽ መደበቅ፣ ወይም አስፈላጊ ከሆነ ሙሉ በሙሉ ማስወገድ ይችላሉ።"
+        },
+        {
+          "heading": "ከላይ ያሉት ቁልፎች",
+          "body": "Edit (አርትዕ) — ገጹን ወደ አርትዖት ሁነታ ይቀይራል፣ ስለዚህ ዝርዝሮችን መቀየር ይችላሉ። በሚያርትዑበት ጊዜ ይህ ቁልፍ ወደ \"Back\" ይቀየራል፣ ይህም ወደ ንባብ ብቻ እይታ ይመልስዎታል።\n\nHide from site (ከድህረ ገጽ ደብቅ) — መገለጫው በአሁኑ ጊዜ የታተመ ሲሆን ብቻ ይታያል። ሲጫኑት መገለጫውን ከህዝባዊ ድህረ ገጹ ላይ ያነሳል (ያለ ማተም ያደርገዋል) ምንም ሳያጠፋ፣ ስለዚህ በኋላ መልሰው ማምጣት ይችላሉ።\n\nDelete (ሰርዝ) — መገለጫውን በቋሚነት ያስወግዳል። መጀመሪያ እንዲያረጋግጡ ይጠየቃሉ።\n\nይህ ሰው ከሌሎች የስርዓቱ መዝገቦች ጋር የተያያዘ ከሆነ (ለምሳሌ የተወሰነ ይዘት ደራሲ ተብለው ከተመዘገቡ)፣ እነዚያ መዝገቦች ወደ ሌላ ሰው ካልተዛወሩ በስተቀር ሊሰረዙ እንደማይችሉ የሚያብራራ ማስታወሻ ያያሉ። በዚህ ሁኔታ ከመሰረዝ ይልቅ መገለጫውን መደበቅ ብዙ ጊዜ የተሻለ አማራጭ ነው።"
+        },
+        {
+          "heading": "በንባብ እይታ ውስጥ የሚታየው",
+          "body": "ስም፣ የስራ መደብ፣ ኢሜይል፣ ስልክ፣ የመግቢያ አካውንት (ከተያያዘ)፣ የእውቀት ዘርፎች፣ ሚናዎች (Executive/Speaker/Team member)፣ የታተመ ሁኔታ (አዎ/አይ)፣ የደረጃ ቅደም ተከተል፣ የተጨመረበት ቀን፣ በማን እንደተጨመረ፣ እና መጨረሻ በማን እንደተዘመነ — እንዲሁም ሙሉ የህይወት ታሪካቸው።\n\nመገለጫው በአሁኑ ጊዜ ያልታተመ ከሆነ፣ ከህዝባዊ ድህረ ገጹ የተደበቀ መሆኑን የሚያስታውስ ማስታወሻ ያያሉ፣ ነገር ግን በዳሽቦርዱ ውስጥ በሌሎች ቦታዎች ባሉ ተቆልቋይ ዝርዝሮች ውስጥ እንደ አማራጭ ሆኖ መታየቱን ይቀጥላል (ለምሳሌ ለአንድ ዝግጅት ተናጋሪ ሲመድቡ)።"
+        },
+        {
+          "heading": "መገለጫውን ማርትዕ",
+          "body": "በአርትዖት ሁነታ ውስጥ ሙሉ ስም፣ የስራ መደብ፣ የህይወት ታሪክ፣ ይፋዊ ኢሜይል፣ ስልክ፣ የመግቢያ አካውንት፣ Executive/Speaker/Published የምልክት ሳጥኖችን፣ የደረጃ ቅደም ተከተልን መቀየር እና አዲስ ፎቶ መጫን ይችላሉ (የአሁኑ ፎቶ ለማጣቀሻ ይታያል)። ሲጨርሱ \"Save Changes\" ይጫኑ።\n\nበገጹ ታች ደግሞ የዚህን ሰው የማህበራዊ ትስስሮች እና ተሳትፎ (ለምሳሌ ከየትኞቹ ዝግጅቶች ወይም ፕሮጀክቶች ጋር እንደተያያዙ) ለማስተዳደር የተለዩ ክፍሎችን ያገኛሉ።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆኑ ነገሮች",
+          "body": "የ\"Ministry areas\" (የአገልግሎት ዘርፎች) ክፍል ከዋናው መገለጫ አርትዖት ቅጽ የተለየ የራሱ የምልክት ሳጥኖችና የራሱ \"Save areas\" ቁልፍ አለው። ሁለቱንም ዋና ዝርዝሮችና የአገልግሎት ዘርፎችን ከቀየሩ፣ እያንዳንዱን ለየብቻ ማስቀመጥዎን ያስታውሱ — ከላይ ያለውን \"Save Changes\" መጫን በአገልግሎት ዘርፎች ክፍል የተደረጉ ለውጦችን አያስቀምጥም፣ በተቃራኒውም እንዲሁ።"
+        }
+      ]
+    }
+  }
+}

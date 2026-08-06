@@ -1,0 +1,69 @@
+{
+  "match": "/dashboard/customers/{id}",
+  "title": "Customer Details",
+  "summary": "This page shows one customer's profile and their current pending orders, and lets you edit their information or delete them.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This page is a single customer's profile. It shows their contact details, their status, and a summary of their orders, and it is where you go to update their information, view their full order history, or remove them from the system if needed."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "Near the top of the page there are three buttons:\n- Edit - switches the page into an editable form so you can change the customer's details. While editing, this button changes to say \"Back\", which returns you to the read-only view without an extra confirmation step.\n- Order History - takes you to a separate page showing this customer's complete order history across every status (pending, delivered, and cancelled).\n- Delete - a red button that permanently removes this customer. It will ask you to confirm before doing anything.\n\nBelow the profile information there is a table of this customer's current Pending Orders, with its own search box so you can find a specific order quickly, and an option to export or download that list as a file."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "In the read-only view you will see: Name, Phone, Email, Address, Status, Number of Pending Orders, Number of Delivered Orders, Number of Cancelled Orders, and how many days since the customer joined.\n\nWhen you click Edit, the form fields are: Name (required), Phone (required), Email (optional), Address (optional), and a Status dropdown (Active or Inactive). Click \"Save Changes\" to store your updates.\n\nThe Pending Orders table below shows each order's Items (products, quantities, and totals) and the date it was Ordered On."
+    },
+    {
+      "heading": "Good to know",
+      "body": "Deleting a customer is permanent. The confirmation dialog literally says \"This action is irreversible,\" and it means it - once you confirm, there is no way to bring the customer's record back. After deleting, you will see a \"Customer Deleted Successfully!\" message and be taken back to the Customer List.\n\nBecause deletion cannot be undone, always double-check you have the right customer open before confirming, especially if two customers have similar names.\n\nName and Phone are required fields when editing - you cannot save changes if either is left empty. Email and Address are optional and can be left blank."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Customer Details",
+      "summary": "This page shows one customer's profile and their current pending orders, and lets you edit their information or delete them.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This page is a single customer's profile. It shows their contact details, their status, and a summary of their orders, and it is where you go to update their information, view their full order history, or remove them from the system if needed."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "Near the top of the page there are three buttons:\n- Edit - switches the page into an editable form so you can change the customer's details. While editing, this button changes to say \"Back\", which returns you to the read-only view without an extra confirmation step.\n- Order History - takes you to a separate page showing this customer's complete order history across every status (pending, delivered, and cancelled).\n- Delete - a red button that permanently removes this customer. It will ask you to confirm before doing anything.\n\nBelow the profile information there is a table of this customer's current Pending Orders, with its own search box so you can find a specific order quickly, and an option to export or download that list as a file."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "In the read-only view you will see: Name, Phone, Email, Address, Status, Number of Pending Orders, Number of Delivered Orders, Number of Cancelled Orders, and how many days since the customer joined.\n\nWhen you click Edit, the form fields are: Name (required), Phone (required), Email (optional), Address (optional), and a Status dropdown (Active or Inactive). Click \"Save Changes\" to store your updates.\n\nThe Pending Orders table below shows each order's Items (products, quantities, and totals) and the date it was Ordered On."
+        },
+        {
+          "heading": "Good to know",
+          "body": "Deleting a customer is permanent. The confirmation dialog literally says \"This action is irreversible,\" and it means it - once you confirm, there is no way to bring the customer's record back. After deleting, you will see a \"Customer Deleted Successfully!\" message and be taken back to the Customer List.\n\nBecause deletion cannot be undone, always double-check you have the right customer open before confirming, especially if two customers have similar names.\n\nName and Phone are required fields when editing - you cannot save changes if either is left empty. Email and Address are optional and can be left blank."
+        }
+      ]
+    },
+    "am": {
+      "title": "የደንበኛ ዝርዝሮች",
+      "summary": "ይህ ገጽ የአንድ ደንበኛ መገለጫና በመጠባበቅ ላይ ያሉ ትዕዛዞቻቸውን ያሳያል፣ እንዲሁም መረጃቸውን እንዲያርትዑ ወይም እንዲሰርዙ ያስችልዎታል።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምንድን ነው",
+          "body": "ይህ ገጽ የአንድ ደንበኛ መገለጫ ነው። የመገናኛ ዝርዝራቸውን፣ ሁኔታቸውን፣ እና የትዕዛዞቻቸውን ማጠቃለያ ያሳያል፣ እናም መረጃቸውን ለማዘመን፣ ሙሉውን የትዕዛዝ ታሪካቸውን ለማየት፣ ወይም አስፈላጊ ከሆነ ከስርዓቱ ለማስወገድ የሚሄዱበት ቦታ ነው።"
+        },
+        {
+          "heading": "እዚህ ገጽ ላይ ምን ማድረግ ይችላሉ",
+          "body": "በገጹ አናት አካባቢ ሶስት አዝራሮች አሉ፦\n- Edit (አርትዕ) - የደንበኛውን ዝርዝሮች እንዲቀይሩ ገጹን ወደ ሊስተካከል ወደሚችል ቅጽ ይቀይራል። በሚያርትዑበት ጊዜ ይህ አዝራር ወደ «Back» (ተመለስ) ይቀየራል፣ ይህም ያለ ተጨማሪ ማረጋገጫ ወደ ንባብ-ብቻ እይታ ይመልስዎታል።\n- Order History (የትዕዛዝ ታሪክ) - የዚህን ደንበኛ ሙሉ የትዕዛዝ ታሪክ በሁሉም ሁኔታ (በመጠባበቅ ላይ፣ የደረሱ፣ የተሰረዙ) የሚያሳይ ለየብቻ ገጽ ይወስድዎታል።\n- Delete (ሰርዝ) - ይህንን ደንበኛ በቋሚነት የሚያስወግድ ቀይ አዝራር። ማንኛውንም ነገር ከማድረግዎ በፊት እንዲያረጋግጡ ይጠይቅዎታል።\n\nከመገለጫ መረጃው በታች ይህ ደንበኛ አሁን ያሉትን በመጠባበቅ ላይ ትዕዛዞች ሠንጠረዥ ያያሉ፣ የተወሰነ ትዕዛዝ በፍጥነት ለማግኘት የራሱ የፍለጋ ሳጥን ያለው፣ እና ዝርዝሩን እንደ ፋይል ወደ ውጭ ለመላክ ወይም ለማውረድ የሚያስችል ምርጫ።"
+        },
+        {
+          "heading": "መስኮቹ በዝርዝር",
+          "body": "በንባብ-ብቻ እይታ ውስጥ የሚከተሉትን ያያሉ፦ ስም፣ ስልክ፣ ኢሜይል፣ አድራሻ፣ ሁኔታ፣ የበመጠባበቅ ላይ ትዕዛዞች ብዛት፣ የደረሱ ትዕዛዞች ብዛት፣ የተሰረዙ ትዕዛዞች ብዛት፣ እና ደንበኛው ከተቀላቀለ ስንት ቀናት እንዳለፉ።\n\nEdit ን ሲጫኑ የቅጹ መስኮች እነዚህ ናቸው፦ ስም (ያስፈልጋል)፣ ስልክ (ያስፈልጋል)፣ ኢሜይል (አማራጭ)፣ አድራሻ (አማራጭ)፣ እና የሁኔታ ተቆልቋይ (ንቁ ወይም ንቁ ያልሆነ)። ለውጦችዎን ለማስቀመጥ «ለውጦችን አስቀምጥ» ይጫኑ።\n\nከታች ያለው የበመጠባበቅ ላይ ትዕዛዞች ሠንጠረዥ የእያንዳንዱን ትዕዛዝ Items (ምርቶች፣ ብዛትና ድምር) እና ትዕዛዙ የተደረገበትን ቀን ያሳያል።"
+        },
+        {
+          "heading": "ማወቅ ጥሩ የሆኑ ነገሮች",
+          "body": "ደንበኛን መሰረዝ ቋሚ ነው። የማረጋገጫ መልእክቱ «This action is irreversible» (ይህ ተግባር ሊቀለበስ አይችልም) ይላል፣ እና በእውነት ማለቱ ነው - ካረጋገጡ በኋላ የደንበኛውን መዝገብ መልሶ ማምጣት አይቻልም። ከሰረዙ በኋላ «ደንበኛ በተሳካ ሁኔታ ተሰርዟል!» የሚል መልእክት ያያሉ እና ወደ ደንበኞች ዝርዝር ይመለሳሉ።\n\nስረዛ ሊቀለበስ ስለማይችል፣ በተለይ ሁለት ደንበኞች ተመሳሳይ ስሞች ካላቸው፣ ከማረጋገጥዎ በፊት ትክክለኛውን ደንበኛ መክፈትዎን ሁልጊዜ ያረጋግጡ።\n\nስም እና ስልክ ሲያርትዑ የሚያስፈልጉ መስኮች ናቸው - ማንኛውም ባዶ ከሆነ ለውጦችን ማስቀመጥ አይችሉም። ኢሜይል እና አድራሻ አማራጭ ናቸው ባዶ ሆነው ሊቆዩ ይችላሉ።"
+        }
+      ]
+    }
+  }
+}

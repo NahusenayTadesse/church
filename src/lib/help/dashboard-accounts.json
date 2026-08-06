@@ -1,0 +1,69 @@
+{
+  "path": "/dashboard/accounts",
+  "title": "Payment Accounts",
+  "summary": "Manage the church's actual bank and mobile-money account details that donors use to send money for each payment method.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This page is different from Payment Methods. Payment Methods lists the general types of payment the church accepts (like \"Bank Transfer\" or \"Telebirr\"). This page, Payment Accounts, stores the actual account details behind each of those methods — the specific account number, bank name, and other information a donor needs in order to actually send money. For example, if \"Bank Transfer\" is a payment method, this page is where you'd record which bank, which account number, and which branch donors should use to send a bank transfer."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "Click \"+ Add New Payment Account\" to open a form for adding a new account.\n\nThe main list is a searchable table showing each account's number, Account Name (click to edit), the Payment Method it belongs to, Account Number, Bank, Branch, SWIFT code, Currency, Instructions (expandable if long), sort Order, who created it (click their name to view their profile), and a Delete button (which asks for confirmation)."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "Payment Method — pick which payment method (from the Payment Methods page) this account belongs to, such as Bank Transfer or Telebirr. This is required.\n\nAccount Name — the name on the account, or a label describing it. This is required.\n\nAccount Number — the actual account or mobile-money number donors should send to. This is required.\n\nBank Name and Branch — which bank holds the account, and which branch, if relevant.\n\nSWIFT Code — used for international bank transfers, if applicable.\n\nCurrency — which currency this account is set up to receive.\n\nInstructions — any extra notes for donors, such as \"Please include your name as the reference\".\n\nSort Order — a number that controls the order accounts are listed in (lower numbers typically appear first)."
+    },
+    {
+      "heading": "Saving",
+      "body": "Once you've filled in the details, click \"Add Payment Account\" to save it. Donors giving through this method on the public site will see this account's details, so it's worth double-checking the account number and bank details are entered correctly before saving."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Payment Accounts",
+      "summary": "Manage the church's actual bank and mobile-money account details that donors use to send money for each payment method.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This page is different from Payment Methods. Payment Methods lists the general types of payment the church accepts (like \"Bank Transfer\" or \"Telebirr\"). This page, Payment Accounts, stores the actual account details behind each of those methods — the specific account number, bank name, and other information a donor needs in order to actually send money. For example, if \"Bank Transfer\" is a payment method, this page is where you'd record which bank, which account number, and which branch donors should use to send a bank transfer."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "Click \"+ Add New Payment Account\" to open a form for adding a new account.\n\nThe main list is a searchable table showing each account's number, Account Name (click to edit), the Payment Method it belongs to, Account Number, Bank, Branch, SWIFT code, Currency, Instructions (expandable if long), sort Order, who created it (click their name to view their profile), and a Delete button (which asks for confirmation)."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "Payment Method — pick which payment method (from the Payment Methods page) this account belongs to, such as Bank Transfer or Telebirr. This is required.\n\nAccount Name — the name on the account, or a label describing it. This is required.\n\nAccount Number — the actual account or mobile-money number donors should send to. This is required.\n\nBank Name and Branch — which bank holds the account, and which branch, if relevant.\n\nSWIFT Code — used for international bank transfers, if applicable.\n\nCurrency — which currency this account is set up to receive.\n\nInstructions — any extra notes for donors, such as \"Please include your name as the reference\".\n\nSort Order — a number that controls the order accounts are listed in (lower numbers typically appear first)."
+        },
+        {
+          "heading": "Saving",
+          "body": "Once you've filled in the details, click \"Add Payment Account\" to save it. Donors giving through this method on the public site will see this account's details, so it's worth double-checking the account number and bank details are entered correctly before saving."
+        }
+      ]
+    },
+    "am": {
+      "title": "የክፍያ አካውንቶች",
+      "summary": "ልገሳ ሰጪዎች ለእያንዳንዱ የክፍያ ዘዴ ገንዘብ ለመላክ የሚጠቀሙባቸውን የቤተክርስቲያኑን ትክክለኛ የባንክና የሞባይል ገንዘብ አካውንት ዝርዝሮች ያስተዳድሩ።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምንድን ነው",
+          "body": "ይህ ገጽ ከክፍያ ዘዴዎች (Payment Methods) ገጽ የተለየ ነው። Payment Methods ቤተክርስቲያኑ የሚቀበላቸውን አጠቃላይ የክፍያ ዓይነቶች ይዘረዝራል (እንደ \"የባንክ ዝውውር\" ወይም \"ቴሌብር\" ያሉ)። ይህ ገጽ፣ Payment Accounts፣ ከእነዚያ ዘዴዎች ጀርባ ያሉትን ትክክለኛ የአካውንት ዝርዝሮች ያከማቻል — አንድ ልገሳ ሰጪ ገንዘብ በትክክል ለመላክ የሚያስፈልገውን የተለየ የአካውንት ቁጥር፣ የባንክ ስም እና ሌላ መረጃ። ለምሳሌ \"የባንክ ዝውውር\" የክፍያ ዘዴ ከሆነ፣ ልገሳ ሰጪዎች የባንክ ዝውውር ለመላክ የትኛውን ባንክ፣ የትኛውን የአካውንት ቁጥር እና የትኛውን ቅርንጫፍ መጠቀም እንዳለባቸው የሚመዘግቡት በዚህ ገጽ ነው።"
+        },
+        {
+          "heading": "እዚህ ገጽ ላይ ምን ማድረግ ይችላሉ",
+          "body": "አዲስ አካውንት ለመጨመር \"+ Add New Payment Account\" ን ይጫኑ፣ ይህም ቅጽ ይከፍታል።\n\nዋናው ዝርዝር እያንዳንዱን አካውንት ቁጥር፣ Account Name (ለማርትዕ ይጫኑ)፣ የሚገኝበትን የክፍያ ዘዴ፣ Account Number፣ ባንክ፣ ቅርንጫፍ፣ SWIFT ኮድ፣ ገንዘብ ዓይነት (Currency)፣ Instructions (ረጅም ከሆነ የሚሰፋ)፣ የደረጃ ቅደም ተከተል (Order)፣ በማን እንደተፈጠረ (ስማቸውን ተጭነው መገለጫቸውን ማየት ይችላሉ)፣ እና (ማረጋገጫ የሚጠይቅ) የDelete ቁልፍ የሚያሳይ ሊፈለግ የሚችል ሠንጠረዥ ነው።"
+        },
+        {
+          "heading": "የመስኮች ማብራሪያ",
+          "body": "Payment Method — ይህ አካውንት የሚገኝበትን የክፍያ ዘዴ (ከPayment Methods ገጽ) ይምረጡ፣ ለምሳሌ የባንክ ዝውውር ወይም ቴሌብር። ይህ አስፈላጊ ነው።\n\nAccount Name — በአካውንቱ ላይ ያለው ስም፣ ወይም የሚገልጸው መለያ። ይህ አስፈላጊ ነው።\n\nAccount Number — ልገሳ ሰጪዎች መላክ ያለባቸው ትክክለኛ የአካውንት ወይም የሞባይል ገንዘብ ቁጥር። ይህ አስፈላጊ ነው።\n\nBank Name እና Branch — የትኛው ባንክ አካውንቱን እንደያዘ፣ እና አግባብነት ካለው የትኛው ቅርንጫፍ።\n\nSWIFT Code — አግባብነት ካለው ለአለም አቀፍ የባንክ ዝውውሮች ጥቅም ላይ ይውላል።\n\nCurrency — ይህ አካውንት ለመቀበል የተዘጋጀው ገንዘብ ዓይነት።\n\nInstructions — ለልገሳ ሰጪዎች ተጨማሪ ማስታወሻዎች፣ ለምሳሌ \"እባክዎ ስምዎን እንደ ማጣቀሻ ያካትቱ\"።\n\nSort Order — አካውንቶች የሚዘረዘሩበትን ቅደም ተከተል የሚቆጣጠር ቁጥር (አነስተኛ ቁጥሮች ብዙ ጊዜ መጀመሪያ ይታያሉ)።"
+        },
+        {
+          "heading": "ማስቀመጥ",
+          "body": "ዝርዝሮቹን ከሞሉ በኋላ ለማስቀመጥ \"Add Payment Account\" ይጫኑ። በህዝባዊ ድህረ ገጹ ላይ በዚህ ዘዴ የሚለግሱ ልገሳ ሰጪዎች የዚህን አካውንት ዝርዝሮች ያያሉ፣ ስለዚህ ከማስቀመጥዎ በፊት የአካውንት ቁጥሩና የባንክ ዝርዝሮቹ በትክክል መግባታቸውን ደግመው ማረጋገጥ ተገቢ ነው።"
+        }
+      ]
+    }
+  }
+}

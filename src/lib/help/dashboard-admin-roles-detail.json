@@ -1,0 +1,69 @@
+{
+  "match": "/dashboard/admin-panel/roles/{id}",
+  "title": "Role Details",
+  "summary": "View and edit a single role's name, description, and exact permissions, and see which staff currently hold it.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This is the page where you control exactly what a role - and therefore everyone assigned to it - is allowed to do in the dashboard. It shows the role's basic information plus the full checklist of permissions it currently has, and lists which staff members are currently assigned to it."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "In view mode, you'll see the role's Name, Description, User Count (how many staff have this role), and Permission Count (how many permissions are currently checked). If any staff have this role, a table below lists them.\n\nClick \"Edit\" to switch into an editable form (the button becomes \"Back\" while you're editing, letting you return to view mode). In edit mode you can change the Name, Description, and tick or untick individual permissions from a checklist of every permission in the system.\n\nClick \"Delete\" to remove the role entirely. This only works if no staff members currently have this role assigned - if anyone does, deletion is blocked and you'll see a message explaining you need to move those people to a different role first."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "Name - the role's title, for example \"Admin\" or \"Front Desk.\"\n\nDescription - a note describing what the role is for.\n\nUser Count - how many staff members are currently assigned to this role.\n\nPermission Count - how many permissions are currently checked for this role.\n\nPermissions checklist (edit mode) - every permission that exists in the system, each with a checkbox. Checking a box grants that ability to everyone with this role; unchecking it takes that ability away from everyone with this role.\n\nStaff table - lists the people currently assigned to this role, shown below the role's details."
+    },
+    {
+      "heading": "Good to know",
+      "body": "This is the page where actual access control happens. Permissions are never set on an individual person - they always come from the role that person belongs to. To change what one specific person can do, either move them to a different role (from the Users section) or edit this shared role, which will immediately affect everyone assigned to it, not just one person.\n\nWhen you tick or untick permissions and save, the change takes effect immediately, for every staff member with this role, with no \"are you sure\" confirmation step. Double-check your changes before saving, since this can instantly grant or remove access for multiple people at once.\n\nYou cannot delete a role while staff are still assigned to it - reassign those staff to another role first."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Role Details",
+      "summary": "View and edit a single role's name, description, and exact permissions, and see which staff currently hold it.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This is the page where you control exactly what a role - and therefore everyone assigned to it - is allowed to do in the dashboard. It shows the role's basic information plus the full checklist of permissions it currently has, and lists which staff members are currently assigned to it."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "In view mode, you'll see the role's Name, Description, User Count (how many staff have this role), and Permission Count (how many permissions are currently checked). If any staff have this role, a table below lists them.\n\nClick \"Edit\" to switch into an editable form (the button becomes \"Back\" while you're editing, letting you return to view mode). In edit mode you can change the Name, Description, and tick or untick individual permissions from a checklist of every permission in the system.\n\nClick \"Delete\" to remove the role entirely. This only works if no staff members currently have this role assigned - if anyone does, deletion is blocked and you'll see a message explaining you need to move those people to a different role first."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "Name - the role's title, for example \"Admin\" or \"Front Desk.\"\n\nDescription - a note describing what the role is for.\n\nUser Count - how many staff members are currently assigned to this role.\n\nPermission Count - how many permissions are currently checked for this role.\n\nPermissions checklist (edit mode) - every permission that exists in the system, each with a checkbox. Checking a box grants that ability to everyone with this role; unchecking it takes that ability away from everyone with this role.\n\nStaff table - lists the people currently assigned to this role, shown below the role's details."
+        },
+        {
+          "heading": "Good to know",
+          "body": "This is the page where actual access control happens. Permissions are never set on an individual person - they always come from the role that person belongs to. To change what one specific person can do, either move them to a different role (from the Users section) or edit this shared role, which will immediately affect everyone assigned to it, not just one person.\n\nWhen you tick or untick permissions and save, the change takes effect immediately, for every staff member with this role, with no \"are you sure\" confirmation step. Double-check your changes before saving, since this can instantly grant or remove access for multiple people at once.\n\nYou cannot delete a role while staff are still assigned to it - reassign those staff to another role first."
+        }
+      ]
+    },
+    "am": {
+      "title": "የሚና ዝርዝሮች",
+      "summary": "የአንድ ሚና ስም፣ መግለጫ እና ትክክለኛ ፈቃዶች ይመልከቱና ያርሙ፣ አሁን ማን እንዳለው ይመልከቱ።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "ይህ ገጽ አንድ ሚና - እና ስለዚህ የተመደቡበት ሁሉ - በዳሽቦርዱ ውስጥ በትክክል ምን ማድረግ እንደሚችሉ የሚቆጣጠሩበት ገጽ ነው። የሚናውን መሰረታዊ መረጃ እንዲሁም አሁን ያሉትን ፈቃዶች ሙሉ ዝርዝር ያሳያል፣ እና አሁን ለዚህ ሚና የተመደቡ ሰራተኞችን ይዘረዝራል።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "በእይታ ሁኔታ፣ የሚናውን ስም (Name)፣ መግለጫ (Description)፣ የተጠቃሚ ብዛት (User Count - ስንት ሰራተኛ ይህ ሚና እንዳለው) እና የፈቃድ ብዛት (Permission Count - አሁን ስንት ፈቃድ ምልክት እንደተደረገበት) ያያሉ። ማንም ይህ ሚና ካለው፣ ከታች ያለ ሰንጠረዥ ይዘረዝራቸዋል።\n\n\"Edit\" ን ጠቅ በማድረግ ወደ ሊታረም ወደሚችል ቅጽ ይቀይሩ (እርስዎ ሲያርሙ አዝራሩ ወደ \"Back\" ይቀየራል፣ ወደ እይታ ሁኔታ እንዲመለሱ ያስችልዎታል)። በአርም ሁኔታ ውስጥ ስሙን፣ መግለጫውን መቀየር እና በስርዓቱ ውስጥ ካሉ ፈቃዶች ዝርዝር ውስጥ የተወሰኑ ፈቃዶችን ምልክት ማድረግ ወይም ማንሳት ይችላሉ።\n\n\"Delete\" ን ጠቅ በማድረግ ሚናውን ሙሉ በሙሉ ያስወግዱ። ይህ የሚሰራው ምንም ሰራተኛ አሁን ይህ ሚና ካልተመደበለት ብቻ ነው - ማንም ካለው፣ መሰረዝ ይታገዳል እና እነዚያን ሰዎች መጀመሪያ ወደ ሌላ ሚና ማዛወር እንዳለብዎት የሚያብራራ መልዕክት ያያሉ።"
+        },
+        {
+          "heading": "የመስኮች ማብራሪያ",
+          "body": "ስም (Name) - የሚናው ርዕስ፣ ለምሳሌ \"Admin\" ወይም \"Front Desk\"።\n\nመግለጫ (Description) - ሚናው ለምን እንደሆነ የሚገልጽ ማስታወሻ።\n\nየተጠቃሚ ብዛት (User Count) - አሁን ለዚህ ሚና የተመደቡ ሰራተኞች ስንት እንደሆኑ።\n\nየፈቃድ ብዛት (Permission Count) - አሁን ለዚህ ሚና ምልክት የተደረገባቸው ፈቃዶች ስንት እንደሆኑ።\n\nየፈቃድ ዝርዝር (በአርም ሁኔታ) - በስርዓቱ ውስጥ ያለ እያንዳንዱ ፈቃድ፣ እያንዳንዱ ከምልክት ሳጥን ጋር። ሳጥን ምልክት ማድረግ ይህ ሚና ላለው ሁሉ ያንን ችሎታ ይሰጣል፤ ምልክቱን ማንሳት ደግሞ ይህ ሚና ካለው ሁሉ ያንን ችሎታ ያስወግዳል።\n\nየሰራተኞች ሰንጠረዥ - ከሚናው ዝርዝሮች ስር፣ አሁን ለዚህ ሚና የተመደቡ ሰዎችን ይዘረዝራል።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆኑ ነገሮች",
+          "body": "ትክክለኛ የመዳረሻ ቁጥጥር የሚደረግበት ገጽ ይህ ነው። ፈቃዶች በግለሰብ ላይ በቀጥታ አይቀመጡም - ሁልጊዜ ከዚያ ሰው ከተመደበበት ሚና ነው የሚመጡት። አንድ የተወሰነ ሰው ምን ማድረግ እንደሚችል ለመቀየር፣ ወይ ወደ ሌላ ሚና ያዙሩት (ከUsers ክፍል)፣ ወይም ይህን የጋራ ሚና ያርሙ፣ ይህም ወዲያውኑ ለዚህ ሚና ለተመደቡ ሁሉ ተጽዕኖ ያሳድራል፣ ለአንድ ሰው ብቻ አይደለም።\n\nፈቃዶችን ምልክት ሲያደርጉ ወይም ሲያነሱ እና ሲያስቀምጡ፣ ለውጡ ወዲያውኑ ይህ ሚና ላለው እያንዳንዱ ሰራተኛ ተግባራዊ ይሆናል፣ \"እርግጠኛ ነዎት?\" የሚል ማረጋገጫ ደረጃ ሳይኖር። ይህ በአንድ ጊዜ ለብዙ ሰዎች መዳረሻን ወዲያውኑ ስለሚሰጥ ወይም ስለሚያስወግድ፣ ከማስቀመጥዎ በፊት ለውጦችዎን ሁለት ጊዜ ያረጋግጡ።\n\nሰራተኞች አሁንም ተመድበውበት እያሉ ሚናን መሰረዝ አይችሉም - መጀመሪያ እነዚያን ሰራተኞች ወደ ሌላ ሚና ያዙሩ።"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "match": "/dashboard/partners/add-partner",
+  "title": "Add a Partner",
+  "summary": "A form for creating a new partner organization or sponsor, covering its basic info, website, logo, and homepage visibility.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This page is where you create a brand new partner organization — a sponsor, supporting church, or other organization the church works with — before it appears on the partners list and, if you choose, on the public homepage."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "Name (required) and Partnership Type (required — a dropdown describing the kind of relationship, such as sponsor or supporting organization). Short Description is used on the partner card wherever partners are listed. About is a rich text editor for a longer write-up, if you want to say more about the organization.\n\nWebsite is an optional web address for the partner's own site. Logo is an image upload — it's only required if you check \"Show on the homepage,\" since the homepage partner strip is entirely logo-based.\n\n\"Show on the homepage\" is a checkbox that includes this partner in the homepage partner strip. Sort Order is a number that controls display order among homepage partners — lower numbers appear first — and it's pre-filled with the next open spot so you don't have to figure out numbering yourself."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "Fill in the required fields, add a logo and website if you have them, and decide whether this partner should appear on the homepage. When ready, click \"Add Partner\" to save."
+    },
+    {
+      "heading": "Good to know",
+      "body": "If you try to leave this page with unsaved changes, you'll be asked to confirm first, so your work isn't lost by accident. If you plan to show this partner on the homepage, it's worth adding the logo right away — without one, the homepage will show a visible gap where their logo should be."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Add a Partner",
+      "summary": "A form for creating a new partner organization or sponsor, covering its basic info, website, logo, and homepage visibility.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This page is where you create a brand new partner organization — a sponsor, supporting church, or other organization the church works with — before it appears on the partners list and, if you choose, on the public homepage."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "Name (required) and Partnership Type (required — a dropdown describing the kind of relationship, such as sponsor or supporting organization). Short Description is used on the partner card wherever partners are listed. About is a rich text editor for a longer write-up, if you want to say more about the organization.\n\nWebsite is an optional web address for the partner's own site. Logo is an image upload — it's only required if you check \"Show on the homepage,\" since the homepage partner strip is entirely logo-based.\n\n\"Show on the homepage\" is a checkbox that includes this partner in the homepage partner strip. Sort Order is a number that controls display order among homepage partners — lower numbers appear first — and it's pre-filled with the next open spot so you don't have to figure out numbering yourself."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "Fill in the required fields, add a logo and website if you have them, and decide whether this partner should appear on the homepage. When ready, click \"Add Partner\" to save."
+        },
+        {
+          "heading": "Good to know",
+          "body": "If you try to leave this page with unsaved changes, you'll be asked to confirm first, so your work isn't lost by accident. If you plan to show this partner on the homepage, it's worth adding the logo right away — without one, the homepage will show a visible gap where their logo should be."
+        }
+      ]
+    },
+    "am": {
+      "title": "አጋር ጨምር",
+      "summary": "አዲስ አጋር ድርጅት ወይም ስፖንሰር ለመፍጠር የሚያገለግል ቅጽ ሲሆን መሰረታዊ መረጃውን፣ ድረ-ገጹን፣ አርማውን እና በመነሻ ገጽ ላይ ያለውን ታይነት ያካትታል።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "ይህ ገጽ አዲስ አጋር ድርጅት — ስፖንሰር፣ ደጋፊ ቤተክርስቲያን ወይም ቤተክርስቲያኗ የምትሰራበት ሌላ ድርጅት — በአጋሮች ዝርዝር ውስጥ እና እርስዎ ከመረጡ በህዝባዊ መነሻ ገጽ ላይ ከመታየቱ በፊት የሚፈጥሩበት ነው።"
+        },
+        {
+          "heading": "መስኮቹ በዝርዝር",
+          "body": "ስም (የግድ ያስፈልጋል) እና የአጋርነት አይነት (የግድ ያስፈልጋል — እንደ ስፖንሰር ወይም ደጋፊ ድርጅት ያለ የግንኙነት አይነት የሚገልጽ ተቆልቋይ ዝርዝር)። አጭር መግለጫ አጋሮች በሚዘረዘሩበት ቦታ ሁሉ በአጋሩ ካርድ ላይ ይውላል። ስለ ድርጅቱ የበለጠ መናገር ከፈለጉ፣ ስለ ረዘም ላለ ጽሁፍ የሚያገለግል የሪች ቴክስት አርታዒ ነው።\n\nድረ-ገጽ ለአጋሩ ራሱ ድረ-ገጽ አማራጭ የድረ-ገጽ አድራሻ ነው። አርማ የምስል መስቀያ ነው — \"በመነሻ ገጽ ላይ አሳይ\" ካረጋገጡ ብቻ የግድ ያስፈልጋል፣ ምክንያቱም የመነሻ ገጽ የአጋሮች ረድፍ ሙሉ በሙሉ በአርማ ላይ የተመሰረተ ነው።\n\n\"በመነሻ ገጽ ላይ አሳይ\" ይህን አጋር በመነሻ ገጽ የአጋሮች ረድፍ ውስጥ የሚያካትት ሳጥን ነው። የደርድር ቅደም ተከተል በመነሻ ገጽ አጋሮች መካከል የማሳያ ቅደም ተከተልን የሚቆጣጠር ቁጥር ነው — ትንሽ ቁጥሮች መጀመሪያ ይታያሉ — እና ራስዎ ቁጥር ማወቅ እንዳይኖርብዎት በሚቀጥለው ክፍት ቦታ አስቀድሞ ተሞልቷል።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "የግድ የሚያስፈልጉ መስኮችን ይሙሉ፣ ካሉዎት አርማ እና ድረ-ገጽ ይጨምሩ፣ እና ይህ አጋር በመነሻ ገጽ ላይ መታየት እንዳለበት ይወስኑ። ዝግጁ ሲሆኑ ለማስቀመጥ \"አጋር ጨምር\" ን ይጫኑ።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆነው",
+          "body": "ያልተቀመጡ ለውጦች እያሉዎት ይህን ገጽ ለቅቀው ለመሄድ ከሞከሩ፣ ስራዎ በስህተት እንዳይጠፋ መጀመሪያ እንዲያረጋግጡ ይጠየቃሉ። ይህን አጋር በመነሻ ገጽ ላይ ለማሳየት ካቀዱ፣ አርማውን ወዲያውኑ መጨመር ጠቃሚ ነው — ያለ አርማ፣ መነሻ ገጹ አርማቸው ሊገኝ በሚገባበት ቦታ የሚታይ ክፍተት ያሳያል።"
+        }
+      ]
+    }
+  }
+}

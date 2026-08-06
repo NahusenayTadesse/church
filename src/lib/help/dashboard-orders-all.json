@@ -1,0 +1,69 @@
+{
+  "path": "/dashboard/orders/all-orders",
+  "title": "All Orders",
+  "summary": "This page shows every order in the system, no matter its status, all in one combined list.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "All Orders brings together every order regardless of its current status - pending, delivered, and cancelled orders all appear together in one list. Use this page when you need to see the full picture, search for a specific order regardless of its status, or check the overall history of orders placed."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "At the top of the page you will see four tabs: All Orders, Pending Orders, Delivered Orders, and Cancelled Orders. Click any tab to switch to that view - you are currently on All Orders.\n\nAbove the table there is a \"+ Add New Order\" button to create a new order, the same search box found on the other order pages, and one extra tool only found here: a \"Filter Menu\". Open it to narrow the list down by Status (show only Pending, only Delivered, or only Cancelled) or by customer Name, without leaving this page."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "The table has these columns, the same as on the other order pages:\n- # - the row number.\n- Name - the customer's name. Click it to open the same editing form as the pencil icon.\n- Phone - the customer's phone number. Click it to copy the number.\n- Items - the products in this order, with quantities and totals, in Ethiopian Birr.\n- Status - a colored badge. Yellow with a spinning icon means Pending, green means Delivered, and red means Cancelled.\n- Edit - a pencil icon that opens the order for editing.\n\nThe Filter Menu lets you pick a Status to show only orders in that state, and/or type or pick a customer Name to show only that customer's orders. Clear the filters to go back to seeing everything.\n\nThe Add/Edit form works exactly as it does on the other order pages: choose a Customer, use \"Add Product\" to add one or more product lines (Product, Price, Quantity, with an \"X\" to remove a line), set the Status, and if you choose Delivered, fill in Payment Method and optionally upload a Receipt. Save with \"Add Order\" or \"Save Changes\"."
+    },
+    {
+      "heading": "Good to know",
+      "body": "Because this page mixes all statuses together, it is the best place to search for a particular order when you are not sure whether it is still pending, already delivered, or was cancelled.\n\nThe same rules apply here as elsewhere: marking an order Delivered without a Payment Method will fail to save until you choose one, marking an order Delivered sends automatic confirmation emails to the customer and the office, editing the product list replaces the old list rather than adding to it, and uploading a new receipt on a Delivered order replaces the old one."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "All Orders",
+      "summary": "This page shows every order in the system, no matter its status, all in one combined list.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "All Orders brings together every order regardless of its current status - pending, delivered, and cancelled orders all appear together in one list. Use this page when you need to see the full picture, search for a specific order regardless of its status, or check the overall history of orders placed."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "At the top of the page you will see four tabs: All Orders, Pending Orders, Delivered Orders, and Cancelled Orders. Click any tab to switch to that view - you are currently on All Orders.\n\nAbove the table there is a \"+ Add New Order\" button to create a new order, the same search box found on the other order pages, and one extra tool only found here: a \"Filter Menu\". Open it to narrow the list down by Status (show only Pending, only Delivered, or only Cancelled) or by customer Name, without leaving this page."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "The table has these columns, the same as on the other order pages:\n- # - the row number.\n- Name - the customer's name. Click it to open the same editing form as the pencil icon.\n- Phone - the customer's phone number. Click it to copy the number.\n- Items - the products in this order, with quantities and totals, in Ethiopian Birr.\n- Status - a colored badge. Yellow with a spinning icon means Pending, green means Delivered, and red means Cancelled.\n- Edit - a pencil icon that opens the order for editing.\n\nThe Filter Menu lets you pick a Status to show only orders in that state, and/or type or pick a customer Name to show only that customer's orders. Clear the filters to go back to seeing everything.\n\nThe Add/Edit form works exactly as it does on the other order pages: choose a Customer, use \"Add Product\" to add one or more product lines (Product, Price, Quantity, with an \"X\" to remove a line), set the Status, and if you choose Delivered, fill in Payment Method and optionally upload a Receipt. Save with \"Add Order\" or \"Save Changes\"."
+        },
+        {
+          "heading": "Good to know",
+          "body": "Because this page mixes all statuses together, it is the best place to search for a particular order when you are not sure whether it is still pending, already delivered, or was cancelled.\n\nThe same rules apply here as elsewhere: marking an order Delivered without a Payment Method will fail to save until you choose one, marking an order Delivered sends automatic confirmation emails to the customer and the office, editing the product list replaces the old list rather than adding to it, and uploading a new receipt on a Delivered order replaces the old one."
+        }
+      ]
+    },
+    "am": {
+      "title": "ሁሉም ትዕዛዞች",
+      "summary": "ይህ ገጽ ምንም ይሁን ሁኔታው ሁሉንም ትዕዛዞች በአንድ የተጣመረ ዝርዝር ውስጥ ያሳያል።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምንድን ነው",
+          "body": "«ሁሉም ትዕዛዞች» ምንም ይሁን አሁናዊ ሁኔታቸው ሁሉንም ትዕዛዞች አንድ ላይ ያመጣል - በመጠባበቅ ላይ ያሉ፣ የደረሱ፣ እና የተሰረዙ ትዕዛዞች ሁሉ በአንድ ዝርዝር ውስጥ ይታያሉ። ሙሉውን ገጽታ ማየት ሲፈልጉ፣ ሁኔታው ምንም ይሁን የተወሰነ ትዕዛዝ ለመፈለግ፣ ወይም አጠቃላይ የተደረጉ ትዕዛዞችን ታሪክ ለማየት ይህንን ገጽ ይጠቀሙ።"
+        },
+        {
+          "heading": "እዚህ ገጽ ላይ ምን ማድረግ ይችላሉ",
+          "body": "በገጹ አናት ላይ አራት ትሮች ያያሉ፦ ሁሉም ትዕዛዞች፣ በመጠባበቅ ላይ ያሉ ትዕዛዞች፣ የደረሱ ትዕዛዞች፣ እና የተሰረዙ ትዕዛዞች። አሁን ባሉበት «ሁሉም ትዕዛዞች» ላይ ነው።\n\nከሠንጠረዡ በላይ አዲስ ትዕዛዝ ለመፍጠር «+ አዲስ ትዕዛዝ ጨምር» የሚል አዝራር፣ በሌሎቹ የትዕዛዝ ገጾች ላይ የሚገኘው ተመሳሳይ የፍለጋ ሳጥን፣ እና እዚህ ብቻ የሚገኝ አንድ ተጨማሪ መሳሪያ ያያሉ፦ «የማጣሪያ ምናሌ»። ገጹን ሳይለቁ ዝርዝሩን በሁኔታ (በመጠባበቅ ላይ ብቻ፣ የደረሱ ብቻ፣ ወይም የተሰረዙ ብቻ ማሳየት) ወይም በደንበኛ ስም ለማጥበብ ይህንን ይክፈቱ።"
+        },
+        {
+          "heading": "መስኮቹ በዝርዝር",
+          "body": "ሠንጠረዡ ልክ እንደ ሌሎቹ የትዕዛዝ ገጾች የሚከተሉት አምዶች አሉት፦\n- # - የረድፉ ቁጥር።\n- ስም - የደንበኛው ስም። ከእርሳስ አዝራሩ ጋር ተመሳሳይ የማስተካከያ ቅጽ ለመክፈት ይህንን ይጫኑ።\n- ስልክ - የደንበኛው ስልክ ቁጥር። ቁጥሩን ለመቅዳት ይህንን ይጫኑ።\n- እቃዎች - በዚህ ትዕዛዝ ውስጥ ያሉ ምርቶች፣ ብዛታቸውና ድምራቸው በኢትዮጵያ ብር።\n- ሁኔታ - ቀለም ያለው ምልክት። ቢጫ ከሚሽከረከር ምልክት ጋር «በመጠባበቅ ላይ»፣ አረንጓዴ «ደርሷል»፣ ቀይ «ተሰርዟል» ማለት ነው።\n- አርትዕ - ትዕዛዙን ለማርትዕ የሚከፍት የእርሳስ አዝራር።\n\nየማጣሪያ ምናሌው በዚያ ሁኔታ ውስጥ ያሉ ትዕዛዞችን ብቻ ለማሳየት ሁኔታ እንዲመርጡ ያስችልዎታል፣ እና/ወይም የተወሰነ ደንበኛ ትዕዛዞችን ብቻ ለማሳየት የደንበኛ ስም መተየብ ወይም መምረጥ ይችላሉ። ሁሉንም መልሰው ለማየት ማጣሪያዎቹን ያጽዱ።\n\nየመጨመሪያ/የማርትዕ ቅጹ በሌሎቹ የትዕዛዝ ገጾች ላይ እንዳለው በተመሳሳይ ይሠራል፦ ደንበኛ ይምረጡ፣ «ምርት ጨምር»ን በመጠቀም አንድ ወይም ከዚያ በላይ የምርት መስመሮች ይጨምሩ (ምርት፣ ዋጋ፣ ብዛት፣ መስመርን ለማስወገድ «X» ያለው)፣ ሁኔታውን ያስቀምጡ፣ እና «ደርሷል» ከመረጡ የክፍያ ዘዴን ይሙሉ እና በምርጫ ደረሰኝ ይስቀሉ። በ«ትዕዛዝ ጨምር» ወይም «ለውጦችን አስቀምጥ» ያስቀምጡ።"
+        },
+        {
+          "heading": "ማወቅ ጥሩ የሆኑ ነገሮች",
+          "body": "ይህ ገጽ ሁሉንም ሁኔታዎች አንድ ላይ ስለሚያደባልቅ፣ ትዕዛዙ አሁንም በመጠባበቅ ላይ እንደሆነ፣ አስቀድሞ እንደደረሰ፣ ወይም እንደተሰረዘ እርግጠኛ ካልሆኑ የተወሰነ ትዕዛዝ ለመፈለግ ምርጡ ቦታ ይህ ነው።\n\nእንደ ሌላው ቦታ ሁሉ ተመሳሳይ ደንቦች እዚህም ይሠራሉ፦ የክፍያ ዘዴ ሳይመርጡ ትዕዛዝን «ደርሷል» ብሎ ማመልከት እስኪመርጡ ድረስ ማስቀመጥ አይሳካም፣ ትዕዛዝን «ደርሷል» ብሎ ማመልከት ለደንበኛውና ለቢሮው በራስ-ሰር የማረጋገጫ ኢሜይሎችን ይልካል፣ የምርት ዝርዝርን ማርትዕ በነባሩ ላይ ከመጨመር ይልቅ ነባሩን ይተካል፣ እና በ«ደርሷል» ትዕዛዝ ላይ አዲስ ደረሰኝ መስቀል ነባሩን ይተካል።"
+        }
+      ]
+    }
+  }
+}

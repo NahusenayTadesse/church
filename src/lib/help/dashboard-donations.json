@@ -1,0 +1,69 @@
+{
+  "path": "/dashboard/donations",
+  "title": "Donations",
+  "summary": "See every donation that has come in, search and filter the list, and update or delete individual donation records.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This page lists every donation transaction the church has received. Each row is one gift from one donor, along with the details of how and when it was given. Use this page to look up a specific donation, check on recurring gifts, or review giving for a particular cause, bank, or account."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "You can search the table using the search box, or narrow the list down using the filter panel by Status, Cause, Recurring (yes/no), Bank, Account Received In, and Donor Name.\n\n- Update a donation's Status directly from the table, for example marking it as confirmed once you've verified it landed in the account.\n- Delete a donation record using the Delete button on its row.\n- Click a donor's Phone, Email, or Txn Ref (transaction reference code) to copy it to your clipboard.\n- Click a long Message to expand and read the donor's full note."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "# - the row number.\n\nDonor - the name of the person who gave. If they chose to give anonymously, this shows \"Anonymous\" instead of their name.\n\nPhone and Email - the donor's contact details, if they provided them. Click either one to copy it.\n\nAmount - how much was given, shown with its currency, for example \"1,000.00 ETB\".\n\nBank Sent At - the bank the donor sent the money from.\n\nAccount Received In - which of the church's accounts the money arrived in.\n\nCause - the specific fund or campaign the donor chose to give toward, such as a building fund or mission trip. If they didn't pick one, this shows \"General\".\n\nRecurring - whether this is a repeating gift (for example \"Monthly\") or a \"One-time\" gift.\n\nNext Charge - for recurring gifts, the date the next payment is expected.\n\nMessage - any note the donor left with their gift. Click to expand if it's long.\n\nTxn Ref - a reference code for the transaction, useful when checking against bank records. Click to copy.\n\nDonated At - the date the donation was made.\n\nStatus - the current state of the donation (for example pending or confirmed). This can be changed right in the table."
+    },
+    {
+      "heading": "Good to know",
+      "body": "Deleting a donation record cannot be undone, so only delete a record if you're certain it's a mistake or duplicate, not simply because a donor asked to be anonymous (use the Donor field's built-in anonymous display for that instead).\n\nChanging a donation's Status right in the table takes effect immediately - there is no separate confirmation step, so double-check you clicked the right row before changing it."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Donations",
+      "summary": "See every donation that has come in, search and filter the list, and update or delete individual donation records.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This page lists every donation transaction the church has received. Each row is one gift from one donor, along with the details of how and when it was given. Use this page to look up a specific donation, check on recurring gifts, or review giving for a particular cause, bank, or account."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "You can search the table using the search box, or narrow the list down using the filter panel by Status, Cause, Recurring (yes/no), Bank, Account Received In, and Donor Name.\n\n- Update a donation's Status directly from the table, for example marking it as confirmed once you've verified it landed in the account.\n- Delete a donation record using the Delete button on its row.\n- Click a donor's Phone, Email, or Txn Ref (transaction reference code) to copy it to your clipboard.\n- Click a long Message to expand and read the donor's full note."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "# - the row number.\n\nDonor - the name of the person who gave. If they chose to give anonymously, this shows \"Anonymous\" instead of their name.\n\nPhone and Email - the donor's contact details, if they provided them. Click either one to copy it.\n\nAmount - how much was given, shown with its currency, for example \"1,000.00 ETB\".\n\nBank Sent At - the bank the donor sent the money from.\n\nAccount Received In - which of the church's accounts the money arrived in.\n\nCause - the specific fund or campaign the donor chose to give toward, such as a building fund or mission trip. If they didn't pick one, this shows \"General\".\n\nRecurring - whether this is a repeating gift (for example \"Monthly\") or a \"One-time\" gift.\n\nNext Charge - for recurring gifts, the date the next payment is expected.\n\nMessage - any note the donor left with their gift. Click to expand if it's long.\n\nTxn Ref - a reference code for the transaction, useful when checking against bank records. Click to copy.\n\nDonated At - the date the donation was made.\n\nStatus - the current state of the donation (for example pending or confirmed). This can be changed right in the table."
+        },
+        {
+          "heading": "Good to know",
+          "body": "Deleting a donation record cannot be undone, so only delete a record if you're certain it's a mistake or duplicate, not simply because a donor asked to be anonymous (use the Donor field's built-in anonymous display for that instead).\n\nChanging a donation's Status right in the table takes effect immediately - there is no separate confirmation step, so double-check you clicked the right row before changing it."
+        }
+      ]
+    },
+    "am": {
+      "title": "ልገሳዎች",
+      "summary": "የገቡትን ልገሳዎች ሁሉ ይመልከቱ፣ ዝርዝሩን ይፈልጉ እና ያጣሩ፣ እንዲሁም እያንዳንዱን የልገሳ መዝገብ ያዘምኑ ወይም ይሰርዙ።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "ይህ ገጽ ቤተክርስቲያኗ የተቀበለቻቸውን ልገሳዎች ሁሉ ዝርዝር ያሳያል። እያንዳንዱ ረድፍ ከአንድ ለጋሽ የተሰጠ አንድ ስጦታ ሲሆን፣ እንዴት እና መቼ እንደተሰጠ ዝርዝር መረጃንም ይይዛል። ይህን ገጽ የተወሰነ ልገሳን ለመፈለግ፣ ተደጋጋሚ ልገሳዎችን ለመከታተል፣ ወይም ለተወሰነ ዓላማ፣ ባንክ ወይም አካውንት የተሰጡ ልገሳዎችን ለመገምገም ይጠቀሙበት።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "የፍለጋ ሳጥኑን በመጠቀም ሰንጠረዡን መፈለግ ይችላሉ፣ ወይም በማጣሪያ ፓነሉ በኩል ዝርዝሩን በሁኔታ (Status)፣ በዓላማ (Cause)፣ ተደጋጋሚ ስለመሆኑ (አዎ/አይደለም)፣ በባንክ፣ በተቀበለበት አካውንት እና በለጋሽ ስም ማጥበብ ይችላሉ።\n\n- የልገሳን ሁኔታ (Status) በቀጥታ ከሰንጠረዡ ውስጥ ማዘመን ይችላሉ፣ ለምሳሌ ገንዘቡ አካውንቱ ውስጥ መግባቱን ካረጋገጡ በኋላ እንደተረጋገጠ ምልክት ማድረግ።\n- በእያንዳንዱ ረድፍ ላይ ባለው የመሰረዣ (Delete) አዝራር የልገሳ መዝገብን መሰረዝ ይችላሉ።\n- የለጋሹን ስልክ ቁጥር፣ ኢሜይል ወይም የግብይት ማጣቀሻ ቁጥር (Txn Ref) ጠቅ በማድረግ ኮፒ ማድረግ ይችላሉ።\n- ረጅም መልዕክትን ጠቅ በማድረግ ሙሉውን የለጋሹን ማስታወሻ ማስፋት እና ማንበብ ይችላሉ።"
+        },
+        {
+          "heading": "የመስኮች ማብራሪያ",
+          "body": "# - የረድፍ ቁጥር።\n\nለጋሽ (Donor) - የሰጠው ሰው ስም። ማንነቱ/ቷ ሳይገለጽ መስጠትን ከመረጠ/ች፣ ስም ፋንታ \"Anonymous\" (ስም-አልባ) ተብሎ ይታያል።\n\nስልክ እና ኢሜይል - ለጋሹ ካቀረበ/ች የመገናኛ ዝርዝሮች። ለመቅዳት ማንኛውንም ጠቅ ያድርጉ።\n\nመጠን (Amount) - ምን ያህል እንደተሰጠ ከምንዛሬው ጋር ይታያል፣ ለምሳሌ \"1,000.00 ETB\"።\n\nየተላከበት ባንክ (Bank Sent At) - ለጋሹ ገንዘቡን የላከበት ባንክ።\n\nየተቀበለበት አካውንት (Account Received In) - ገንዘቡ የገባበት የቤተክርስቲያኗ አካውንት የትኛው እንደሆነ።\n\nዓላማ (Cause) - ለጋሹ ገንዘቡ እንዲውል የመረጠው የተወሰነ ፈንድ ወይም ዘመቻ፣ ለምሳሌ የግንባታ ፈንድ ወይም የሚሲዮን ጉዞ። ካልመረጠ/ች \"General\" (አጠቃላይ) ተብሎ ይታያል።\n\nተደጋጋሚ (Recurring) - ይህ ተደጋጋሚ ስጦታ ነው (ለምሳሌ \"Monthly\"/ወርሃዊ) ወይስ \"One-time\" (አንድ ጊዜ ብቻ) ስጦታ ነው።\n\nቀጣይ ክፍያ (Next Charge) - ለተደጋጋሚ ስጦታዎች፣ ቀጣዩ ክፍያ የሚጠበቅበት ቀን።\n\nመልዕክት (Message) - ለጋሹ ከስጦታው ጋር ያስቀመጠው ማንኛውም ማስታወሻ። ረጅም ከሆነ ጠቅ አድርገው ያስፉት።\n\nየግብይት ማጣቀሻ (Txn Ref) - ከባንክ መዝገቦች ጋር ለማመሳከር የሚያገለግል የግብይት ማጣቀሻ ኮድ። ለመቅዳት ጠቅ ያድርጉ።\n\nየተለገሰበት ቀን (Donated At) - ልገሳው የተፈጸመበት ቀን።\n\nሁኔታ (Status) - የልገሳው አሁናዊ ሁኔታ (ለምሳሌ በመጠባበቅ ላይ ወይም የተረጋገጠ)። ይህ በቀጥታ ከሰንጠረዡ ውስጥ ሊቀየር ይችላል።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆኑ ነገሮች",
+          "body": "የልገሳ መዝገብን መሰረዝ መልሶ ሊቀር አይችልም፣ ስለዚህ መዝገቡ ስህተት ወይም ድግግሞሽ መሆኑን እርግጠኛ ሲሆኑ ብቻ ይሰርዙት እንጂ ለጋሹ ስም-አልባ እንዲሆን ስለጠየቀ ብቻ አይደለም (ለዚያ የለጋሽ መስኩ ራሱ ያለውን ስም-አልባ አማራጭ ይጠቀሙ)።\n\nየልገሳን ሁኔታ (Status) በቀጥታ ከሰንጠረዡ ውስጥ መቀየር ወዲያውኑ ተግባራዊ ይሆናል - ተጨማሪ ማረጋገጫ ደረጃ የለም፣ ስለዚህ ከመቀየርዎ በፊት ትክክለኛውን ረድፍ እንደመረጡ ሁለት ጊዜ ያረጋግጡ።"
+        }
+      ]
+    }
+  }
+}

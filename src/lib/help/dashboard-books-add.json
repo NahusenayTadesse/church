@@ -1,0 +1,69 @@
+{
+  "match": "/dashboard/books/add-book",
+  "title": "Add / Edit a Book",
+  "summary": "The shared form used both to add a brand-new book and to change the details of one already in the catalog.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This is the form you use to add a new book to the catalog, or to come back and update the details of a book that's already there. Both cases use the same form — when editing, it simply loads up already filled in with that book's current information."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "Title (required) and Subtitle (optional). Slug (required) — the short, web-friendly version of the title used in the book's web address; it fills in automatically as you type the Title, unless you edit it yourself.\n\nAuthor — pick the writer from the team dropdown. If the author isn't a staff member on the system, an \"Author Name\" text box appears so you can simply type their name instead.\n\nLanguage and Ministry Area — pick from their dropdown lists. Description — a rich text editor for the full write-up. Cover Image (required) — the picture shown for this book everywhere on the site.\n\nPublication Date, Pages (a number), and ISBN.\n\nPrice (a number) — this is used as the default price for any format below that doesn't have its own separate price set. Currency — pick from the dropdown. External Store Link — a web address if the book is also sold somewhere else, such as Amazon.\n\nFormats — a format only counts as actually available once you've uploaded its file, even if its checkbox is ticked:\n- Print — a checkbox, with an optional separate Print Price.\n- PDF File — upload the file; a \"Free PDF\" checkbox, and if left unchecked, an optional PDF Price.\n- Ebook File — upload an EPUB or MOBI file; a \"Free Ebook\" checkbox, and if left unchecked, an optional Ebook Price.\n- Audiobook File — upload the audio file; a \"Free Audiobook\" checkbox, and if left unchecked, an optional Audiobook Price.\n- Preview File — an optional free sample chapter people can read or listen to before buying.\n\nStatus (required, e.g. draft or published) and the \"Feature on the homepage\" checkbox."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "Fill in the fields above and click \"Add Book\" to save. You don't need to fill in every format — only add the ones you actually have a file for. If you leave a format's own price field blank, that format simply uses the main book Price you set above instead."
+    },
+    {
+      "heading": "Good to know",
+      "body": "If you try to leave the page with unsaved changes, you'll be asked to confirm first. Take care with the Cover Image and Description, since these are what customers see first when browsing the bookstore on the public site."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Add / Edit a Book",
+      "summary": "The shared form used both to add a brand-new book and to change the details of one already in the catalog.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This is the form you use to add a new book to the catalog, or to come back and update the details of a book that's already there. Both cases use the same form — when editing, it simply loads up already filled in with that book's current information."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "Title (required) and Subtitle (optional). Slug (required) — the short, web-friendly version of the title used in the book's web address; it fills in automatically as you type the Title, unless you edit it yourself.\n\nAuthor — pick the writer from the team dropdown. If the author isn't a staff member on the system, an \"Author Name\" text box appears so you can simply type their name instead.\n\nLanguage and Ministry Area — pick from their dropdown lists. Description — a rich text editor for the full write-up. Cover Image (required) — the picture shown for this book everywhere on the site.\n\nPublication Date, Pages (a number), and ISBN.\n\nPrice (a number) — this is used as the default price for any format below that doesn't have its own separate price set. Currency — pick from the dropdown. External Store Link — a web address if the book is also sold somewhere else, such as Amazon.\n\nFormats — a format only counts as actually available once you've uploaded its file, even if its checkbox is ticked:\n- Print — a checkbox, with an optional separate Print Price.\n- PDF File — upload the file; a \"Free PDF\" checkbox, and if left unchecked, an optional PDF Price.\n- Ebook File — upload an EPUB or MOBI file; a \"Free Ebook\" checkbox, and if left unchecked, an optional Ebook Price.\n- Audiobook File — upload the audio file; a \"Free Audiobook\" checkbox, and if left unchecked, an optional Audiobook Price.\n- Preview File — an optional free sample chapter people can read or listen to before buying.\n\nStatus (required, e.g. draft or published) and the \"Feature on the homepage\" checkbox."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "Fill in the fields above and click \"Add Book\" to save. You don't need to fill in every format — only add the ones you actually have a file for. If you leave a format's own price field blank, that format simply uses the main book Price you set above instead."
+        },
+        {
+          "heading": "Good to know",
+          "body": "If you try to leave the page with unsaved changes, you'll be asked to confirm first. Take care with the Cover Image and Description, since these are what customers see first when browsing the bookstore on the public site."
+        }
+      ]
+    },
+    "am": {
+      "title": "መጽሐፍ ያክሉ / ያርትዑ",
+      "summary": "ሙሉ በሙሉ አዲስ መጽሐፍ ለማከል እና በካታሎግ ውስጥ ያለን መጽሐፍ ዝርዝሮች ለመቀየር በጋራ የሚያገለግል ቅጽ።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "አዲስ መጽሐፍ ወደ ካታሎግ ለማከል፣ ወይም ተመልሰው መጥተው አስቀድሞ ያለን መጽሐፍ ዝርዝሮች ለማዘመን የሚጠቀሙበት ቅጽ ይህ ነው። ሁለቱም ሁኔታዎች ተመሳሳይ ቅጽ ይጠቀማሉ — ሲያርትዑ፣ ቅጹ በቀላሉ በዚያ መጽሐፍ አሁናዊ መረጃ ተሞልቶ ይጫናል።"
+        },
+        {
+          "heading": "መስኮቹ በዝርዝር",
+          "body": "ርዕስ (የግድ) እና ንዑስ ርዕስ (አማራጭ)። ስሉግ (የግድ) — በመጽሐፉ ድረ-ገጽ አድራሻ ውስጥ የሚያገለግል የርዕሱ አጭር፣ ለድረ-ገጽ ተስማሚ ስሪት፤ ርዕሱን ሲተይቡ በራስ-ሰር ይሞላል፣ እርስዎ እራስዎ ካላርትዑት በስተቀር።\n\nደራሲ — ጸሃፊውን ከቡድን ተቆልቋይ ይምረጡ። ደራሲው በስርዓቱ ውስጥ ሰራተኛ ካልሆነ፣ ስማቸውን በቀላሉ እንዲተይቡ \"የደራሲ ስም\" የጽሁፍ ሳጥን ይታያል።\n\nቋንቋ እና የአገልግሎት ዘርፍ — ከተቆልቋይ ዝርዝሮቻቸው ይምረጡ። መግለጫ — ለሙሉ ጽሁፍ የበለጸገ የጽሁፍ አርታኢ። የሽፋን ምስል (የግድ) — በድረ-ገጹ ላይ በሁሉም ቦታ ለዚህ መጽሐፍ የሚታይ ምስል።\n\nየህትመት ቀን፣ ገጾች (ቁጥር)፣ እና ISBN።\n\nዋጋ (ቁጥር) — ከዚህ በታች ለየትኛውም ቅርጸት የራሱ የተለየ ዋጋ ላልተዘጋጀ እንደ ነባሪ ዋጋ ያገለግላል። ገንዘብ ዓይነት — ከተቆልቋይ ይምረጡ። የውጪ መደብር ማገናኛ — መጽሐፉ እንደ አማዞን ባለ ሌላ ቦታም የሚሸጥ ከሆነ የድረ-ገጽ አድራሻ።\n\nቅርጸቶች — ሳጥኑ ምልክት ቢደረግበትም እንኳ ፋይሉን እስኪጭኑ ድረስ ቅርጸት እንደ ትክክለኛ የሚገኝ አይቆጠርም፡\n- Print — ሳጥን፣ ከአማራጭ የተለየ የህትመት ዋጋ ጋር።\n- PDF File — ፋይሉን ይጫኑ፤ \"ነጻ PDF\" ሳጥን፣ ካልተጫነ ደግሞ አማራጭ የ PDF ዋጋ።\n- Ebook File — EPUB ወይም MOBI ፋይል ይጫኑ፤ \"ነጻ Ebook\" ሳጥን፣ ካልተጫነ ደግሞ አማራጭ የ Ebook ዋጋ።\n- Audiobook File — የድምጽ ፋይሉን ይጫኑ፤ \"ነጻ Audiobook\" ሳጥን፣ ካልተጫነ ደግሞ አማራጭ የ Audiobook ዋጋ።\n- Preview File — ሰዎች ከመግዛታቸው በፊት ሊያነቡ ወይም ሊያዳምጡ የሚችሉት አማራጭ ነጻ ናሙና ምዕራፍ።\n\nስቴተስ (የግድ፣ ለምሳሌ ረቂቅ ወይም የታተመ) እና \"በመነሻ ገጽ ላይ አቅርብ\" ሳጥን።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "ከላይ ያሉትን መስኮች ይሙሉ እና ለማስቀመጥ \"መጽሐፍ ያክሉ\" የሚለውን ይጫኑ። ሁሉንም ቅርጸቶች መሙላት አያስፈልግዎትም — ፋይል ያለዎትን ብቻ ያክሉ። የአንድ ቅርጸት የራሱን የዋጋ መስክ ባዶ ከተውት፣ ያ ቅርጸት ከላይ ያዘጋጁትን ዋናውን የመጽሐፍ ዋጋ ብቻ ይጠቀማል።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆነው",
+          "body": "ያልተቀመጡ ለውጦች ካሉዎት ገጹን ለቀው ለመውጣት ከሞከሩ መጀመሪያ እንዲያረጋግጡ ይጠየቃሉ። ደንበኞች በህዝባዊ ድረ-ገጹ ላይ የመጽሐፍ መደብርን ሲያስሱ መጀመሪያ የሚያዩት ስለሆነ በሽፋን ምስል እና በመግለጫው ጥንቃቄ ያድርጉ።"
+        }
+      ]
+    }
+  }
+}

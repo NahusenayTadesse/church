@@ -1,0 +1,69 @@
+{
+  "match": "/dashboard/events/add-event",
+  "title": "Add / Edit an Event",
+  "summary": "The shared form used both to create a brand-new event and to change the details of one that already exists.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This is the form you use whenever you need to create a new event, or come back to change one you already created. It's the same form either way — when you're editing, it simply starts out already filled in with that event's current details."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "Event Name (required) — what people will see. As you type it, the Slug field fills in automatically with a short, web-friendly version of the name, unless you've already edited the slug yourself.\n\nSlug (required, and you can edit it) — the short version of the name used in the event's web address.\n\nEvent Type (required) and Ministry Area (optional) — pick from the dropdown lists.\n\nShort Description (required) — a brief line used in listings and cards around the site. Full Description — a larger text editor for the complete write-up, with formatting options.\n\nFeatured Image (required) — the main photo representing the event.\n\nStarts At (required date and time) and Ends At (optional — leave this blank for a single-session event with no defined end time). Timezone — choose from the dropdown.\n\nThe \"Online\" checkbox controls whether the event happens on the internet or in person. If checked, you must provide a Meeting Link (a Zoom, Google Meet, or YouTube web address). If left unchecked, you must provide a Venue (for example, \"Millennium Hall, Addis Ababa\") and may optionally add a Map Link.\n\nOrganizer — pick the person responsible, from the dropdown of people. Speakers — tick the checkboxes for anyone who is speaking at this event (only people already flagged as speakers appear in this list).\n\nThe \"Registration\" checkbox (\"Attendees must register\") reveals two more fields when turned on: Registration Closes (optional — if left blank, registrations are accepted right up until the event starts) and Capacity (optional — leave blank for unlimited seats).\n\nThe \"Free\" checkbox controls cost. If you uncheck it, you must set a Cost amount and choose a Currency.\n\nGallery Images (optional) — add several extra photos. Brochure/Schedule (optional) — upload a PDF if you have one.\n\nStatus (required, e.g. draft or published) and the \"Feature on the homepage\" checkbox, which highlights the event on the public homepage."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "Fill in the fields described above and click \"Add Event\" to save. Some fields only appear once you make a related choice — for example, the Meeting Link field only shows up once you check \"Online\", and the Venue field only shows up when you leave it unchecked. This is expected and simply keeps the form focused on what's relevant to your event."
+    },
+    {
+      "heading": "Good to know",
+      "body": "If you try to leave the page while you have unsaved changes, you'll be asked to confirm first, so you don't lose your work by accident. Take your time filling in the description and image — these are what visitors will see first when browsing events on the public site."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Add / Edit an Event",
+      "summary": "The shared form used both to create a brand-new event and to change the details of one that already exists.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This is the form you use whenever you need to create a new event, or come back to change one you already created. It's the same form either way — when you're editing, it simply starts out already filled in with that event's current details."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "Event Name (required) — what people will see. As you type it, the Slug field fills in automatically with a short, web-friendly version of the name, unless you've already edited the slug yourself.\n\nSlug (required, and you can edit it) — the short version of the name used in the event's web address.\n\nEvent Type (required) and Ministry Area (optional) — pick from the dropdown lists.\n\nShort Description (required) — a brief line used in listings and cards around the site. Full Description — a larger text editor for the complete write-up, with formatting options.\n\nFeatured Image (required) — the main photo representing the event.\n\nStarts At (required date and time) and Ends At (optional — leave this blank for a single-session event with no defined end time). Timezone — choose from the dropdown.\n\nThe \"Online\" checkbox controls whether the event happens on the internet or in person. If checked, you must provide a Meeting Link (a Zoom, Google Meet, or YouTube web address). If left unchecked, you must provide a Venue (for example, \"Millennium Hall, Addis Ababa\") and may optionally add a Map Link.\n\nOrganizer — pick the person responsible, from the dropdown of people. Speakers — tick the checkboxes for anyone who is speaking at this event (only people already flagged as speakers appear in this list).\n\nThe \"Registration\" checkbox (\"Attendees must register\") reveals two more fields when turned on: Registration Closes (optional — if left blank, registrations are accepted right up until the event starts) and Capacity (optional — leave blank for unlimited seats).\n\nThe \"Free\" checkbox controls cost. If you uncheck it, you must set a Cost amount and choose a Currency.\n\nGallery Images (optional) — add several extra photos. Brochure/Schedule (optional) — upload a PDF if you have one.\n\nStatus (required, e.g. draft or published) and the \"Feature on the homepage\" checkbox, which highlights the event on the public homepage."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "Fill in the fields described above and click \"Add Event\" to save. Some fields only appear once you make a related choice — for example, the Meeting Link field only shows up once you check \"Online\", and the Venue field only shows up when you leave it unchecked. This is expected and simply keeps the form focused on what's relevant to your event."
+        },
+        {
+          "heading": "Good to know",
+          "body": "If you try to leave the page while you have unsaved changes, you'll be asked to confirm first, so you don't lose your work by accident. Take your time filling in the description and image — these are what visitors will see first when browsing events on the public site."
+        }
+      ]
+    },
+    "am": {
+      "title": "ዝግጅት ያክሉ / ያርትዑ",
+      "summary": "ሙሉ በሙሉ አዲስ ዝግጅት ለመፍጠር እና አስቀድሞ ያለን ዝግጅት ዝርዝሮች ለመቀየር በጋራ የሚያገለግል ቅጽ።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "አዲስ ዝግጅት መፍጠር በሚያስፈልግዎት ጊዜ ወይም አስቀድመው የፈጠሩትን ዝግጅት ለመቀየር ተመልሰው በሚመጡበት ጊዜ የሚጠቀሙበት ቅጽ ይህ ነው። በሁለቱም ሁኔታዎች ተመሳሳይ ቅጽ ነው — ሲያርትዑ፣ ቅጹ በቀላሉ በዚያ ዝግጅት አሁናዊ ዝርዝሮች ተሞልቶ ይጀምራል።"
+        },
+        {
+          "heading": "መስኮቹ በዝርዝር",
+          "body": "የዝግጅት ስም (የግድ) — ሰዎች የሚያዩት። እየተየቡ ሲሄዱ፣ የስሉግ መስክ በራስ-ሰር በስሙ አጭር፣ ለድረ-ገጽ ተስማሚ በሆነ ስሪት ይሞላል፣ ስሉጉን እራስዎ ካላርትዑት በስተቀር።\n\nስሉግ (የግድ፣ ማርትዕ ይችላሉ) — በዝግጅቱ ድረ-ገጽ አድራሻ ውስጥ የሚያገለግል የስሙ አጭር ስሪት።\n\nየዝግጅት ዓይነት (የግድ) እና የአገልግሎት ዘርፍ (አማራጭ) — ከተቆልቋይ ዝርዝሮች ይምረጡ።\n\nአጭር መግለጫ (የግድ) — በድረ-ገጹ ዙሪያ ባሉ ዝርዝሮች እና ካርዶች ውስጥ የሚያገለግል አጭር መስመር። ሙሉ መግለጫ — ለሙሉ ጽሁፍ የቅርጸት አማራጮች ያለው ትልቅ የጽሁፍ አርታኢ።\n\nተለይቶ የቀረበ ምስል (የግድ) — ዝግጅቱን የሚወክል ዋና ፎቶ።\n\nይጀምራል በ (የግድ ቀን እና ሰዓት) እና ያበቃል በ (አማራጭ — ግልጽ የማብቂያ ጊዜ ለሌለው ነጠላ-ክፍለ ጊዜ ዝግጅት ባዶ ይተውት)። የሰዓት ክልል — ከተቆልቋይ ይምረጡ።\n\n\"Online\" የሚለው ሳጥን ዝግጅቱ በኢንተርኔት ላይ ወይም በአካል እንደሚካሄድ ይቆጣጠራል። ከተጫነ፣ የስብሰባ ማገናኛ (የዙም፣ ጉግል ሚት፣ ወይም ዩቲዩብ ድረ-ገጽ አድራሻ) ማቅረብ አለብዎት። ካልተጫነ፣ ቦታ (ለምሳሌ፣ \"ሚሌኒየም አዳራሽ፣ አዲስ አበባ\") ማቅረብ አለብዎት እና በአማራጭ የካርታ ማገናኛ ማከል ይችላሉ።\n\nአዘጋጅ — ከሰዎች ተቆልቋይ ውስጥ ኃላፊውን ይምረጡ። ተናጋሪዎች — በዚህ ዝግጅት ላይ ለሚናገር ማንኛውም ሰው ሳጥኖቹን ይምቱ (በዚህ ዝርዝር ውስጥ የሚታዩት አስቀድሞ እንደ ተናጋሪ የተያዙ ሰዎች ብቻ ናቸው)።\n\n\"ምዝገባ\" ሳጥን (\"ተሳታፊዎች መመዝገብ አለባቸው\") ሲበራ ሁለት ተጨማሪ መስኮችን ያሳያል፡ የምዝገባ መዝጊያ (አማራጭ — ባዶ ከተተወ፣ ምዝገባዎች ዝግጅቱ እስኪጀምር ድረስ ይቀበላሉ) እና አቅም (አማራጭ — ላልተወሰነ መቀመጫ ባዶ ይተውት)።\n\n\"ነጻ\" ሳጥን ዋጋን ይቆጣጠራል። ካልተጫኑት፣ የዋጋ መጠን እና ገንዘብ ዓይነት ማዘጋጀት አለብዎት።\n\nየጋለሪ ምስሎች (አማራጭ) — ብዙ ተጨማሪ ፎቶዎችን ያክሉ። ብሮሹር/መርሃ ግብር (አማራጭ) — ካለዎት PDF ይጫኑ።\n\nስቴተስ (የግድ፣ ለምሳሌ ረቂቅ ወይም የታተመ) እና \"በመነሻ ገጽ ላይ አቅርብ\" ሳጥን፣ ዝግጅቱን በህዝባዊ መነሻ ገጽ ላይ ጎላ አድርጎ ያሳያል።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "ከላይ የተገለጹትን መስኮች ይሙሉ እና ለማስቀመጥ \"ዝግጅት ያክሉ\" የሚለውን ይጫኑ። አንዳንድ መስኮች ተዛማጅ ምርጫ ካደረጉ በኋላ ብቻ ይታያሉ — ለምሳሌ፣ የስብሰባ ማገናኛ መስክ \"Online\"ን ካረጋገጡ በኋላ ብቻ ይታያል፣ የቦታ መስክ ደግሞ ካልተጫኑት ብቻ ይታያል። ይህ የሚጠበቅ ነው እና ቅጹን ከዝግጅትዎ ጋር ተዛማጅ በሆነው ላይ ብቻ ያተኩራል።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆነው",
+          "body": "ያልተቀመጡ ለውጦች እያሉ ገጹን ለቀው ለመውጣት ከሞከሩ፣ ስራዎን በአጋጣሚ እንዳያጡ መጀመሪያ እንዲያረጋግጡ ይጠየቃሉ። መግለጫውን እና ምስሉን በመሙላት ጊዜ ይውሰዱ — በህዝባዊ ድረ-ገጽ ላይ ዝግጅቶችን ሲያስሱ ጎብኚዎች መጀመሪያ የሚያዩት ይህንን ነው።"
+        }
+      ]
+    }
+  }
+}

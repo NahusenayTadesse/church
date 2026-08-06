@@ -1,0 +1,69 @@
+{
+  "path": "/dashboard/admin-panel",
+  "title": "Admin Panel",
+  "summary": "The starting point for managing dashboard staff accounts and the roles that control what they're allowed to do.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This page is a simple menu, not a data table. It gives you two links that take you deeper into managing who can use the dashboard and what they can do there: \"Users\" and \"Roles\"."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "- Click \"Users\" to see and manage individual staff accounts - the people who can log into this dashboard.\n- Click \"Roles\" to see and manage the permission groups (roles) that staff members belong to, and to control exactly what each role is allowed to do."
+    },
+    {
+      "heading": "A quick note on roles and permissions",
+      "body": "Think of a \"permission\" as a single specific ability, like \"can delete donations\" or \"can add new users.\" A \"role\" is simply a named bundle of many permissions grouped together, like \"Admin\" or \"Editor.\" Every staff member is assigned to exactly one role, and they automatically get every permission that role has. You never set permissions on a person directly - you always go through their role."
+    },
+    {
+      "heading": "Good to know",
+      "body": "Because permissions live on roles rather than on individual people, the Roles section is where real access control happens, and the Users section is where you manage the people themselves and which role each of them belongs to."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Admin Panel",
+      "summary": "The starting point for managing dashboard staff accounts and the roles that control what they're allowed to do.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This page is a simple menu, not a data table. It gives you two links that take you deeper into managing who can use the dashboard and what they can do there: \"Users\" and \"Roles\"."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "- Click \"Users\" to see and manage individual staff accounts - the people who can log into this dashboard.\n- Click \"Roles\" to see and manage the permission groups (roles) that staff members belong to, and to control exactly what each role is allowed to do."
+        },
+        {
+          "heading": "A quick note on roles and permissions",
+          "body": "Think of a \"permission\" as a single specific ability, like \"can delete donations\" or \"can add new users.\" A \"role\" is simply a named bundle of many permissions grouped together, like \"Admin\" or \"Editor.\" Every staff member is assigned to exactly one role, and they automatically get every permission that role has. You never set permissions on a person directly - you always go through their role."
+        },
+        {
+          "heading": "Good to know",
+          "body": "Because permissions live on roles rather than on individual people, the Roles section is where real access control happens, and the Users section is where you manage the people themselves and which role each of them belongs to."
+        }
+      ]
+    },
+    "am": {
+      "title": "የአስተዳደር ፓነል",
+      "summary": "የዳሽቦርድ ሰራተኞችን አካውንቶች እና ምን ማድረግ እንደሚችሉ የሚቆጣጠሩ ሚናዎችን (roles) ለማስተዳደር መነሻ ገጽ።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "ይህ ገጽ ቀላል ማውጫ (menu) ነው፣ የመረጃ ሰንጠረዥ አይደለም። ወደ ዳሽቦርዱ መግባት የሚችሉትን እና ምን ማድረግ እንደሚችሉ ለማስተዳደር ጥልቅ ወደሆኑ ሁለት ማገናኛዎች ይወስድዎታል፦ \"Users\" (ተጠቃሚዎች) እና \"Roles\" (ሚናዎች)።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "- ወደ ዳሽቦርዱ መግባት የሚችሉ ግለሰብ ሰራተኞችን አካውንቶች ለማየት እና ለማስተዳደር \"Users\" ን ጠቅ ያድርጉ።\n- ሰራተኞች የሚመደቡባቸውን የፈቃድ ቡድኖች (ሚናዎች) ለማየት እና ለማስተዳደር፣ እንዲሁም እያንዳንዱ ሚና በትክክል ምን ማድረግ እንደሚችል ለመቆጣጠር \"Roles\" ን ጠቅ ያድርጉ።"
+        },
+        {
+          "heading": "ስለ ሚናዎች እና ፈቃዶች አጭር ማብራሪያ",
+          "body": "\"ፈቃድ\" (permission) ማለት እንደ \"ልገሳዎችን መሰረዝ መቻል\" ወይም \"አዲስ ተጠቃሚ መጨመር መቻል\" ያለ አንድ የተወሰነ ችሎታ ነው ብለው ያስቡ። \"ሚና\" (role) ማለት ደግሞ እንደ \"Admin\" ወይም \"Editor\" ባለ ስም ስር ተሰብስበው የተያዙ ብዙ ፈቃዶች ስብስብ ብቻ ነው። እያንዳንዱ ሰራተኛ ልክ ለአንድ ሚና ብቻ ይመደባል፣ እናም ያ ሚና ያለውን ፈቃድ ሁሉ በራስ-ሰር ያገኛል። በግለሰብ ላይ በቀጥታ ፈቃድ አያስቀምጡም - ሁልጊዜ በሚናቸው በኩል ነው የሚያልፈው።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆኑ ነገሮች",
+          "body": "ፈቃዶች በግለሰቦች ላይ ሳይሆን በሚናዎች ላይ ስለሚኖሩ፣ Roles (ሚናዎች) ክፍል ትክክለኛ የመዳረሻ ቁጥጥር የሚደረግበት ቦታ ነው፣ Users (ተጠቃሚዎች) ክፍል ደግሞ ግለሰቦቹን ራሳቸውንና እያንዳንዳቸው የትኛው ሚና ላይ እንደሚገኙ የሚያስተዳድሩበት ነው።"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "path": "/dashboard/partners",
+  "title": "Partners List",
+  "summary": "The main list of every partner organization or sponsor, with quick stats and a table you can filter, sort, and click into.",
+  "sections": [
+    {
+      "heading": "What this page is for",
+      "body": "This page shows every partner organization and sponsor connected to the church — all in one place. It's the starting point for browsing existing partners, checking which ones appear on the homepage, or creating a new one."
+    },
+    {
+      "heading": "What you can do here",
+      "body": "At the top you'll see quick stats: the total number of partners, how many appear on the homepage, how many are linked to at least one project, and how many are missing a logo.\n\nClick \"Add New Partner\" to create a new one. Use the filter menu to narrow the list by partnership type, homepage status, engagement (such as whether they're linked to a project), or whether they have a logo uploaded. The table can be sorted by column, and clicking any row opens that partner's own page."
+    },
+    {
+      "heading": "The fields, explained",
+      "body": "Each row in the table summarizes one partner — its name, type, and other key details at a glance. This list page itself has no fields to fill in, only filters to help you find the partner you're after; open a partner to see or change its full details."
+    },
+    {
+      "heading": "Good to know",
+      "body": "If there are no partners yet, you'll see a message in place of the table along with an \"Add New Partner\" button. Keep an eye on the \"missing a logo\" stat, since partners set to show on the homepage but without a logo will leave a visible gap in the homepage partner strip."
+    }
+  ],
+  "languages": {
+    "en": {
+      "title": "Partners List",
+      "summary": "The main list of every partner organization or sponsor, with quick stats and a table you can filter, sort, and click into.",
+      "sections": [
+        {
+          "heading": "What this page is for",
+          "body": "This page shows every partner organization and sponsor connected to the church — all in one place. It's the starting point for browsing existing partners, checking which ones appear on the homepage, or creating a new one."
+        },
+        {
+          "heading": "What you can do here",
+          "body": "At the top you'll see quick stats: the total number of partners, how many appear on the homepage, how many are linked to at least one project, and how many are missing a logo.\n\nClick \"Add New Partner\" to create a new one. Use the filter menu to narrow the list by partnership type, homepage status, engagement (such as whether they're linked to a project), or whether they have a logo uploaded. The table can be sorted by column, and clicking any row opens that partner's own page."
+        },
+        {
+          "heading": "The fields, explained",
+          "body": "Each row in the table summarizes one partner — its name, type, and other key details at a glance. This list page itself has no fields to fill in, only filters to help you find the partner you're after; open a partner to see or change its full details."
+        },
+        {
+          "heading": "Good to know",
+          "body": "If there are no partners yet, you'll see a message in place of the table along with an \"Add New Partner\" button. Keep an eye on the \"missing a logo\" stat, since partners set to show on the homepage but without a logo will leave a visible gap in the homepage partner strip."
+        }
+      ]
+    },
+    "am": {
+      "title": "የአጋሮች ዝርዝር",
+      "summary": "ሁሉንም አጋር ድርጅቶች ወይም ስፖንሰሮች የያዘ ዋና ዝርዝር ገጽ ሲሆን ፈጣን ስታትስቲክስ እና ማጣራት፣ መደርደር እና መክፈት የሚችሉት ሰንጠረዥ አለው።",
+      "sections": [
+        {
+          "heading": "ይህ ገጽ ለምን ነው",
+          "body": "ይህ ገጽ ከቤተክርስቲያኗ ጋር የተያያዙ ሁሉንም አጋር ድርጅቶች እና ስፖንሰሮች — በአንድ ቦታ ያሳያል። ነባር አጋሮችን ለማየት፣ የትኞቹ በመነሻ ገጽ ላይ እንደሚታዩ ለመመልከት ወይም አዲስ ለመፍጠር መነሻ ነው።"
+        },
+        {
+          "heading": "እዚህ ምን ማድረግ ይችላሉ",
+          "body": "ከላይ ፈጣን ስታትስቲክስ ያያሉ፡ አጠቃላይ የአጋሮች ብዛት፣ በመነሻ ገጽ ላይ የሚታዩት ስንት እንደሆኑ፣ ቢያንስ ከአንድ ፕሮጀክት ጋር የተያያዙት ስንት እንደሆኑ፣ እና አርማ የሌላቸው ስንት እንደሆኑ።\n\nአዲስ ለመፍጠር \"አዲስ አጋር ጨምር\" ን ይጫኑ። የማጣሪያ ምናሌውን በመጠቀም ዝርዝሩን በአጋርነት አይነት፣ በመነሻ ገጽ ሁኔታ፣ በተሳትፎ (ለምሳሌ ከፕሮጀክት ጋር የተያያዙ መሆናቸው) ወይም አርማ የተሰቀለላቸው መሆኑ ማጥበብ ይችላሉ። ሰንጠረዡ በአምድ መደርደር ይችላል፣ እና ማንኛውንም ረድፍ በመጫን ወደዚያ አጋር ገጽ ይሂዱ።"
+        },
+        {
+          "heading": "መስኮቹ በዝርዝር",
+          "body": "በሰንጠረዡ ውስጥ ያለው እያንዳንዱ ረድፍ የአንድ አጋር ማጠቃለያ ነው — ስሙ፣ አይነቱ እና ሌሎች ቁልፍ ዝርዝሮች በአንድ እይታ። ይህ የዝርዝር ገጽ ራሱ የሚሞላ መስክ የለውም፣ የሚፈልጉትን አጋር ለማግኘት የሚረዱ ማጣሪያዎች ብቻ ነው ያለው፤ ሙሉ ዝርዝሮቹን ለማየት ወይም ለመቀየር አጋሩን ይክፈቱ።"
+        },
+        {
+          "heading": "ማወቅ ጠቃሚ የሆነው",
+          "body": "እስካሁን ምንም አጋሮች ከሌሉ፣ በሰንጠረዡ ምትክ መልእክት እና \"አዲስ አጋር ጨምር\" የሚል ቁልፍ ያያሉ። \"አርማ የሌላቸው\" የሚለውን ስታትስቲክስ ይከታተሉ፣ ምክንያቱም በመነሻ ገጽ ላይ እንዲታዩ የተዘጋጁ ግን አርማ የሌላቸው አጋሮች በመነሻ ገጽ የአጋሮች ረድፍ ላይ የሚታይ ክፍተት ይተዋሉ።"
+        }
+      ]
+    }
+  }
+}

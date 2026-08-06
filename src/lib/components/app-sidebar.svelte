@@ -21,9 +21,9 @@
 
 		BanknoteArrowDown,
 
-		Coins
+		Coins,
 
-
+		CircleHelp
 
 	} from '@lucide/svelte';
 	import * as Sidebar from '$lib/components/ui/sidebar/index.js';
@@ -37,7 +37,10 @@
 	const navigation = [
 		{
 			section: null,
-			items: [{ title: 'Dashboard', url: '/dashboard', icon: LayoutDashboard }]
+			items: [
+				{ title: 'Dashboard', url: '/dashboard', icon: LayoutDashboard },
+				{ title: 'Help', url: '/dashboard/help', icon: CircleHelp }
+			]
 		},
 		{
 			section: 'Operations',
